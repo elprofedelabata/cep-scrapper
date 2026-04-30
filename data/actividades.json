@@ -1,5 +1,5 @@
 {
-  "generado": "2026-04-30T22:32:57.002346+00:00",
+  "generado": "2026-04-30T23:53:30.788900+00:00",
   "total": 465,
   "actividades": [
     {
@@ -3639,18 +3639,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
     },
     {
-      "Código": "262321GE025",
-      "Título": "RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "05/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE025/"
-    },
-    {
       "Código": "262922GE166",
       "Título": "COMPOSICIONES FLORALES ATADAS Y EN BASES: EL ESTILO CLÁSICO Y ACTUAL",
       "CEP": "29200014 - CEP Málaga",
@@ -3781,6 +3769,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE097/"
+    },
+    {
+      "Código": "262321GE025",
+      "Título": "RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "05/05/2026",
+      "Fin": "20/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE025/"
     },
     {
       "Código": "262922GE161",
