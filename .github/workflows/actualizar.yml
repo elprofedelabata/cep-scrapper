@@ -36,5 +36,6 @@ jobs:
           git add data/ docs/
           git diff --staged --quiet && echo "Sin cambios" || (
             git commit -m "Actualizar actividades $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           )
