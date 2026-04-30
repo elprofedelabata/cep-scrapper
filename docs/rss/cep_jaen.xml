@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Jaén</description>
     <language>es</language>
-    <lastBuildDate>Thu, 30 Apr 2026 21:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 22:32:57 +0000</lastBuildDate>
     <item>
       <title>262318FC024 — PCT PARA EL REFUERZO DE LA COMPETENCIA MATEMÁTICA EN EL CEIP RUIZ JIMÉNEZ</title>
       <description>23200016 - CEP Jaén | Formación en centros | 02/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -14,7 +14,7 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>262318GT010 — "El Evangelio nos abraza a todos: atención a la diversidad en Religión Católica"</title>
+      <title>262318GT010 — &quot;El Evangelio nos abraza a todos: atención a la diversidad en Religión Católica&quot;</title>
       <description>23200016 - CEP Jaén | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GT010/</link>
       <guid isPermaLink="false">262318GT010</guid>
@@ -77,13 +77,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262318GE097 — APRENDER A LEER DESDE LA NEUROCIENCIA EN EDUCACIÓN INFANTIL Y PRIMER CICLO DE PRIMARIA</title>
-      <description>23200016 - CEP Jaén | Curso | 06/05/2026 → 27/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE097/</link>
-      <guid isPermaLink="false">262318GE097</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>262318GE105 — RED  PROFESIONAL DE PT</title>
       <description>23200016 - CEP Jaén | Curso | 21/01/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE105/</link>
@@ -105,11 +98,11 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>269918KPF582 — GENERADOR DE SDA (CON PE Y ACS) A TRAVÉS DE IA (INFANTIL Y PRIMARIA)</title>
-      <description>23200016 - CEP Jaén | Curso a Distancia | 06/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269918KPF582/</link>
-      <guid isPermaLink="false">269918KPF582</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+      <title>262318GE097 — APRENDER A LEER DESDE LA NEUROCIENCIA EN EDUCACIÓN INFANTIL Y PRIMER CICLO DE PRIMARIA</title>
+      <description>23200016 - CEP Jaén | Curso | 06/05/2026 → 27/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE097/</link>
+      <guid isPermaLink="false">262318GE097</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>262318GE092 — JORNADAS PARA EL APRENDIZAJE Y LA ENSEÑANZA DE LAS MATEMÁTICAS</title>
@@ -138,6 +131,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE129/</link>
       <guid isPermaLink="false">262318GE129</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>269918KPF582 — GENERADOR DE SDA (CON PE Y ACS) A TRAVÉS DE IA (INFANTIL Y PRIMARIA)</title>
+      <description>23200016 - CEP Jaén | Curso a Distancia | 06/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269918KPF582/</link>
+      <guid isPermaLink="false">269918KPF582</guid>
+      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

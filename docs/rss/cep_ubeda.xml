@@ -5,14 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Úbeda</description>
     <language>es</language>
-    <lastBuildDate>Thu, 30 Apr 2026 21:33:19 +0000</lastBuildDate>
-    <item>
-      <title>262320GE040 — APRENDIZAJE-SERVICIO (APS) EN TECNOLOGÍA: EMPRENDIMIENTO SOCIAL</title>
-      <description>23200031 - CEP Úbeda | Curso a Distancia | 07/05/2026 → 18/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/</link>
-      <guid isPermaLink="false">262320GE040</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 22:32:57 +0000</lastBuildDate>
     <item>
       <title>262320GE041 — INVESTIGACIÓN-ACCIÓN EN EL LABORATORIO DE CIENCIAS</title>
       <description>23200031 - CEP Úbeda | Curso a Distancia | 18/05/2026 → 26/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
@@ -49,11 +42,25 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
+      <title>262320GE060 — JORNADAS PROVINCIALES DE BIBLIOTECA</title>
+      <description>23200031 - CEP Úbeda | Jornadas | 12/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/</link>
+      <guid isPermaLink="false">262320GE060</guid>
+      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
+    </item>
+    <item>
       <title>262320GE001 — ATENCIÓN TEMPRANA EN EL ÁMBITO EDUCATIVO</title>
       <description>23200031 - CEP Úbeda | Curso | 07/05/2026 → 12/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE001/</link>
       <guid isPermaLink="false">262320GE001</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>262320GE040 — APRENDIZAJE-SERVICIO (APS) EN TECNOLOGÍA: EMPRENDIMIENTO SOCIAL</title>
+      <description>23200031 - CEP Úbeda | Curso a Distancia | 07/05/2026 → 18/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/</link>
+      <guid isPermaLink="false">262320GE040</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
