@@ -2,7 +2,8 @@ name: Actualizar actividades CEP
 
 on:
   schedule:
-    - cron: "0 7 * * *"   # 07:00 UTC = 08:00 hora España (invierno 08:00, verano 09:00)
+    - cron: "0 6 * 4-10 *"    # Abr-Oct (CEST = UTC+2): 06:00 UTC → 08:00 España
+    - cron: "0 7 * 1-3,11,12 *"  # Nov-Mar (CET = UTC+1):  07:00 UTC → 08:00 España
   workflow_dispatch:        # permite lanzarlo manualmente desde GitHub
 
 jobs:
