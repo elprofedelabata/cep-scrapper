@@ -9,6 +9,7 @@ import os
 import re
 from collections import defaultdict
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from xml.dom import minidom
 from xml.etree.ElementTree import Element, SubElement, tostring
 
@@ -23,10 +24,10 @@ PROVINCIA_NOMBRE = {
 }
 
 BADGE_COLOR = {
-    "Abierto plazo solicitudes":       "#d8315b",  # magenta-bloom — acción inmediata
-    "En proyecto":                     "#3e92cc",  # blue-bell
-    "Finalizado plazo solicitudes":    "#0a2463",  # imperial-blue
-    "Actividad en desarrollo":         "#1a6b3c",  # verde propio
+    "Abierto plazo solicitudes":       "#E76F51",  # énfasis — acción inmediata
+    "En proyecto":                     "#15616D",  # principal
+    "Finalizado plazo solicitudes":    "#264653",  # secundario
+    "Actividad en desarrollo":         "#1a6b3c",  # verde
     "Publicadas Listas Provisionales": "#7b5ea7",  # violeta
     "Publicadas Listas Definitivas":   "#555",     # gris neutro
 }
@@ -238,10 +239,33 @@ SVG_RSS = ('<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" '
            '<path fill="currentColor" d="M6.18 17.82a2.18 2.18 0 1 1-4.36 0a2.18 2.18 0 0 1 4.36 0M2 9.5v3.1a9.4 9.4 0 0 1 9.4 9.4h3.1C14.5 15.1 8.9 9.5 2 9.5M2 2v3.1c9.33 0 16.9 7.57 16.9 16.9H22C22 10.95 13.05 2 2 2"/>'
            '</svg>')
 
-SVG_LOGO = ('<svg class="site-logo" xmlns="http://www.w3.org/2000/svg" '
-            'xml:space="preserve" viewBox="0 0 14.26 14.26" aria-hidden="true" focusable="false">'
-            '<circle cx="7.13" cy="7.13" r="7.13" fill="var(--ghost-white)"/>'
-            '<path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M7.01.01C5.22.12 4.03.58 2.7 1.54c-.18.14-.68.59-.81.74-.04.04-.06.08-.11.12C1.3 2.91.85 3.65.57 4.29c-.81 1.82-.74 4.01.1 5.81.35.75 1.04 1.74 1.71 2.29l.24.21c.4.35 1.14.79 1.65 1.03.84.4 1.91.64 3 .63 1.07-.01 2.1-.3 2.91-.7.66-.33 1.1-.62 1.61-1.06.09-.08.16-.13.24-.21.09-.1.14-.13.22-.22.34-.42.39-.4.79-.98.24-.35.45-.74.63-1.15.36-.86.62-1.9.59-2.94-.04-1.53-.45-2.79-1.28-4-.14-.2-.25-.32-.39-.5l-.32-.36c-.32-.31-.71-.66-1.09-.91-.35-.23-.72-.46-1.16-.63C9.17.25 8.06-.06 7.01.01zM4.63 10.72c-.02.01 0 .01-.04.02l-.39.03c-.15.02-.31.04-.45.07l-.45 1.92c1.09-.18 2.23-.08 3.16.49.29.17.5.36.71.54.03-.03.04-.04.08-.07.34-.36 1.01-.68 1.49-.84.88-.28 1.42-.21 2.25-.13l-.46-1.91c-.14-.03-.75-.1-.79-.12.07-.06.37-.17.46-.23.07-.04.11-.14.08-.26-.02-.11-.09-.13-.19-.18-.63-.28-1.34-.64-1.95-.91-1.18-.52-.77-.52-1.49-.21-.69.3-1.78.81-2.46 1.14-.19.09-.24.31-.05.42.16.09.34.15.49.23zm4.08.34c-.27.08-1.4.73-1.55.7-.15-.02-1.43-.72-1.56-.71 0 .96-.21.74 1.04 1.33.6.28.36.44.75.19.23-.16.53-.31.8-.43.64-.28.52-.24.52-1.08zm-4.06-.76c.75.35 1.51.72 2.25 1.08.35.17.22.17.57.01.19-.09.38-.18.56-.27.19-.1.37-.19.57-.28.09-.04.18-.08.27-.13.09-.05.2-.08.28-.13v.61c-.02.07-.06.06-.08.15-.01.08.03.08.03.16s-.12.47-.08.55c.03.05 0 .03.08.06.12.05.28.04.36-.04.06-.07-.02-.38-.05-.49-.05-.18.05-.14.01-.27-.04-.11-.08-.01-.08-.23v-.6l.35-.17c-.05-.07-2.49-1.2-2.52-1.2-.07.01-2.47 1.15-2.52 1.19zm6.16-5.28c.2.25.41.75.52 1.1.36 1.15.17 2.3-.41 3.33-.11.2-.24.33-.35.49.03.07.07.15.11.2.28-.34.46-.62.68-1.09.51-1.11.46-2.5-.07-3.61l-.3-.56c.04-.08.24-.19.33-.26.11-.07.24-.16.35-.24.1-.07.64-.47.72-.48.33.5.65 1.29.78 1.97.37 1.95-.12 3.8-1.38 5.3l-.7.71c.02.1.09.45.14.51.9-.72 1.67-1.66 2.2-3.08.51-1.36.51-3.12-.01-4.48-.27-.71-.52-1.16-.92-1.71-.36-.5-.82-.95-1.32-1.33C8.81 0 5.53.07 3.12 1.81c-.07.05-.11.09-.18.15l-.36.3c-.25.22-.6.59-.8.86C.48 4.89.08 7.24.85 9.3c.33.89.44 1.01.91 1.72.06.11.51.65.6.73.14.12.22.2.34.32.03.04.31.27.38.31l.12-.5-.72-.72c-.68-.75-1.19-1.88-1.4-2.92-.35-1.82.26-3.77 1.28-4.98.13-.15.37-.44.52-.56.73-.66 1.53-1.16 2.57-1.45.86-.24 1.72-.29 2.64-.18.72.09 1.64.42 2.16.76 0 .07-.14.3-.19.39-.08.13-.15.25-.22.39-.06.1-.41.74-.45.76-.25-.07-.49-.26-1.07-.4-1.07-.27-2.14-.15-3.14.3-.18.08-.31.17-.47.25-.09-.02-.33-.23-.64-.01-.27.2-.12.52-.11.61-.04.05-.08.08-.13.13-.06.05-.07.08-.13.14-.19.19-.52.7-.64.95-.25.54-.4.98-.46 1.64-.12 1.28.41 2.43 1.04 3.15l.06-.08c.02-.04.03-.05.05-.09-.12-.24-.39-.41-.71-1.27-.52-1.4-.16-3.09.82-4.17l.24-.26c.1.01.13.06.29.06.11 0 .2-.04.27-.09.2-.14.17-.27.17-.53.61-.36 1.29-.62 2.14-.66.79-.04 1.73.17 2.3.51.03.06-.02.09-.07.18-.03.06-.08.13-.11.19L8.5 4.97c-.03.05-.02.05-.06.07-.24-.07-.35-.21-.9-.29-2.05-.29-3.76 1.81-2.81 3.79.14.29.2.33.36.53.05.06.09.09.15.14l.18-.08a.436.436 0 0 0-.13-.14c-.31-.3-.56-.92-.61-1.34-.11-1.18.62-2.26 1.79-2.61.6-.18 1.36-.1 1.85.18.04.07-.1.24-.17.37-.08.13-.15.25-.22.38l-.38.66c-.03.05-.02.05-.08.07-.22-.05-.34-.09-.58 0-.54.21-.7.89-.25 1.29.27.25.74.27 1.03.03.23-.19.41-.61.19-.98.03-.06.08-.08.16-.13l.53-.37c.11-.07.23-.15.34-.23.08-.06.28-.22.37-.23.28.47.44 1.01.36 1.66-.07.54-.42 1.12-.72 1.36.05.06.14.1.2.11.77-.76 1.05-2.17.33-3.24.02-.06 0-.03.07-.09l.95-.65c.06-.04.11-.08.17-.12.06-.04.12-.09.19-.09z"/>'
+SVG_AVATAR = ('<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" '
+              'viewBox="0 0 117.96 117.96" aria-hidden="true" focusable="false" '
+              'style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;'
+              'image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd">'
+              '<circle cx="58.98" cy="58.98" r="58.98" style="fill:#fff"/>'
+              '<g>'
+              '<path d="M57.29 71.03h4.46c1.25 0 2.62.34 2.62 1.57 0 .68-1.47.91-2.1 1.05 0 1.3-.46 3.32.44 4.95l1.61 2.06c1.33 1.7 3.9 4.42 4.96 5.79 1 1.29 4.28 4.54 4.28 6.62 0 1.84-.33 2.67-2.1 3.55-2.66 1.31-9.61.65-12.6.65l-8.66.13c-2.67 0-5.64-.91-5.64-3.54 0-2.44.71-3.16 2.39-5.22 1.05-1.29 2.04-2.45 3.08-3.75.54-.67 1.01-1.18 1.54-1.87 1.06-1.35 4.14-4.39 4.14-6.09l-.13-3.28c-.64-.15-1.57-.51-2.1-.78.47-.98-.35-1.84 3.81-1.84zm21.38 2.23c-4.4 0-5.99-1.84-9.79-4.11-.37-.22-.64-.37-.99-.59-2.76-1.74-5.65-2.78-9.16-2.78-5.5 0-9.8 3.89-13.69 5.86-1.7.87-2.8 1.62-5.2 1.62-3.6 0-5.94-3.26-6.87-6.25-.58-1.84-1.22-6.05-1.65-8.19-.2-1.04-.44-1.8-.66-2.75-.46.34-1 1.75-1.23 2.45-.17.5-.34.95-.45 1.38-2.1 7.75-1.1 16.91 2.03 24.16 1.69 3.91 3.96 7.37 6.36 10.57 1.82 2.43 1.86 2 2.96 3.33.19.23.24.38.46.58.24.22.32.22.59.46l2.23 1.97c.82.68 1.65 1.23 2.53 1.81.79.53 1.75 1.08 2.66 1.53 12.28 6.1 24.01.27 31.97-9.93 1.16-1.47 2.61-3.38 3.54-4.99 3.3-5.74 5.78-13.06 5.78-19.94 0-3.62.04-5.07-.89-8.68-.41-1.57-.85-3.88-2.26-4.83-.25 3.05-1.01 8.09-1.92 10.81-.94 2.8-2.89 6.51-6.35 6.51z" style="fill:#254552"/>'
+              '<path d="M38.92 23.54c-.78-.21-1.8-1.29-2.28-1.92a9.28 9.28 0 0 0-2.18-2.02c0 3.32.79 5.01.79 6.69-2.22.52-4.15 1.56-5.29 3.5-1.32 2.23-1.43 3.88-1.87 6.92-.27 1.85-.12 6.43.15 8.27.2 1.4.77 6.43 1.76 7.16.48-.9.55-2.69.77-3.82.6-3 1.06-2.94 3.62-3.34 1.02-.16 1.11-.03 1.44-.92 1.11-2.95 3.05-7.59 5.6-9.62.66-.52 1.34-1.04 2.2-1.35 5.42-1.92 11.37.28 16.89 1.65 1.09.27 1.94.55 3.07.74 5.77.95 12.28-.11 15.64 3.37.56.57 1.09 1.56 1.5 2.31l1.31 2.49c.65 1.32.77 1.13 2.33 1.48 3.37.76 2.49 2.96 3.3 6.14.14.56.21 1.12.58 1.39.1-.43.29-.75.44-1.26.67-2.26.71-4.09.74-6.35.01-.74.14-.92.14-1.7l-.19-3.36c-.31-2.16-.85-3.83-1.65-5.43L85.1 30.1c.34-1.47 4.33-6.11 4.33-10.37 0-.88-.37-2.83-.65-3.41-.73.35-5.36 1.97-6.43 1.97-3.21 0-4.59-.46-7.5-1.43-8.8-2.91-14.31-7.01-24.67-5.28-1.85.31-4.24 1.34-5.51 2.23-2.32 1.63-4.12 3.74-5.03 6.51-.27.81-.72 2.27-.72 3.22z" style="fill:#254652"/>'
+              '<path d="M72.11 63.16c-4.31 0-8.39-3.44-8.39-7.48 0-3 .21-4.64 2.52-6.92 4.66-4.61 14.4-1.86 14.4 6 0 2.17-.77 3.83-1.98 5.36-.72.91-1.9 1.83-2.98 2.27-.92.38-2.23.77-3.57.77zm-25.58 0c-1.94 0-2.7.04-4.51-.87-6.53-3.33-6.87-15.79 4.64-15.79 1.14 0 2.37.42 3.15.78.6.28 1.91 1.24 2.31 1.76 2.08 2.69 2.96 5.77 1.63 9.13-1.12 2.85-4.27 4.99-7.22 4.99zM33.02 49.25c0 3.26 1.33 1.62 2 5.73.46 2.78.73 5.64 3.13 7.64.72.6 1.16 1.11 2.04 1.63 3.06 1.81 6.51 2.23 9.92.78 3.44-1.45 6.79-5.11 6.79-9.09 0-2.01-.27-3.5-.27-4.98 1.58-.13 1.69-.64 3.66-.25.5.1.61.23 1.2.25 0 4.41-1.66 7.55 3.18 12.03 5.29 4.91 14.7 3.65 17.43-3.88.55-1.51 1.08-5.62 1.67-6.47.69-1.02 1.09-1.2 1.24-2.82.37-3.76-3.09-1.89-5-3.09-1.3-.81-4.04-2.24-5.53-2.6-2.24-.54-4.72-.39-6.9.58-3.29 1.47-2.41 3.2-7.25 2.68-2.34-.24-4.76.22-5.89-.28l-2.75-1.58c-8.07-4.41-12.13.96-14.29 1.54-2.31.63-4.38-.64-4.38 2.18zM54.66 90.18c.14.52.7.63 1.42.95.33.15.16.13.55.23-.04.56-.15.44-.26.92-.89-.02-1.4-.45-1.97-.78-.87-.49-1.18-.33-1.18-1.71.49-.11.96-.5 1.49-.74.79-.37 1.09-.57 1.79-.57 0 .9.06.88-.76 1.2-.41.16-.71.41-1.08.5zm7.22-1.83c.57.04 3.02 1.15 3.02 2.1 0 .57-3.59 2.6-3.34 1.24.13-.71 1.66-.63 1.9-1.51-.54-.14-1.51-.87-1.97-1.18.15-.29.22-.39.39-.65zm-3.54 5.9c-1.76 0-.68-1.03.28-3.92l.97-2.57c.49-1.2 1.11-.31 1.11-.07 0 .68-2.13 5.55-2.36 6.56zm-11.81-.52c0 1.19 1.56 1.44 2.64 1.55 1.97.21 11.21.23 12.71.15 1.98-.1.48-.21 2.89-.01 1.21.1 4.15-.05 5.11-.26 3.11-.67 1.31-3.44.04-4.88l-1.42-1.6c-1.61-2.05-1.99-2.32-3.47-4.53-.37.18-.89.19-1.39.32-.5.12-.94.26-1.41.42-3.65 1.2-5.08-.83-8.75-1.13-1.39 2.07-6.95 7.67-6.95 9.97z" style="fill:#299c8e"/>'
+              '<path d="M40.23 54.1c0 .88-.15 1.55.68 1.23.36-.14.4-.31.55-.66.47-1.15.92-2.15 1.76-3.09.15-.17 1.99-1.8.56-1.8-1.71 0-3.55 2.44-3.55 4.32zM66.47 54.24c1.18-.28 1.38-1.79 1.97-2.75.56-.92 1.56-1.71 1.84-2.9-1.44 0-2.15.34-3.17 1.82-.98 1.42-.96 2.46-.64 3.83z" style="fill:#299c8e"/>'
+              '</g>'
+              '</svg>')
+
+SVG_LOGO = ('<svg class="site-logo" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" '
+            'viewBox="0 0 8.16 8.16" aria-hidden="true" focusable="false" '
+            'style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;'
+            'image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd">'
+            '<defs><style>.fil0{fill:#2a9d8f}.fil1{fill:#2b2a29}</style></defs>'
+            '<g>'
+            '<circle cx="4.08" cy="4.08" r="4.08" fill="#fff"/>'
+            '<path d="m2.53 6.28-.52.06c-.05.09-.24 1.01-.28 1.19.07 0 .43-.05.73-.04.24.01.45.05.66.11.62.17.87.51 1 .56.48-.5 1.28-.71 1.97-.66.11.01.25.04.35.03l-.27-1.16c-.03-.02 0-.01-.06-.02l-.17-.03c-.08-.01-.16-.03-.24-.04.08-.06.21-.1.27-.15.06-.05.1-.18-.08-.26-.21-.1-.39-.19-.59-.28-.17-.08-1.11-.55-1.22-.54-.08.01-1.63.73-1.8.82-.09.05-.17.18-.05.26.09.07.22.09.3.15zm2.52.46v-.25c-.24.1-.84.43-.95.42-.15 0-.72-.37-.96-.42 0 .41-.07.48.27.64.2.09.45.19.6.31.11.09.19 0 .29-.06.22-.14.43-.21.61-.31.12-.08.14-.13.14-.33zm-2.47-.71.66.32c.23.11.46.21.68.33.24.13.21.09.7-.15.14-.07.57-.29.69-.33v.25c0 .19-.02.13-.04.21l-.03.46c.11.05.18.05.27-.02 0-.04-.03-.43-.04-.47-.05-.17-.04-.28-.03-.48l.2-.12c-.07-.06-1.45-.72-1.53-.73-.05 0-.68.3-.77.34l-.76.39z" class="fil0"/>'
+            '<path d="M5.98.83c.16.05.29.17.4.25.07.05.11.1.18.15.26.22.58.55.74.87.19.24.43.92.49 1.3.21 1.29-.16 2.43-1.03 3.33-.26.27-.27.22-.23.38.01.07.03.13.05.19.22-.11.68-.66.8-.82.21-.31.41-.66.55-1.07.46-1.28.23-2.78-.59-3.83-.21-.26-.35-.41-.59-.62C5.28-.31 3.18-.27 1.64.8c-.08.06-.15.11-.22.18-.27.25-.33.27-.6.62-.23.3-.42.65-.57 1.05-.47 1.23-.27 2.77.55 3.83.05.08.11.14.17.22.11.15.48.51.63.59.03-.2.11-.26.04-.34-.32-.34-.31-.24-.65-.72-.22-.3-.46-.83-.57-1.26-.27-1.13-.01-2.1.49-2.93.22-.37.53-.67.87-.93.96-.76 2.39-1 3.58-.58.15.05.55.22.62.3z" class="fil1"/>'
+            '<path d="M5.46 1.77c-.01.03-.01.05-.03.07-.04.05.01.02-.05.03 0 .1-.19.38-.24.47-.05.09-.21.41-.26.45-.02.07-.03.09-.08.11-.02.12-.18.36-.24.47-.05.09-.21.39-.27.44l.12.09c.05.03.07.07.12.12 0-.01.01-.01.01-.01l.08-.07c.17-.11.66-.47.77-.5.01-.04 0-.03.04-.06.03-.01.04-.01.07-.01 0-.07.11-.11.17-.15.12-.09.56-.42.67-.43 0-.05.05-.09.11-.08.03-.08.12-.12.19-.16.08-.06.15-.11.22-.16.13-.09.3-.22.44-.29-.16-.32-.48-.65-.74-.87-.07-.05-.11-.1-.18-.15-.11-.08-.24-.2-.4-.25-.04.1-.06.14-.12.24-.04.08-.09.15-.13.24-.09.17-.19.31-.27.46z" class="fil0"/>'
+            '<path d="M4.53 4.02c-.05-.05-.07-.09-.12-.12l-.12-.09c-.11-.01-.41-.11-.59.19-.31.49.33.93.69.63.31-.25.15-.53.14-.61z" class="fil1"/>'
+            '<path d="M4.8 2.9c.05-.02.06-.04.08-.11-.2-.06-.31-.13-.54-.17-1.31-.19-2.3 1.17-1.73 2.32.06.13.22.36.31.41l.1-.04c-.05-.1-.14-.13-.28-.39-.07-.15-.13-.33-.16-.51-.12-.89.66-1.76 1.69-1.67.25.03.33.09.53.16zM2.22 2.32a.196.196 0 0 0-.09-.09c-.46.48-.76 1.02-.83 1.75-.03.39.03.78.16 1.12.05.14.33.71.49.81L2 5.82c-.06-.16-.25-.29-.43-.79-.12-.32-.17-.69-.13-1.06.03-.36.13-.67.27-.95.17-.33.28-.44.51-.7zM6.34 2.79c.15.27.21.33.31.67.21.7.1 1.42-.25 2.04-.06.11-.15.2-.21.3.02.05.04.09.06.12.07-.06.16-.21.22-.3.07-.1.13-.22.19-.34.27-.57.28-1.23.12-1.82-.12-.43-.23-.5-.33-.75-.06-.01-.11.03-.11.08zM2.6 1.85c.02.06.03.09.08.11.21-.09.23-.14.58-.26.21-.07.47-.12.71-.13.27-.01.54.01.78.07.41.1.41.16.63.23.06-.01.01.02.05-.03.02-.02.02-.04.03-.07-.51-.17-.75-.36-1.47-.33-.28.02-.5.06-.75.14-.37.11-.42.18-.64.27zM5.39 3.44c.12.32.28.51.21 1.02-.07.49-.33.68-.43.84l.1.05c.33-.21.56-.95.43-1.51-.06-.21-.13-.31-.2-.47-.03 0-.04 0-.07.01-.04.03-.03.02-.04.06z" class="fil1"/>'
+            '<path d="M2.13 2.23c.05.03.06.04.09.09.13.03.24.06.35-.02.13-.09.08-.17.11-.34-.05-.02-.06-.05-.08-.11-.14-.01-.21-.13-.39 0-.15.11-.1.2-.08.38z" class="fil0"/>'
+            '</g>'
             '</svg>')
 
 
@@ -259,7 +283,8 @@ def card_html(a):
     <div class="card"
          data-cep="{slug(nombre_cep(a.get('CEP','')))}"
          data-modalidad="{slug(a.get('Modalidad',''))}"
-         data-estado="{slug(a.get('Estado',''))}">
+         data-estado="{slug(a.get('Estado',''))}"
+         data-dirigido="{slug(a.get('Dirigido a',''))}">
       <div class="card-header">
         <span class="codigo">{a.get('Código','')}</span>
         {badge(estado)}
@@ -292,17 +317,22 @@ def panel_filtros_html(por_cep, actividades):
         )
         cep_cols += f'<div class="prov-col"><strong>{nombre_prov}</strong>{items}</div>'
 
-    # Modalidades y estados únicos presentes en los datos
-    modalidades = sorted({a.get("Modalidad", "") for a in actividades if a.get("Modalidad")})
-    estados     = sorted({a.get("Estado", "")    for a in actividades if a.get("Estado")})
+    # Modalidades, estados y destinatarios únicos presentes en los datos
+    modalidades = sorted({a.get("Modalidad", "")   for a in actividades if a.get("Modalidad")})
+    estados     = sorted({a.get("Estado", "")      for a in actividades if a.get("Estado")})
+    dirigidos   = sorted({a.get("Dirigido a", "")  for a in actividades if a.get("Dirigido a")})
 
-    modal_items  = "".join(
+    modal_items   = "".join(
         f'<label><input type="checkbox" class="f-modal" value="{slug(m)}" onchange="filtrar()"> {m}</label>'
         for m in modalidades
     )
-    estado_items = "".join(
+    estado_items  = "".join(
         f'<label><input type="checkbox" class="f-estado" value="{slug(e)}" onchange="filtrar()"> {e}</label>'
         for e in estados
+    )
+    dirigido_items = "".join(
+        f'<label><input type="checkbox" class="f-dirigido" value="{slug(d)}" onchange="filtrar()"> {d}</label>'
+        for d in dirigidos
     )
 
     return f"""
@@ -314,6 +344,10 @@ def panel_filtros_html(por_cep, actividades):
     <section>
       <h4>{SVG_MODAL} Modalidad</h4>
       <div class="opciones-row">{modal_items}</div>
+    </section>
+    <section>
+      <h4>{SVG_DIRIGIDO} Dirigido a</h4>
+      <div class="opciones-row">{dirigido_items}</div>
     </section>
     <section>
       <h4>{SVG_ESTADO} Estado</h4>
@@ -331,22 +365,27 @@ def panel_rss_html(por_cep):
     for prov in sorted(por_provincia, key=lambda p: PROVINCIA_NOMBRE.get(p, p)):
         nombre_prov = PROVINCIA_NOMBRE.get(prov, prov)
         items = "".join(
-            f'<a href="rss/{slug(nombre_cep(c))}.xml">'
-            f'<span>{nombre_cep(c)}</span></a>'
+            f'<button onclick="copiarRSS(\'rss/{slug(nombre_cep(c))}.xml\')">'
+            f'<span>{nombre_cep(c)}</span></button>'
             for c in por_provincia[prov]
         )
         rss_cols += f'<div class="rss-prov-col"><strong>{nombre_prov}</strong>{items}</div>'
 
     return f"""
   <div id="panel-rss" class="panel-rss hidden">
-    <section>
-      <h4>{SVG_RSS} Feeds RSS</h4>
-      <a class="rss-primary" href="rss/todas.xml">
-        <span>Todas las actividades</span>
-      </a>
+    <section class="rss-intro">
+      <h4>{SVG_RSS} ¿Qué es RSS?</h4>
+      <p>RSS es un sistema de suscripción: en lugar de volver a revisar esta web cada día, <strong>tu lector RSS te avisa automáticamente</strong> cuando aparezcan actividades nuevas.</p>
+      <p>Puedes usar lectores gratuitos como <strong>Feedly</strong>, <strong>Inoreader</strong> o la extensión <strong>RSS Feed Reader</strong> para Chrome y Firefox. Pulsa el enlace del feed que te interese y pégalo en tu lector.</p>
     </section>
     <section>
-      <h4>Por CEP</h4>
+      <h4>Feed general</h4>
+      <button class="rss-primary" onclick="copiarRSS('rss/todas.xml')">
+        {SVG_RSS} <span>Todas las actividades de Andalucía</span>
+      </button>
+    </section>
+    <section>
+      <h4>Feed por CEP — suscríbete solo a tu centro</h4>
       <div class="rss-grid">{rss_cols}</div>
     </section>
   </div>"""
@@ -356,7 +395,10 @@ def generar_html(actividades, por_cep, generado):
     cards = "\n".join(card_html(a) for a in actividades)
     panel = panel_filtros_html(por_cep, actividades)
     rss_panel = panel_rss_html(por_cep)
-    dt    = datetime.fromisoformat(generado).strftime("%d/%m/%Y %H:%M UTC")
+    dt    = (datetime.fromisoformat(generado)
+             .replace(tzinfo=timezone.utc)
+             .astimezone(ZoneInfo("Europe/Madrid"))
+             .strftime("%d/%m/%Y %H:%M"))
     total = len(actividades)
 
     return f"""<!DOCTYPE html>
@@ -370,30 +412,44 @@ def generar_html(actividades, por_cep, generado):
   <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap" rel="stylesheet">
   <style>
     :root {{
-      --imperial-blue: #0a2463;
-      --blue-bell:     #3e92cc;
-      --ghost-white:   #fffaff;
-      --magenta-bloom: #d8315b;
-      --text:          #1a1a2e;
-      --text-muted:    #5a5a72;
-      --border:        #dde3f0;
-      --bg:            #f0f2f8;
+      --imperial-blue: #15616D;
+      --blue-bell:     #264653;
+      --ghost-white:   #FFFFFF;
+      --magenta-bloom: #E76F51;
+      --text:          #333333;
+      --text-muted:    #6b7c80;
+      --border:        #cfdee0;
+      --bg:            #eef4f4;
     }}
     *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
     body {{ font-family: "Domine", Georgia, serif; background: var(--bg); color: var(--text); }}
     input, button {{ font: inherit; }}
 
+    .sticky-top {{
+      position: sticky;
+      top: 0;
+      z-index: 30;
+    }}
     header {{
       background: var(--imperial-blue);
       color: var(--ghost-white);
-      padding: 1.5rem 2rem;
+      padding: 1.5rem 2rem 1rem;
       border-bottom: 4px solid var(--magenta-bloom);
       display: flex;
+      flex-wrap: wrap;
       align-items: center;
       justify-content: space-between;
-      gap: 1.5rem;
+      gap: 1rem 1.5rem;
       position: relative;
       z-index: 20;
+    }}
+    .header-tagline {{
+      flex: 0 0 100%;
+      font-size: .82rem;
+      opacity: .7;
+      padding-bottom: .4rem;
+      border-top: 1px solid rgba(255,255,255,.12);
+      padding-top: .65rem;
     }}
     .brand {{
       display: flex;
@@ -404,29 +460,53 @@ def generar_html(actividades, por_cep, generado):
       width: 44px;
       height: 44px;
       flex-shrink: 0;
-      color: var(--imperial-blue);
     }}
     header h1 {{ font-size: 1.4rem; letter-spacing: .01em; }}
     header p {{ font-size: .85rem; opacity: .75; margin-top: .25rem; }}
-    .header-rss {{
-      background: rgba(255,255,255,.12);
-      border: 1px solid rgba(255,255,255,.22);
-      color: var(--ghost-white);
+    .dev-credit {{
+      display: flex; flex-direction: row; align-items: center; gap: .6rem;
+      text-decoration: none; color: var(--ghost-white);
+      opacity: .85; transition: opacity .15s;
+      flex-shrink: 0;
     }}
-    .header-rss:hover {{ background: rgba(255,255,255,.2); }}
-    .header-rss.activo {{ background: var(--magenta-bloom); border-color: var(--magenta-bloom); }}
-
+    .dev-credit:hover {{ opacity: 1; }}
+    .dev-credit-text {{
+      display: flex; flex-direction: column; align-items: flex-end; gap: .15rem;
+    }}
+    .dev-credit-label {{
+      font-size: .6rem; text-transform: uppercase;
+      letter-spacing: .1em; opacity: .7; white-space: nowrap;
+    }}
+    .dev-credit-name {{
+      font-size: .78rem; font-weight: 700; white-space: nowrap;
+    }}
+    .dev-credit-url {{
+      font-size: .65rem; opacity: .7; white-space: nowrap;
+    }}
+    .dev-credit svg {{ width: 40px; height: 40px; border-radius: 50%; flex-shrink: 0; }}
     .toolbar {{
       background: var(--ghost-white);
       padding: .85rem 2rem;
-      display: flex; gap: .75rem; align-items: center; flex-wrap: wrap;
+      display: flex; align-items: center; justify-content: space-between; gap: .75rem;
       border-bottom: 1px solid var(--border);
       box-shadow: 0 1px 4px rgba(10,36,99,.06);
       position: relative;
     }}
+    .toolbar-left {{
+      display: flex; align-items: center; gap: .75rem;
+      flex: 0 0 50%; min-width: 0;
+    }}
+    .search-wrap {{
+      flex: 1; min-width: 0;
+      position: relative; display: flex; align-items: center;
+    }}
+    .search-wrap svg {{
+      position: absolute; left: .6rem;
+      color: var(--text-muted); pointer-events: none; flex-shrink: 0;
+    }}
     .toolbar input {{
-      flex: 1; min-width: 200px;
-      padding: .45rem .75rem;
+      width: 100%;
+      padding: .45rem .75rem .45rem 2.1rem;
       border: 1px solid var(--border);
       border-radius: 6px;
       font-size: .93rem;
@@ -445,8 +525,8 @@ def generar_html(actividades, por_cep, generado):
       white-space: nowrap;
     }}
     .btn-filtrar svg, .btn-rss svg {{ flex-shrink: 0; }}
-    .btn-filtrar:hover {{ background: var(--blue-bell); }}
-    .btn-filtrar.activo {{ background: var(--magenta-bloom); }}
+    .btn-filtrar:hover, .btn-rss:hover {{ background: var(--blue-bell); }}
+    .btn-filtrar.activo, .btn-rss.activo {{ background: var(--magenta-bloom); }}
     .panel-filtros {{
       background: white;
       border-bottom: 1px solid var(--border);
@@ -488,7 +568,7 @@ def generar_html(actividades, por_cep, generado):
     }}
     .panel-rss {{
       position: absolute;
-      top: calc(50% + 1.55rem);
+      top: 100%;
       right: 2rem;
       z-index: 30;
       width: min(900px, calc(100vw - 4rem));
@@ -501,11 +581,18 @@ def generar_html(actividades, por_cep, generado):
       padding: 1.25rem;
       box-shadow: 0 18px 45px rgba(10,36,99,.24);
     }}
+    .rss-intro p {{
+      font-size: .8rem; color: var(--text-muted); line-height: 1.55;
+      margin-bottom: .4rem;
+    }}
+    .rss-intro p:last-child {{ margin-bottom: 0; }}
+    .rss-intro strong {{ color: var(--text); }}
     .rss-primary {{
       display: inline-flex; align-items: center; gap: .5rem;
       color: var(--imperial-blue); background: #edf6ff;
       padding: .4rem .75rem; border-radius: 6px;
-      text-decoration: none; font-size: .8rem; font-weight: 700;
+      font-size: .7rem; font-weight: 700;
+      border: none; cursor: pointer; font: inherit;
     }}
     .rss-grid {{ display: grid; grid-template-columns: repeat(8, 1fr); gap: .5rem 1rem; overflow-x: auto; }}
     .rss-prov-col {{ display: flex; flex-direction: column; gap: .3rem; min-width: 0; }}
@@ -514,13 +601,24 @@ def generar_html(actividades, por_cep, generado):
       letter-spacing: .06em; color: var(--imperial-blue);
       margin-bottom: .15rem;
     }}
-    .rss-prov-col a {{
-      display: flex; align-items: center; justify-content: space-between; gap: .5rem;
-      color: var(--text); text-decoration: none; font-size: .75rem;
-      overflow: hidden;
+    .rss-prov-col button {{
+      display: flex; align-items: center; gap: .5rem;
+      background: none; border: none; cursor: pointer; font: inherit;
+      color: var(--text); font-size: .75rem; padding: 0;
+      overflow: hidden; text-align: left;
     }}
-    .rss-prov-col a span {{ overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }}
-    .rss-primary:hover, .rss-prov-col a:hover {{ color: var(--blue-bell); }}
+    .rss-prov-col button span {{ overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }}
+    .rss-primary:hover, .rss-prov-col button:hover {{ color: var(--blue-bell); }}
+    #toast {{
+      position: fixed; bottom: 1.5rem; left: 50%; transform: translateX(-50%);
+      background: var(--blue-bell); color: #fff;
+      padding: .65rem 1.25rem; border-radius: 8px;
+      font-size: .85rem; box-shadow: 0 4px 16px rgba(0,0,0,.2);
+      opacity: 0; pointer-events: none;
+      transition: opacity .25s;
+      z-index: 100; white-space: nowrap;
+    }}
+    #toast.visible {{ opacity: 1; }}
 
     main {{ padding: 1.5rem 2rem; max-width: 1140px; margin: 0 auto; }}
     .results-summary {{
@@ -586,31 +684,49 @@ def generar_html(actividades, por_cep, generado):
       display: none; grid-column: 1/-1;
     }}
     @media (max-width: 640px) {{
-      header {{ align-items: flex-start; flex-direction: column; gap: .9rem; }}
-      .header-rss {{ align-self: flex-end; }}
-      .panel-rss {{ left: 1rem; right: 1rem; top: calc(100% + .15rem); width: auto; }}
+      .toolbar {{ flex-wrap: wrap; }}
+      .toolbar-left {{ flex: 1 1 100%; }}
+      .panel-rss {{ left: 1rem; right: 1rem; top: 100%; width: auto; }}
     }}
   </style>
 </head>
 <body>
-  <header>
-    <div class="brand">
-      {SVG_LOGO}
-      <div>
-        <h1>CEP Radar</h1>
-        <p>Última actualización: {dt} · {total} actividades</p>
+  <div class="sticky-top">
+    <header>
+      <div class="brand">
+        {SVG_LOGO}
+        <div>
+          <h1>CEP Radar</h1>
+          <p>Última actualización: {dt} (horario peninsular)</p>
+        </div>
       </div>
-    </div>
-    <button class="btn-rss header-rss" onclick="toggleRss()" aria-expanded="false">{SVG_RSS} RSS</button>
-    {rss_panel}
-  </header>
+      <a class="dev-credit" href="https://elprofedelabata.es" target="_blank" rel="noopener">
+        <div class="dev-credit-text">
+          <span class="dev-credit-label">Desarrollado por</span>
+          <span class="dev-credit-name">El Profe de la Bata</span>
+          <span class="dev-credit-url">elprofedelabata.es</span>
+        </div>
+        {SVG_AVATAR}
+      </a>
+      <p class="header-tagline">Todas las actividades formativas de los Centros del Profesorado de Andalucía, actualizadas cada día de forma automática.</p>
+    </header>
 
-  <div class="toolbar">
-    <input id="filtroTexto" type="search" placeholder="Buscar por título..."
-           oninput="filtrar()">
-    <button class="btn-filtrar" onclick="toggleFiltros()" aria-expanded="false">⚙ Filtrar</button>
+    <div class="toolbar">
+      <div class="toolbar-left">
+        <div class="search-wrap">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9.5 16q-2.725 0-4.612-1.888T3 9.5t1.888-4.612T9.5 3t4.613 1.888T16 9.5q0 1.1-.35 2.075T14.7 13.3l5.6 5.6q.275.275.275.7t-.275.7t-.7.275t-.7-.275l-5.6-5.6q-.75.6-1.725.95T9.5 16m0-2q1.875 0 3.188-1.312T14 9.5t-1.312-3.187T9.5 5T6.313 6.313T5 9.5t1.313 3.188T9.5 14"/></svg>
+          <input id="filtroTexto" type="search" placeholder="Buscar por título..."
+                 oninput="filtrar()">
+        </div>
+        <button class="btn-filtrar" onclick="toggleFiltros()" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20 2H4c-.55 0-1 .45-1 1v2c0 .24.09.48.25.66L10 13.38V21c0 .4.24.77.62.92a.995.995 0 0 0 1.09-.21l2-2A1 1 0 0 0 14 19v-5.62l6.75-7.72c.16-.18.25-.42.25-.66V3c0-.55-.45-1-1-1"/></svg> Filtrar</button>
+      </div>
+      <button class="btn-rss" onclick="toggleRss()" aria-expanded="false">{SVG_RSS} RSS</button>
+      {rss_panel}
+    </div>
+    {panel}
   </div>
-  {panel}
+
+  <div id="toast"></div>
 
   <main>
     <p class="results-summary" id="contador">Mostrando {total} de {total} actividades</p>
@@ -621,6 +737,18 @@ def generar_html(actividades, por_cep, generado):
   </main>
 
   <script>
+    let toastTimer;
+    function copiarRSS(ruta) {{
+      const url = new URL(ruta, window.location.href).href;
+      navigator.clipboard.writeText(url).then(() => {{
+        const t = document.getElementById('toast');
+        t.textContent = '✓ URL copiada — pégala en tu lector RSS (Feedly, Inoreader...)';
+        t.classList.add('visible');
+        clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => t.classList.remove('visible'), 3500);
+      }});
+    }}
+
     function cerrarPanel(idPanel, selectorBoton) {{
       const panel = document.getElementById(idPanel);
       const btn = document.querySelector(selectorBoton);
@@ -650,19 +778,22 @@ def generar_html(actividades, por_cep, generado):
     }}
 
     function filtrar() {{
+      window.scrollTo({{ top: 0, behavior: 'smooth' }});
       const texto   = document.getElementById('filtroTexto').value.toLowerCase();
-      const ceps    = [...document.querySelectorAll('.f-cep:checked')].map(c => c.value);
-      const modals  = [...document.querySelectorAll('.f-modal:checked')].map(c => c.value);
-      const estados = [...document.querySelectorAll('.f-estado:checked')].map(c => c.value);
+      const ceps     = [...document.querySelectorAll('.f-cep:checked')].map(c => c.value);
+      const modals   = [...document.querySelectorAll('.f-modal:checked')].map(c => c.value);
+      const dirigidos = [...document.querySelectorAll('.f-dirigido:checked')].map(c => c.value);
+      const estados  = [...document.querySelectorAll('.f-estado:checked')].map(c => c.value);
 
       const cards = document.querySelectorAll('.card');
       const total = cards.length;
       let visibles = 0;
       cards.forEach(c => {{
-        const ok = (!ceps.length    || ceps.includes(c.dataset.cep))
-                && (!modals.length  || modals.includes(c.dataset.modalidad))
-                && (!estados.length || estados.includes(c.dataset.estado))
-                && (!texto          || c.textContent.toLowerCase().includes(texto));
+        const ok = (!ceps.length      || ceps.includes(c.dataset.cep))
+                && (!modals.length    || modals.includes(c.dataset.modalidad))
+                && (!dirigidos.length || dirigidos.includes(c.dataset.dirigido))
+                && (!estados.length   || estados.includes(c.dataset.estado))
+                && (!texto            || c.textContent.toLowerCase().includes(texto));
         c.classList.toggle('hidden', !ok);
         if (ok) visibles++;
       }});
