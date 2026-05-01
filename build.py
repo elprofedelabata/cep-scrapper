@@ -337,22 +337,22 @@ def panel_filtros_html(por_cep, actividades):
 
     return f"""
   <div id="panel-filtros" class="panel-filtros hidden">
-    <section>
-      <h4>{SVG_CEP} Centros de Educación del Profesorado, CEP's</h4>
+    <details class="filter-section">
+      <summary>{SVG_CEP} Centros de Educación del Profesorado, CEP's</summary>
       <div class="cep-grid">{cep_cols}</div>
-    </section>
-    <section>
-      <h4>{SVG_MODAL} Modalidad</h4>
+    </details>
+    <details class="filter-section">
+      <summary>{SVG_MODAL} Modalidad</summary>
       <div class="opciones-row">{modal_items}</div>
-    </section>
-    <section>
-      <h4>{SVG_DIRIGIDO} Dirigido a</h4>
+    </details>
+    <details class="filter-section">
+      <summary>{SVG_DIRIGIDO} Dirigido a</summary>
       <div class="opciones-row">{dirigido_items}</div>
-    </section>
-    <section>
-      <h4>{SVG_ESTADO} Estado</h4>
+    </details>
+    <details class="filter-section">
+      <summary>{SVG_ESTADO} Estado</summary>
       <div class="opciones-row">{estado_items}</div>
-    </section>
+    </details>
   </div>"""
 
 
@@ -366,28 +366,32 @@ def panel_rss_html(por_cep):
         nombre_prov = PROVINCIA_NOMBRE.get(prov, prov)
         items = "".join(
             f'<button onclick="copiarRSS(\'rss/{slug(nombre_cep(c))}.xml\')">'
-            f'<span>{nombre_cep(c)}</span></button>'
+            f'<span>{nombre_cep(c)}</span>'
+            f'<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" style="flex-shrink:0;opacity:.45"><path fill="currentColor" d="M15.24 2h-3.894c-1.764 0-3.162 0-4.255.148c-1.126.152-2.037.472-2.755 1.193c-.719.721-1.038 1.636-1.189 2.766C3 7.205 3 8.608 3 10.379v5.838c0 1.548.92 2.88 2.227 3.493C5.101 20.5 5 20.102 5 19.614v-9.019c0-1.428 0-2.557.1-3.448c.105-.921.33-1.748.81-2.498c-.398 0-.76.013-1.102.05c.047-.276.108-.537.19-.784h.001c.47-1.39 1.503-2.21 2.984-2.528C8.868 1.148 10.292 1 12 1h3.24c1.187 0 2.14.948 2.14 2.119v.36a4.4 4.4 0 0 1 1-.411V3.12C18.38 1.396 16.975 0 15.24 0z"/><path fill="currentColor" d="M11.039 5h5.76c.652 0 1.201.52 1.201 1.163v13.674c0 .643-.549 1.163-1.201 1.163h-5.76c-.652 0-1.201-.52-1.201-1.163V6.163C9.838 5.52 10.387 5 11.039 5"/></svg>'
+            f'</button>'
             for c in por_provincia[prov]
         )
         rss_cols += f'<div class="rss-prov-col"><strong>{nombre_prov}</strong>{items}</div>'
 
     return f"""
   <div id="panel-rss" class="panel-rss hidden">
-    <section class="rss-intro">
-      <h4>{SVG_RSS} ¿Qué es RSS?</h4>
-      <p>RSS es un sistema de suscripción: en lugar de volver a revisar esta web cada día, <strong>tu lector RSS te avisa automáticamente</strong> cuando aparezcan actividades nuevas.</p>
-      <p>Puedes usar lectores gratuitos como <strong>Feedly</strong>, <strong>Inoreader</strong> o la extensión <strong>RSS Feed Reader</strong> para Chrome y Firefox. Pulsa el enlace del feed que te interese y pégalo en tu lector.</p>
-    </section>
-    <section>
-      <h4>Feed general</h4>
+    <details class="filter-section">
+      <summary>{SVG_RSS} ¿Qué es RSS?</summary>
+      <div class="rss-intro">
+        <p>RSS es un sistema de suscripción: en lugar de volver a revisar esta web cada día, <strong>tu lector RSS te avisa automáticamente</strong> cuando aparezcan actividades nuevas.</p>
+        <p>Puedes usar lectores gratuitos como <strong>Feedly</strong>, <strong>Inoreader</strong> o la extensión <strong>RSS Feed Reader</strong> para Chrome y Firefox. Pulsa el enlace del feed que te interese y pégalo en tu lector.</p>
+      </div>
+    </details>
+    <details class="filter-section">
+      <summary>Feed general</summary>
       <button class="rss-primary" onclick="copiarRSS('rss/todas.xml')">
         {SVG_RSS} <span>Todas las actividades de Andalucía</span>
       </button>
-    </section>
-    <section>
-      <h4>Feed por CEP — suscríbete solo a tu centro</h4>
+    </details>
+    <details class="filter-section">
+      <summary>Feed por CEP — suscríbete solo a tu centro</summary>
       <div class="rss-grid">{rss_cols}</div>
-    </section>
+    </details>
   </div>"""
 
 
@@ -534,13 +538,23 @@ def generar_html(actividades, por_cep, generado):
       box-shadow: 0 4px 12px rgba(10,36,99,.08);
     }}
     .panel-filtros.hidden, .panel-rss.hidden {{ display: none; }}
-    .panel-filtros section, .panel-rss section {{ margin-bottom: 1.1rem; }}
-    .panel-filtros section:last-child, .panel-rss section:last-child {{ margin-bottom: 0; }}
-    .panel-filtros h4, .panel-rss h4 {{
+    .panel-filtros section {{ margin-bottom: 1.1rem; }}
+    .panel-filtros section:last-child {{ margin-bottom: 0; }}
+    .panel-filtros h4, .filter-section > summary {{
       font-size: .75rem; text-transform: uppercase;
       letter-spacing: .08em; color: var(--text-muted);
       margin-bottom: .6rem; padding-bottom: .3rem;
       border-bottom: 1px solid var(--border);
+    }}
+    .filter-section {{ margin-bottom: 1.1rem; }}
+    .filter-section:last-child {{ margin-bottom: 0; }}
+    .filter-section > summary {{
+      list-style: none; cursor: default; display: flex; align-items: center; gap: .4rem;
+    }}
+    .filter-section > summary::marker,
+    .filter-section > summary::-webkit-details-marker {{ display: none; }}
+    @media (min-width: 641px) {{
+      .filter-section > :not(summary) {{ display: block !important; }}
     }}
     .cep-grid {{ display: grid; grid-template-columns: repeat(8, 1fr); gap: .5rem 1rem; overflow-x: auto; }}
     .prov-col {{
@@ -581,6 +595,7 @@ def generar_html(actividades, por_cep, generado):
       padding: 1.25rem;
       box-shadow: 0 18px 45px rgba(10,36,99,.24);
     }}
+    .rss-intro {{ padding-top: .5rem; }}
     .rss-intro p {{
       font-size: .8rem; color: var(--text-muted); line-height: 1.55;
       margin-bottom: .4rem;
@@ -684,9 +699,32 @@ def generar_html(actividades, por_cep, generado):
       display: none; grid-column: 1/-1;
     }}
     @media (max-width: 640px) {{
-      .toolbar {{ flex-wrap: wrap; }}
-      .toolbar-left {{ flex: 1 1 100%; }}
+      header {{ padding: .6rem 1rem; gap: .4rem .75rem; align-items: flex-start; }}
+      .brand {{ flex: 1; min-width: 0; gap: .5rem; align-items: flex-start; }}
+      .site-logo {{ width: 28px; height: 28px; flex-shrink: 0; }}
+      header h1 {{ font-size: .95rem; }}
+      header p {{ font-size: .68rem; margin-top: .1rem; }}
+      .dev-credit-text {{ display: none; }}
+      .dev-credit svg {{ width: 28px; height: 28px; }}
+      .header-tagline {{ font-size: .58rem; padding-top: .4rem; }}
+      .toolbar {{ padding: .6rem 1rem; gap: .5rem; }}
+      .toolbar-left {{ flex: 1; min-width: 0; }}
+      .btn-txt {{ display: none; }}
+      .btn-filtrar, .btn-rss {{ padding: .45rem .7rem; }}
+      .toolbar input {{ font-size: .8rem; }}
+      .panel-filtros {{ padding: .9rem 1rem; }}
+      .cep-grid {{ grid-template-columns: repeat(2, 1fr); }}
+      .rss-grid {{ grid-template-columns: repeat(2, 1fr); }}
+      .opciones-row {{ gap: .3rem 1rem; }}
+      .filter-section > summary {{
+        cursor: pointer; margin-bottom: 0; border-bottom: 1px solid var(--border);
+        padding-bottom: .3rem; font-size: .65rem;
+      }}
+      .filter-section > summary::after {{ content: "▾"; font-size: .7rem; margin-left: auto; }}
+      .filter-section[open] > summary {{ margin-bottom: .6rem; }}
+      .filter-section[open] > summary::after {{ content: "▴"; }}
       .panel-rss {{ left: 1rem; right: 1rem; top: 100%; width: auto; }}
+      main {{ padding: 1rem; }}
     }}
   </style>
 </head>
@@ -697,7 +735,7 @@ def generar_html(actividades, por_cep, generado):
         {SVG_LOGO}
         <div>
           <h1>CEP Radar</h1>
-          <p>Última actualización: {dt} (horario peninsular)</p>
+          <p>Última actualización: {dt}</p>
         </div>
       </div>
       <a class="dev-credit" href="https://elprofedelabata.es" target="_blank" rel="noopener">
@@ -718,9 +756,9 @@ def generar_html(actividades, por_cep, generado):
           <input id="filtroTexto" type="search" placeholder="Buscar por título..."
                  oninput="filtrar()">
         </div>
-        <button class="btn-filtrar" onclick="toggleFiltros()" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20 2H4c-.55 0-1 .45-1 1v2c0 .24.09.48.25.66L10 13.38V21c0 .4.24.77.62.92a.995.995 0 0 0 1.09-.21l2-2A1 1 0 0 0 14 19v-5.62l6.75-7.72c.16-.18.25-.42.25-.66V3c0-.55-.45-1-1-1"/></svg> Filtrar</button>
+        <button class="btn-filtrar" onclick="toggleFiltros()" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20 2H4c-.55 0-1 .45-1 1v2c0 .24.09.48.25.66L10 13.38V21c0 .4.24.77.62.92a.995.995 0 0 0 1.09-.21l2-2A1 1 0 0 0 14 19v-5.62l6.75-7.72c.16-.18.25-.42.25-.66V3c0-.55-.45-1-1-1"/></svg><span class="btn-txt"> Filtrar</span></button>
       </div>
-      <button class="btn-rss" onclick="toggleRss()" aria-expanded="false">{SVG_RSS} RSS</button>
+      <button class="btn-rss" onclick="toggleRss()" aria-expanded="false">{SVG_RSS}<span class="btn-txt"> RSS</span></button>
       {rss_panel}
     </div>
     {panel}
