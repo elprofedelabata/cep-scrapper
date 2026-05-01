@@ -4,7 +4,11 @@
       "Bash(git pull *)",
       "Bash(git stash *)",
       "Bash(git remote *)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(git rebase *)",
+      "Bash(git reset *)",
+      "Bash(git checkout *)",
+      "Bash(git fetch *)"
     ]
   }
 }
