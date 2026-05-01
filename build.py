@@ -375,23 +375,18 @@ def panel_rss_html(por_cep):
 
     return f"""
   <div id="panel-rss" class="panel-rss hidden">
-    <details class="filter-section">
-      <summary>{SVG_RSS} ¿Qué es RSS?</summary>
+    <div class="rss-section">
+      <h4>{SVG_RSS} ¿Qué es RSS?</h4>
       <div class="rss-intro">
         <p>RSS es un sistema de suscripción: en lugar de volver a revisar esta web cada día, <strong>tu lector RSS te avisa automáticamente</strong> cuando aparezcan actividades nuevas.</p>
         <p>Puedes usar lectores gratuitos como <strong>Feedly</strong>, <strong>Inoreader</strong> o la extensión <strong>RSS Feed Reader</strong> para Chrome y Firefox. Pulsa el enlace del feed que te interese y pégalo en tu lector.</p>
       </div>
-    </details>
-    <details class="filter-section">
-      <summary>Feed general</summary>
-      <button class="rss-primary" onclick="copiarRSS('rss/todas.xml')">
-        {SVG_RSS} <span>Todas las actividades de Andalucía</span>
-      </button>
-    </details>
-    <details class="filter-section">
-      <summary>Feed por CEP — suscríbete solo a tu centro</summary>
+    </div>
+    <div class="rss-section">
+      <h4>Feeds</h4>
+      <p class="rss-feeds-desc">Pulsa sobre el botón <button class="rss-cep-btn" onclick="copiarRSS('rss/todas.xml')"><span>Suscribirse a todos los CEP's</span></button> para recibir información de todas las actividades, o bien selecciona el/los CEP's que desees a continuación:</p>
       <div class="rss-grid">{rss_cols}</div>
-    </details>
+    </div>
   </div>"""
 
 
@@ -532,10 +527,17 @@ def generar_html(actividades, por_cep, generado):
     .btn-filtrar:hover, .btn-rss:hover {{ background: var(--blue-bell); }}
     .btn-filtrar.activo, .btn-rss.activo {{ background: var(--magenta-bloom); }}
     .panel-filtros {{
+      position: absolute;
+      top: 100%;
+      left: 0; right: 0;
+      z-index: 30;
+      max-height: min(70vh, 600px);
+      overflow: auto;
       background: white;
-      border-bottom: 1px solid var(--border);
+      border: 1px solid var(--border);
+      border-radius: 0 0 8px 8px;
       padding: 1.25rem 2rem;
-      box-shadow: 0 4px 12px rgba(10,36,99,.08);
+      box-shadow: 0 18px 45px rgba(10,36,99,.24);
     }}
     .panel-filtros.hidden, .panel-rss.hidden {{ display: none; }}
     .panel-filtros section {{ margin-bottom: 1.1rem; }}
@@ -559,6 +561,7 @@ def generar_html(actividades, por_cep, generado):
       .filter-section > .rss-grid {{ display: grid !important; }}
       .filter-section > .opciones-row {{ display: flex !important; }}
       .filter-section > .rss-primary {{ display: inline-flex !important; }}
+      .filter-section > summary {{ pointer-events: none; }}
     }}
     .cep-grid {{ display: grid; grid-template-columns: repeat(8, 1fr); gap: .5rem 1rem; overflow-x: auto; }}
     .prov-col {{
@@ -599,6 +602,14 @@ def generar_html(actividades, por_cep, generado):
       padding: 1.25rem;
       box-shadow: 0 18px 45px rgba(10,36,99,.24);
     }}
+    .rss-section {{ margin-bottom: 1.1rem; }}
+    .rss-section:last-child {{ margin-bottom: 0; }}
+    .rss-section h4 {{
+      font-size: .75rem; text-transform: uppercase;
+      letter-spacing: .08em; color: var(--text-muted);
+      margin-bottom: .6rem; padding-bottom: .3rem;
+      border-bottom: 1px solid var(--border);
+    }}
     .rss-intro {{ padding-top: .5rem; }}
     .rss-intro p {{
       font-size: .8rem; color: var(--text-muted); line-height: 1.55;
@@ -606,12 +617,17 @@ def generar_html(actividades, por_cep, generado):
     }}
     .rss-intro p:last-child {{ margin-bottom: 0; }}
     .rss-intro strong {{ color: var(--text); }}
-    .rss-primary {{
-      display: inline-flex; align-items: center; gap: .5rem;
-      color: var(--imperial-blue); background: #edf6ff;
-      padding: .4rem .75rem; border-radius: 6px;
-      font-size: .7rem; font-weight: 700;
-      border: none; cursor: pointer; font: inherit;
+    .rss-feeds-desc {{
+      font-size: .8rem; color: var(--text-muted); line-height: 1.55;
+      margin-bottom: 1rem;
+    }}
+    .rss-cep-btn {{
+      display: inline-flex; align-items: center;
+      background: var(--bg); border: none; cursor: pointer; font: inherit;
+      color: var(--imperial-blue); font-size: .8rem; font-weight: 700;
+      padding: .1rem .4rem; border-radius: 4px;
+      transition: background .15s, transform .15s;
+      vertical-align: baseline;
     }}
     .rss-grid {{ display: grid; grid-template-columns: repeat(8, 1fr); gap: .5rem 1rem; overflow-x: auto; }}
     .rss-prov-col {{ display: flex; flex-direction: column; gap: .3rem; min-width: 0; }}
@@ -623,11 +639,19 @@ def generar_html(actividades, por_cep, generado):
     .rss-prov-col button {{
       display: flex; align-items: center; gap: .5rem;
       background: none; border: none; cursor: pointer; font: inherit;
-      color: var(--text); font-size: .75rem; padding: 0;
-      overflow: hidden; text-align: left;
+      color: var(--text); font-size: .75rem; padding: .15rem .3rem;
+      overflow: hidden; text-align: left; border-radius: 4px;
+      transition: background .15s, transform .15s;
     }}
     .rss-prov-col button span {{ overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }}
-    .rss-primary:hover, .rss-prov-col button:hover {{ color: var(--blue-bell); }}
+    .rss-prov-col button svg {{ display: none; }}
+    .rss-prov-col button:hover, .rss-cep-btn:hover {{
+      background: var(--bg); color: var(--imperial-blue);
+      transform: scale(1.04);
+    }}
+    @media (max-width: 640px) {{
+      .rss-prov-col button:hover, .rss-cep-btn:hover {{ transform: none; }}
+    }}
     #toast {{
       position: fixed; bottom: 1.5rem; left: 50%; transform: translateX(-50%);
       background: var(--blue-bell); color: #fff;
@@ -716,7 +740,7 @@ def generar_html(actividades, por_cep, generado):
       .btn-txt {{ display: none; }}
       .btn-filtrar, .btn-rss {{ padding: .45rem .7rem; }}
       .toolbar input {{ font-size: .8rem; }}
-      .panel-filtros {{ padding: .9rem 1rem; }}
+      .panel-filtros {{ padding: .9rem 1rem; left: 0; right: 0; border-radius: 0; }}
       .cep-grid {{ grid-template-columns: repeat(2, 1fr); }}
       .rss-grid {{ grid-template-columns: repeat(2, 1fr); }}
       .opciones-row {{ gap: .3rem 1rem; }}
@@ -764,8 +788,8 @@ def generar_html(actividades, por_cep, generado):
       </div>
       <button class="btn-rss" onclick="toggleRss()" aria-expanded="false">{SVG_RSS}<span class="btn-txt"> RSS</span></button>
       {rss_panel}
+      {panel}
     </div>
-    {panel}
   </div>
 
   <div id="toast"></div>
