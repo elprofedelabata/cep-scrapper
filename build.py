@@ -555,6 +555,10 @@ def generar_html(actividades, por_cep, generado):
     .filter-section > summary::-webkit-details-marker {{ display: none; }}
     @media (min-width: 641px) {{
       .filter-section > :not(summary) {{ display: block !important; }}
+      .filter-section > .cep-grid,
+      .filter-section > .rss-grid {{ display: grid !important; }}
+      .filter-section > .opciones-row {{ display: flex !important; }}
+      .filter-section > .rss-primary {{ display: inline-flex !important; }}
     }}
     .cep-grid {{ display: grid; grid-template-columns: repeat(8, 1fr); gap: .5rem 1rem; overflow-x: auto; }}
     .prov-col {{
