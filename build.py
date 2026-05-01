@@ -337,19 +337,19 @@ def panel_filtros_html(por_cep, actividades):
 
     return f"""
   <div id="panel-filtros" class="panel-filtros hidden">
-    <details class="filter-section">
+    <details class="filter-section" open>
       <summary>{SVG_CEP} Centros de Educación del Profesorado, CEP's</summary>
       <div class="cep-grid">{cep_cols}</div>
     </details>
-    <details class="filter-section">
+    <details class="filter-section" open>
       <summary>{SVG_MODAL} Modalidad</summary>
       <div class="opciones-row">{modal_items}</div>
     </details>
-    <details class="filter-section">
+    <details class="filter-section" open>
       <summary>{SVG_DIRIGIDO} Dirigido a</summary>
       <div class="opciones-row">{dirigido_items}</div>
     </details>
-    <details class="filter-section">
+    <details class="filter-section" open>
       <summary>{SVG_ESTADO} Estado</summary>
       <div class="opciones-row">{estado_items}</div>
     </details>
@@ -556,11 +556,6 @@ def generar_html(actividades, por_cep, generado):
     .filter-section > summary::marker,
     .filter-section > summary::-webkit-details-marker {{ display: none; }}
     @media (min-width: 641px) {{
-      .filter-section > :not(summary) {{ display: block !important; }}
-      .filter-section > .cep-grid,
-      .filter-section > .rss-grid {{ display: grid !important; }}
-      .filter-section > .opciones-row {{ display: flex !important; }}
-      .filter-section > .rss-primary {{ display: inline-flex !important; }}
       .filter-section > summary {{ pointer-events: none; }}
     }}
     .cep-grid {{ display: grid; grid-template-columns: repeat(8, 1fr); gap: .5rem 1rem; overflow-x: auto; }}
