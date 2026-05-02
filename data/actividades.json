@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-02T07:18:06.072925+00:00",
+  "generado": "2026-05-02T10:40:53.295243+00:00",
   "total": 465,
   "actividades": [
     {
@@ -2919,18 +2919,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE027/"
     },
     {
-      "Código": "262115GE062",
-      "Título": "CRISTOLOGÍA",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/05/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE062/"
-    },
-    {
       "Código": "262115GE069",
       "Título": "I JORNADAS DE INCLUSIÓN EDUCATIVA Y ACCESIBILIDAD: DE EDUCACIÓN INFANTIL A LA UNIVERSIDAD",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -3589,6 +3577,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE128/"
+    },
+    {
+      "Código": "262115GE062",
+      "Título": "CRISTOLOGÍA",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "05/05/2026",
+      "Fin": "06/05/2026",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE062/"
     },
     {
       "Código": "262116GE161",
