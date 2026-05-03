@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-03T18:41:42.420010+00:00",
+  "generado": "2026-05-03T22:29:31.064843+00:00",
   "total": 464,
   "actividades": [
     {
@@ -3207,18 +3207,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE075/"
     },
     {
-      "Código": "26401GE080",
-      "Título": "EDUCACIÓN EMOCIONAL EN EN EL ALUMNADO DE FP",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "12/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE080/"
-    },
-    {
       "Código": "26401GE084",
       "Título": "EL ALMERIENSE LORENZO FERRER MALDONADO DESCUBRIDOR DEL ESTRECHO DE BERING. UN CURRÍCULUM ABIERTO Y POR HACER.",
       "CEP": "04200019 - CEP Almería",
@@ -3793,6 +3781,18 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE301/"
+    },
+    {
+      "Código": "26401GE080",
+      "Título": "EDUCACIÓN EMOCIONAL EN EN EL ALUMNADO DE FP",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "12/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE080/"
     },
     {
       "Código": "264127ACS009",
