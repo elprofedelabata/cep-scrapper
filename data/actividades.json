@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-03T10:43:34.737921+00:00",
-  "total": 465,
+  "generado": "2026-05-03T14:40:41.437765+00:00",
+  "total": 464,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -3565,18 +3565,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
-    },
-    {
-      "Código": "261812GE128",
-      "Título": "CREACIÓN DE RECURSOS EDUCATIVOS ABIERTOS MEDIANTE LA HERRAMIENTA EXELEARNING",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "28/04/2026",
-      "Fin": "15/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE128/"
     },
     {
       "Código": "262115GE062",
