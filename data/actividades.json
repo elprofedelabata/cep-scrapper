@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-04T15:54:16.935358+00:00",
-  "total": 459,
+  "generado": "2026-05-04T19:12:03.462546+00:00",
+  "total": 458,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2199,6 +2199,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI002/"
     },
     {
+      "Código": "264127PRI025",
+      "Título": "JORNADAS DE INCLUSIÓN EN EL POLÍGONO SUR",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "18/05/2026",
+      "Fin": "19/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/"
+    },
+    {
       "Código": "264128FC024",
       "Título": "PCT COMPETENCIA MATEMÁTICA EN EL CEIP ASUNCION DE NUESTRA SEÑORA",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -3243,18 +3255,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE040/"
     },
     {
-      "Código": "264127AFP038",
-      "Título": "TÉCNICAS DE IMPRESIÓN 3D CON FILAMENTOS TÉCNICOS Y ESCANEO DE ÚLTIMA GENERACIÓN PARA LA FABRICACIÓN DE LA ESTRUCTURA DE UN DRONE",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "26/05/2026",
-      "Fin": "11/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
-    },
-    {
       "Código": "264127ALI014",
       "Título": "ESTRATEGIAS DE LIDERAZGO PARA DINAMIZAR LA AUTOFORMACIÓN DOCENTE: PRESENTACIÓN DE BUENAS PRÁCTICAS",
       "CEP": "41200017 - CEP Sevilla",
@@ -3541,6 +3541,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/"
+    },
+    {
+      "Código": "264127AFP038",
+      "Título": "TÉCNICAS DE IMPRESIÓN 3D CON FILAMENTOS TÉCNICOS Y ESCANEO DE ÚLTIMA GENERACIÓN PARA LA FABRICACIÓN DE LA ESTRUCTURA DE UN DRONE",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "26/05/2026",
+      "Fin": "11/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
     },
     {
       "Código": "264127ALI006",
@@ -4839,18 +4851,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE073/"
     },
     {
-      "Código": "26401GE074",
-      "Título": "JORNADAS PROVINCIALES DE BIBLIOTECAS ESCOLARES DE ALMERÍA 2026",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "29/04/2026",
-      "Fin": "13/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE074/"
-    },
-    {
       "Código": "26401GE076",
       "Título": "EDUCACIÓN INTERCULTURAL: RECURSOS Y EXPERIENCIAS EDUCATIVAS INCLUSIVAS",
       "CEP": "04200019 - CEP Almería",
@@ -4909,18 +4909,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACS009/"
-    },
-    {
-      "Código": "264127ACS010",
-      "Título": "GESTIÓN EMOCIONAL DEL ALUMNADO DE INFANTIL.",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/04/2026",
-      "Fin": "04/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACS010/"
     },
     {
       "Código": "264127ACS012",
