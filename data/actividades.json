@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-04T22:22:25.771520+00:00",
-  "total": 459,
+  "generado": "2026-05-04T22:46:32.157620+00:00",
+  "total": 458,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -3663,18 +3663,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923FP162/"
     },
     {
-      "Código": "26401GE080",
-      "Título": "EDUCACIÓN EMOCIONAL EN EN EL ALUMNADO DE FP",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "12/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE080/"
-    },
-    {
       "Código": "264127ARE020",
       "Título": "INTRODUCCIÓN AL GRABADO EN HUECO MEDIANTE PLANCHAS DE FOTOPOLÍMERO. POSITIVO AUTOGRÁFICO Y POSITIVO DIGITAL.",
       "CEP": "41200017 - CEP Sevilla",
@@ -4839,18 +4827,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE070/"
     },
     {
-      "Código": "26401GE073",
-      "Título": "FORMACIÓN PARA EL DESARROLLO DE AUDITORIAS INTERNAS EN LOS CENTROS EDUCATIVOS, CONFORME A NORMAS",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE073/"
-    },
-    {
       "Código": "26401GE076",
       "Título": "EDUCACIÓN INTERCULTURAL: RECURSOS Y EXPERIENCIAS EDUCATIVAS INCLUSIVAS",
       "CEP": "04200019 - CEP Almería",
@@ -4873,6 +4849,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE079/"
+    },
+    {
+      "Código": "26401GE080",
+      "Título": "EDUCACIÓN EMOCIONAL EN EN EL ALUMNADO DE FP",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "12/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE080/"
     },
     {
       "Código": "26402GE021",
