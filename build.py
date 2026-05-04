@@ -435,7 +435,8 @@ def panel_orden_html():
 
 
 def generar_html(actividades, por_cep, generado):
-    cards = "\n".join(card_html(a) for a in actividades)
+    actividades_ord = sorted(actividades, key=lambda a: slug(a.get('Título', '')))
+    cards = "\n".join(card_html(a) for a in actividades_ord)
     panel = panel_filtros_html(por_cep, actividades)
     rss_panel = panel_rss_html(por_cep)
     orden_panel = panel_orden_html()
@@ -929,13 +930,16 @@ def generar_html(actividades, por_cep, generado):
     const _svgAsc = `{SVG_ORDEN_ASC}`;
     const _svgDesc = `{SVG_ORDEN_DESC}`;
 
-    function aplicarOrden() {{
+    function actualizarUIOrden() {{
       document.querySelectorAll('.orden-item').forEach(item => {{
         const activo = item.dataset.campo === ordenActual.campo;
         item.classList.toggle('orden-activo', activo);
         item.querySelector('.orden-dir').innerHTML =
           activo ? (ordenActual.dir === 'asc' ? _svgAsc : _svgDesc) : '↕';
       }});
+    }}
+
+    function ordenarCards() {{
       const grid = document.getElementById('grid');
       const sinRes = document.getElementById('sin-resultados');
       const cards = [...grid.querySelectorAll('.card')];
@@ -958,10 +962,11 @@ def generar_html(actividades, por_cep, generado):
         ordenActual.campo = campo;
         ordenActual.dir = 'asc';
       }}
-      aplicarOrden();
+      actualizarUIOrden();
+      ordenarCards();
     }}
 
-    aplicarOrden();
+    actualizarUIOrden();
 
     function filtrar() {{
       window.scrollTo({{ top: 0, behavior: 'smooth' }});
