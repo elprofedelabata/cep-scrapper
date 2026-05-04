@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-04T09:38:51.427379+00:00",
-  "total": 461,
+  "generado": "2026-05-04T11:41:50.115716+00:00",
+  "total": 458,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2655,18 +2655,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408FP027/"
     },
     {
-      "Código": "261408GE015",
-      "Título": "JORNADAS DE EDUCACIÓN INFANTIL: EL JUEGO DEL APRENDIZAJE: UN VIAJE ENTRE CAJAS, CUENTOS Y CANCIONES. (ETAPA 0-6 AÑOS)",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE015/"
-    },
-    {
       "Código": "261811GE010",
       "Título": "AVANZANDO EN LA IA A TRAVES DE GEMINI EN CONTEXTOS EDUCATIVOS",
       "CEP": "18200016 - CEP Granada",
@@ -3087,18 +3075,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/"
     },
     {
-      "Código": "262321GE024",
-      "Título": "IMPRESIÓN 3D EN EL AULA. DE PRIMARIA A SECUNDARIA",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE024/"
-    },
-    {
       "Código": "262922GE168",
       "Título": "CUADERNO DE CLASE Y HERRAMIENTAS DE SÉNECA / MOODLE PARA LA EVALUACIÓN EN FP",
       "CEP": "29200014 - CEP Málaga",
@@ -3277,18 +3253,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
-    },
-    {
-      "Código": "264127ALI006",
-      "Título": "ELABORACIÓN DE SITUACIONES DE APRENDIZAJE PARA LA INTERNACIONALIZACIÓN DE LOS CENTROS DE SECUNDARIA Y BACHILLERATO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "02/04/2026",
-      "Fin": "30/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI006/"
     },
     {
       "Código": "264127ALI014",
@@ -3471,6 +3435,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408FP026/"
     },
     {
+      "Código": "261408GE015",
+      "Título": "JORNADAS DE EDUCACIÓN INFANTIL: EL JUEGO DEL APRENDIZAJE: UN VIAJE ENTRE CAJAS, CUENTOS Y CANCIONES. (ETAPA 0-6 AÑOS)",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Jornadas",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "07/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE015/"
+    },
+    {
       "Código": "261410GE006",
       "Título": "RED DE MEDIACIÓN Y ALUMNADO AYUDANTE 25/26 CEP PRIEGO-MONTILLA",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -3505,18 +3481,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
-    },
-    {
-      "Código": "262115GE062",
-      "Título": "CRISTOLOGÍA",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "05/05/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE062/"
     },
     {
       "Código": "262116GE161",
@@ -3579,40 +3543,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE166/"
     },
     {
-      "Código": "264127ACT013",
-      "Título": "PRESENTACIÓN DE PROYECTOS DE LA 24ª FERIA DE LA CIENCIA. UN DÍA",
+      "Código": "264127ALI006",
+      "Título": "ELABORACIÓN DE SITUACIONES DE APRENDIZAJE PARA LA INTERNACIONALIZACIÓN DE LOS CENTROS DE SECUNDARIA Y BACHILLERATO",
       "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
+      "Modalidad": "Curso",
       "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "06/05/2026",
-      "Fin": "06/05/2026",
+      "Inicio": "02/04/2026",
+      "Fin": "30/05/2026",
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT013/"
-    },
-    {
-      "Código": "264127ACT014",
-      "Título": "PRESENTACIÓN DE PROYECTOS DE LA 24ª FERIA DE LA CIENCIA. DOS DÍAS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "06/05/2026",
-      "Fin": "07/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT014/"
-    },
-    {
-      "Código": "264127ACT015",
-      "Título": "PRESENTACIÓN DE PROYECTOS DE LA 24ª FERIA DE LA CIENCIA. TRES DÍAS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "06/05/2026",
-      "Fin": "08/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT015/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI006/"
     },
     {
       "Código": "269922QPF013",
@@ -3673,30 +3613,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE020/"
-    },
-    {
-      "Código": "262115GE047",
-      "Título": "ENCUENTRO PROVINCIAL DE AULAS ESPECÍFICAS DE EDUCACIÓN ESPECIAL",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Otros",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "06/05/2026",
-      "Fin": "07/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE047/"
-    },
-    {
-      "Código": "262321GE025",
-      "Título": "RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "05/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE025/"
     },
     {
       "Código": "262922GE161",
@@ -4575,6 +4491,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE039/"
     },
     {
+      "Código": "262115GE047",
+      "Título": "ENCUENTRO PROVINCIAL DE AULAS ESPECÍFICAS DE EDUCACIÓN ESPECIAL",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Otros",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "06/05/2026",
+      "Fin": "07/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE047/"
+    },
+    {
+      "Código": "262115GE062",
+      "Título": "CRISTOLOGÍA",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "05/05/2026",
+      "Fin": "06/05/2026",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE062/"
+    },
+    {
       "Código": "262116GE001",
       "Título": "GESTIÓN ECONÓMICA Y ADMINISTRATIVA PARA SECRETARI@S NOVELES",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -4719,6 +4659,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/"
     },
     {
+      "Código": "262321GE024",
+      "Título": "IMPRESIÓN 3D EN EL AULA. DE PRIMARIA A SECUNDARIA",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "07/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE024/"
+    },
+    {
+      "Código": "262321GE025",
+      "Título": "RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "05/05/2026",
+      "Fin": "20/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE025/"
+    },
+    {
       "Código": "262922GE153",
       "Título": "DISEÑO DE EXPERIENCIAS INTERMODULARES CON APRENDIZAJE BASADO EN RETOS.",
       "CEP": "29200014 - CEP Málaga",
@@ -4784,8 +4748,8 @@
       "CEP": "29200014 - CEP Málaga",
       "Modalidad": "Curso",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "11/05/2026",
-      "Fin": "13/05/2026",
+      "Inicio": "01/06/2026",
+      "Fin": "03/06/2026",
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE165/"
