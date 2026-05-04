@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-04T11:41:50.115716+00:00",
-  "total": 458,
+  "generado": "2026-05-04T15:54:16.935358+00:00",
+  "total": 459,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1707,6 +1707,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE010/"
     },
     {
+      "Código": "262319GE046",
+      "Título": "V JORNADAS PARA DIRECCIONES DE CENTROS EDUCATIVOS. PLAN DE VUELO COMPARTIDO: RUMBO, EQUIPO Y LIDERAZGO EN LA DIRECCIÓN ESCOLAR",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "27/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE046/"
+    },
+    {
       "Código": "262319GT044",
       "Título": "YO TAMBIÉN JUEGO, ¿TEApuntas?",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -2895,6 +2907,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE027/"
     },
     {
+      "Código": "262115GE063",
+      "Título": "HERRAMIENTAS INCLUSIVAS EN EL ALUMNADO. CENTROS CONCERTADOS",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "27/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE063/"
+    },
+    {
       "Código": "262115GE069",
       "Título": "I JORNADAS DE INCLUSIÓN EDUCATIVA Y ACCESIBILIDAD: DE EDUCACIÓN INFANTIL A LA UNIVERSIDAD",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -3183,18 +3207,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE085/"
     },
     {
-      "Código": "26402GE021",
-      "Título": "HERRAMIENTAS PARA EL CUIDADO DEL BIENESTAR DOCENTE II: MINDFULNESS EN LA GESTIÓN EMOCIONAL DOCENTE",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26402GE021/"
-    },
-    {
       "Código": "26403GE033",
       "Título": "RASGAR COLORES: ARTE, PALABRA Y CREATIVIDAD PARA LA INCLUSIÓN Y EL BIENESTAR DE LA PRIMERA INFANCIA",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -3229,18 +3241,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE040/"
-    },
-    {
-      "Código": "264127ACT035",
-      "Título": "ASESORAMIENTO SOBRE COMPETENCIA LINGÜÍSTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "04/05/2026",
-      "Fin": "04/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/"
     },
     {
       "Código": "264127AFP038",
@@ -3337,18 +3337,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128CON035/"
-    },
-    {
-      "Código": "264129INT24",
-      "Título": "II JORNADAS DE INNOVACIÓN EDUCATIVA. RETOS Y PERSPECTIVAS EDUCATIVAS",
-      "CEP": "41200030 - CEP Osuna - Écija",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/05/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT24/"
     },
     {
       "Código": "264130ARD005",
@@ -3541,6 +3529,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE166/"
+    },
+    {
+      "Código": "264127ACT035",
+      "Título": "ASESORAMIENTO SOBRE COMPETENCIA LINGÜÍSTICA EN EL CDP NUESTRA SEÑORA DE ANDÉVALO",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "04/05/2026",
+      "Fin": "04/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACT035/"
     },
     {
       "Código": "264127ALI006",
@@ -4659,18 +4659,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/"
     },
     {
-      "Código": "262321GE024",
-      "Título": "IMPRESIÓN 3D EN EL AULA. DE PRIMARIA A SECUNDARIA",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE024/"
-    },
-    {
       "Código": "262321GE025",
       "Título": "RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS",
       "CEP": "23200041 - CEP Orcera",
@@ -4885,6 +4873,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE079/"
+    },
+    {
+      "Código": "26402GE021",
+      "Título": "HERRAMIENTAS PARA EL CUIDADO DEL BIENESTAR DOCENTE II: MINDFULNESS EN LA GESTIÓN EMOCIONAL DOCENTE",
+      "CEP": "04200020 - CEP El Ejido",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "07/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26402GE021/"
     },
     {
       "Código": "26403GE038",
@@ -5269,6 +5269,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT23/"
+    },
+    {
+      "Código": "264129INT24",
+      "Título": "II JORNADAS DE INNOVACIÓN EDUCATIVA. RETOS Y PERSPECTIVAS EDUCATIVAS",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "05/05/2026",
+      "Fin": "06/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT24/"
     },
     {
       "Código": "264130CT001",
