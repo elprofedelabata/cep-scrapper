@@ -51,6 +51,14 @@ def fecha_rss(iso_str):
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
 
+def fecha_sort(fecha_str):
+    """'DD/MM/YYYY' → 'YYYYMMDD' para ordenación lexicográfica."""
+    if not fecha_str:
+        return "00000000"
+    p = fecha_str.split("/")
+    return (p[2] + p[1] + p[0]) if len(p) == 3 else "00000000"
+
+
 def nombre_cep(cep_str):
     """'18200016 - CEP Granada' → 'CEP Granada'"""
     if " - " in cep_str:
@@ -284,7 +292,10 @@ def card_html(a):
          data-cep="{slug(nombre_cep(a.get('CEP','')))}"
          data-modalidad="{slug(a.get('Modalidad',''))}"
          data-estado="{slug(a.get('Estado',''))}"
-         data-dirigido="{slug(a.get('Dirigido a',''))}">
+         data-dirigido="{slug(a.get('Dirigido a',''))}"
+         data-titulo="{a.get('Título','').replace(chr(34),'&quot;')}"
+         data-inicio="{fecha_sort(a.get('Inicio',''))}"
+         data-fin="{fecha_sort(a.get('Fin',''))}">
       <div class="card-header">
         <span class="codigo">{a.get('Código','')}</span>
         {badge(estado)}
@@ -390,10 +401,44 @@ def panel_rss_html(por_cep):
   </div>"""
 
 
+SVG_ORDENAR = ('<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" '
+               'viewBox="0 0 24 24" aria-hidden="true">'
+               '<path fill="currentColor" d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z"/>'
+               '</svg>')
+
+SVG_ORDEN_ASC = ('<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 640 640">'
+                 '<path fill="currentColor" d="m294.6 454.6l-80 80c-12.5 12.5-32.8 12.5-45.3 0l-80-80c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l25.4 25.4V128c0-17.7 14.3-32 32-32s32 14.3 32 32v306.7l25.4-25.4c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3zm182-340.9c50.7 101.3 77.3 154.7 80 160c7.9 15.8 1.5 35-14.3 42.9s-35 1.5-42.9-14.3l-7.2-14.3h-88.4l-7.2 14.3c-7.9 15.8-27.1 22.2-42.9 14.3s-22.2-27.1-14.3-42.9c2.7-5.3 29.3-58.7 80-160C424.8 102.9 435.9 96 448 96s23.2 6.8 28.6 17.7M448 199.6L427.8 240h40.4zM352 384c0-17.7 14.3-32 32-32h128c12.9 0 24.6 7.8 29.6 19.8s2.2 25.7-6.9 34.9L461.3 480H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H384c-12.9 0-24.6-7.8-29.6-19.8s-2.2-25.7 6.9-34.9l73.4-73.4H384c-17.7 0-32-14.3-32-32z"/>'
+                 '</svg>')
+
+SVG_ORDEN_DESC = ('<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 640 640">'
+                  '<path fill="currentColor" d="m294.6 454.6l-80 80c-12.5 12.5-32.8 12.5-45.3 0l-80-80c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l25.4 25.4V128c0-17.7 14.3-32 32-32s32 14.3 32 32v306.7l25.4-25.4c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3zM352 128c0-17.7 14.3-32 32-32h128c12.9 0 24.6 7.8 29.6 19.8s2.2 25.7-6.9 34.9L461.3 224H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H384c-12.9 0-24.6-7.8-29.6-19.8s-2.2-25.7 6.9-34.9l73.5-73.3H384c-17.7 0-32-14.3-32-32m124.6 209.7l80 160c7.9 15.8 1.5 35-14.3 42.9s-35 1.5-42.9-14.3l-7.2-14.3h-88.4l-7.2 14.3c-7.9 15.8-27.1 22.2-42.9 14.3s-22.2-27.1-14.3-42.9l80-160c5.4-10.8 16.5-17.7 28.6-17.7s23.2 6.8 28.6 17.7M448 423.6L427.8 464h40.4z"/>'
+                  '</svg>')
+
+
+def panel_orden_html():
+    opciones = [
+        ("titulo",  "Título actividad"),
+        ("inicio",  "Fecha inicio"),
+        ("fin",     "Fecha fin"),
+        ("cep",     "CEP"),
+        ("estado",  "Estado"),
+    ]
+    items = "".join(
+        f'<li class="orden-item{"  orden-activo" if campo == "titulo" else ""}" '
+        f'data-campo="{campo}" onclick="seleccionarOrden(\'{campo}\')">'
+        f'<span>{label}</span>'
+        f'<span class="orden-dir">{SVG_ORDEN_ASC if campo == "titulo" else "↕"}</span>'
+        f'</li>'
+        for campo, label in opciones
+    )
+    return f'<ul id="panel-orden" class="panel-orden hidden">{items}</ul>'
+
+
 def generar_html(actividades, por_cep, generado):
     cards = "\n".join(card_html(a) for a in actividades)
     panel = panel_filtros_html(por_cep, actividades)
     rss_panel = panel_rss_html(por_cep)
+    orden_panel = panel_orden_html()
     dt    = (datetime.fromisoformat(generado)
              .replace(tzinfo=timezone.utc)
              .astimezone(ZoneInfo("Europe/Madrid"))
@@ -513,7 +558,7 @@ def generar_html(actividades, por_cep, generado):
       background: white;
       outline-color: var(--blue-bell);
     }}
-    .btn-filtrar, .btn-rss {{
+    .btn-filtrar, .btn-ordenar, .btn-rss {{
       padding: .45rem 1rem;
       background: var(--imperial-blue);
       color: white;
@@ -523,9 +568,32 @@ def generar_html(actividades, por_cep, generado):
       transition: background .15s;
       white-space: nowrap;
     }}
-    .btn-filtrar svg, .btn-rss svg {{ flex-shrink: 0; }}
-    .btn-filtrar:hover, .btn-rss:hover {{ background: var(--blue-bell); }}
-    .btn-filtrar.activo, .btn-rss.activo {{ background: var(--magenta-bloom); }}
+    .btn-filtrar svg, .btn-ordenar svg, .btn-rss svg {{ flex-shrink: 0; }}
+    .btn-filtrar:hover, .btn-ordenar:hover, .btn-rss:hover {{ background: var(--blue-bell); }}
+    .btn-filtrar.activo, .btn-ordenar.activo, .btn-rss.activo {{ background: var(--magenta-bloom); }}
+    .ordenar-wrap {{ position: relative; }}
+    .panel-orden {{
+      position: absolute;
+      top: 100%; left: 0;
+      z-index: 30;
+      width: 210px;
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 0 0 8px 8px;
+      box-shadow: 0 18px 45px rgba(10,36,99,.24);
+      list-style: none; padding: .3rem 0; margin: 0;
+    }}
+    .panel-orden.hidden {{ display: none; }}
+    .orden-item {{
+      display: flex; justify-content: space-between; align-items: center;
+      padding: .5rem 1rem; font-size: .82rem;
+      cursor: pointer; color: var(--text);
+      transition: background .1s; user-select: none;
+    }}
+    .orden-item:hover {{ background: var(--bg); }}
+    .orden-activo {{ color: var(--imperial-blue); font-weight: 700; }}
+    .orden-dir {{ opacity: .4; margin-left: .5rem; display: flex; align-items: center; }}
+    .orden-activo .orden-dir {{ opacity: 1; }}
     .panel-filtros {{
       position: absolute;
       top: 100%;
@@ -733,7 +801,8 @@ def generar_html(actividades, por_cep, generado):
       .toolbar {{ padding: .6rem 1rem; gap: .5rem; }}
       .toolbar-left {{ flex: 1; min-width: 0; }}
       .btn-txt {{ display: none; }}
-      .btn-filtrar, .btn-rss {{ padding: .45rem .7rem; }}
+      .btn-filtrar, .btn-ordenar, .btn-rss {{ padding: .45rem .7rem; }}
+      .panel-orden {{ left: auto; right: 0; width: 170px; }}
       .toolbar input {{ font-size: .8rem; }}
       .panel-filtros {{ padding: .9rem 1rem; left: 0; right: 0; border-radius: 0; }}
       .cep-grid {{ grid-template-columns: repeat(2, 1fr); }}
@@ -780,6 +849,10 @@ def generar_html(actividades, por_cep, generado):
                  oninput="filtrar()">
         </div>
         <button class="btn-filtrar" onclick="toggleFiltros()" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20 2H4c-.55 0-1 .45-1 1v2c0 .24.09.48.25.66L10 13.38V21c0 .4.24.77.62.92a.995.995 0 0 0 1.09-.21l2-2A1 1 0 0 0 14 19v-5.62l6.75-7.72c.16-.18.25-.42.25-.66V3c0-.55-.45-1-1-1"/></svg><span class="btn-txt"> Filtrar</span></button>
+        <div class="ordenar-wrap">
+          <button class="btn-ordenar" onclick="toggleOrden()" aria-expanded="false">{SVG_ORDENAR}<span class="btn-txt"> Ordenar</span></button>
+          {orden_panel}
+        </div>
       </div>
       <button class="btn-rss" onclick="toggleRss()" aria-expanded="false">{SVG_RSS}<span class="btn-txt"> RSS</span></button>
       {rss_panel}
@@ -823,6 +896,7 @@ def generar_html(actividades, por_cep, generado):
       const btn = document.querySelector('.btn-rss');
       const abrir = panel.classList.contains('hidden');
       cerrarPanel('panel-filtros', '.btn-filtrar');
+      cerrarPanel('panel-orden', '.btn-ordenar');
       panel.classList.toggle('hidden', !abrir);
       btn.classList.toggle('activo', abrir);
       btn.setAttribute('aria-expanded', abrir ? 'true' : 'false');
@@ -833,10 +907,61 @@ def generar_html(actividades, por_cep, generado):
       const btn   = document.querySelector('.btn-filtrar');
       const abrir = panel.classList.contains('hidden');
       cerrarPanel('panel-rss', '.btn-rss');
+      cerrarPanel('panel-orden', '.btn-ordenar');
       panel.classList.toggle('hidden', !abrir);
       btn.classList.toggle('activo', abrir);
       btn.setAttribute('aria-expanded', abrir ? 'true' : 'false');
     }}
+
+    let ordenActual = {{ campo: 'titulo', dir: 'asc' }};
+
+    function toggleOrden() {{
+      const panel = document.getElementById('panel-orden');
+      const btn   = document.querySelector('.btn-ordenar');
+      const abrir = panel.classList.contains('hidden');
+      cerrarPanel('panel-filtros', '.btn-filtrar');
+      cerrarPanel('panel-rss', '.btn-rss');
+      panel.classList.toggle('hidden', !abrir);
+      btn.classList.toggle('activo', abrir);
+      btn.setAttribute('aria-expanded', abrir ? 'true' : 'false');
+    }}
+
+    const _svgAsc = `{SVG_ORDEN_ASC}`;
+    const _svgDesc = `{SVG_ORDEN_DESC}`;
+
+    function aplicarOrden() {{
+      document.querySelectorAll('.orden-item').forEach(item => {{
+        const activo = item.dataset.campo === ordenActual.campo;
+        item.classList.toggle('orden-activo', activo);
+        item.querySelector('.orden-dir').innerHTML =
+          activo ? (ordenActual.dir === 'asc' ? _svgAsc : _svgDesc) : '↕';
+      }});
+      const grid = document.getElementById('grid');
+      const sinRes = document.getElementById('sin-resultados');
+      const cards = [...grid.querySelectorAll('.card')];
+      const mult = ordenActual.dir === 'asc' ? 1 : -1;
+      cards.sort((a, b) => {{
+        const va = a.dataset[ordenActual.campo] || '';
+        const vb = b.dataset[ordenActual.campo] || '';
+        if (ordenActual.campo === 'inicio' || ordenActual.campo === 'fin')
+          return mult * va.localeCompare(vb);
+        return mult * va.localeCompare(vb, 'es', {{ sensitivity: 'base' }});
+      }});
+      cards.forEach(c => grid.appendChild(c));
+      grid.appendChild(sinRes);
+    }}
+
+    function seleccionarOrden(campo) {{
+      if (ordenActual.campo === campo) {{
+        ordenActual.dir = ordenActual.dir === 'asc' ? 'desc' : 'asc';
+      }} else {{
+        ordenActual.campo = campo;
+        ordenActual.dir = 'asc';
+      }}
+      aplicarOrden();
+    }}
+
+    aplicarOrden();
 
     function filtrar() {{
       window.scrollTo({{ top: 0, behavior: 'smooth' }});
