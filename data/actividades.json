@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-04T19:12:03.462546+00:00",
-  "total": 458,
+  "generado": "2026-05-04T22:22:25.771520+00:00",
+  "total": 459,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1707,18 +1707,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE010/"
     },
     {
-      "Código": "262319GE046",
-      "Título": "V JORNADAS PARA DIRECCIONES DE CENTROS EDUCATIVOS. PLAN DE VUELO COMPARTIDO: RUMBO, EQUIPO Y LIDERAZGO EN LA DIRECCIÓN ESCOLAR",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "27/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE046/"
-    },
-    {
       "Código": "262319GT044",
       "Título": "YO TAMBIÉN JUEGO, ¿TEApuntas?",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -3039,6 +3027,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE033/"
     },
     {
+      "Código": "262319GE043",
+      "Título": "LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "25/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/"
+    },
+    {
+      "Código": "262319GE046",
+      "Título": "V JORNADAS PARA DIRECCIONES DE CENTROS EDUCATIVOS. PLAN DE VUELO COMPARTIDO: RUMBO, EQUIPO Y LIDERAZGO EN LA DIRECCIÓN ESCOLAR",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "27/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Equipos directivos",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE046/"
+    },
+    {
       "Código": "262320GE041",
       "Título": "INVESTIGACIÓN-ACCIÓN EN EL LABORATORIO DE CIENCIAS",
       "CEP": "23200031 - CEP Úbeda",
@@ -3697,18 +3709,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI029/"
-    },
-    {
-      "Código": "264131GE038",
-      "Título": "RESPUESTA INCLUSIVA A LAS DIFICULTADES ESPECÍFICAS DE APRENDIZAJE EN MATEMÁTICAS, ESCRITURA Y LECTURA: BARRERAS AL APRENDIZAJE Y ESTRATEGIAS PARA LA ACCIÓN DIDÁCTICA (DISORTOGRAFÍA - DISCALCULIA)",
-      "CEP": "41200054 - CEP Lebrija",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "07/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GE038/"
     },
     {
       "Código": "26IK9902AV381",
@@ -5293,6 +5293,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130CT003/"
+    },
+    {
+      "Código": "264131GE038",
+      "Título": "RESPUESTA INCLUSIVA A LAS DIFICULTADES ESPECÍFICAS DE APRENDIZAJE EN MATEMÁTICAS, ESCRITURA Y LECTURA: BARRERAS AL APRENDIZAJE Y ESTRATEGIAS PARA LA ACCIÓN DIDÁCTICA (DISORTOGRAFÍA - DISCALCULIA)",
+      "CEP": "41200054 - CEP Lebrija",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "07/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GE038/"
     },
     {
       "Código": "264132GE011",

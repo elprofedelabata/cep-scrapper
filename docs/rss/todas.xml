@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 04 May 2026 22:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 22:22:26 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -1001,13 +1001,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>262319GE046 — V JORNADAS PARA DIRECCIONES DE CENTROS EDUCATIVOS. PLAN DE VUELO COMPARTIDO: RUMBO, EQUIPO Y LIDERAZGO EN LA DIRECCIÓN ESCOLAR</title>
-      <description>23200028 - CEP Linares - Andújar | Curso | 27/05/2026 → 27/05/2026 | Dirigido a: Equipos directivos | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE046/</link>
-      <guid isPermaLink="false">262319GE046</guid>
-      <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
-    </item>
-    <item>
       <title>262319GT044 — YO TAMBIÉN JUEGO, ¿TEApuntas?</title>
       <description>23200028 - CEP Linares - Andújar | Grupos de trabajo | 20/10/2025 → 31/05/2026 | Dirigido a: Comunidad educativa | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT044/</link>
@@ -1778,6 +1771,20 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
+      <title>262319GE043 — LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL</title>
+      <description>23200028 - CEP Linares - Andújar | Curso Semipresencial | 25/05/2026 → 27/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/</link>
+      <guid isPermaLink="false">262319GE043</guid>
+      <pubDate>Mon, 04 May 2026 22:22:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>262319GE046 — V JORNADAS PARA DIRECCIONES DE CENTROS EDUCATIVOS. PLAN DE VUELO COMPARTIDO: RUMBO, EQUIPO Y LIDERAZGO EN LA DIRECCIÓN ESCOLAR</title>
+      <description>23200028 - CEP Linares - Andújar | Curso | 27/05/2026 → 27/05/2026 | Dirigido a: Equipos directivos | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE046/</link>
+      <guid isPermaLink="false">262319GE046</guid>
+      <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
+    </item>
+    <item>
       <title>262320GE041 — INVESTIGACIÓN-ACCIÓN EN EL LABORATORIO DE CIENCIAS</title>
       <description>23200031 - CEP Úbeda | Curso a Distancia | 18/05/2026 → 26/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE041/</link>
@@ -2161,13 +2168,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI029/</link>
       <guid isPermaLink="false">264127PRI029</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>264131GE038 — RESPUESTA INCLUSIVA A LAS DIFICULTADES ESPECÍFICAS DE APRENDIZAJE EN MATEMÁTICAS, ESCRITURA Y LECTURA: BARRERAS AL APRENDIZAJE Y ESTRATEGIAS PARA LA ACCIÓN DIDÁCTICA (DISORTOGRAFÍA - DISCALCULIA)</title>
-      <description>41200054 - CEP Lebrija | Curso con Seguimiento | 07/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GE038/</link>
-      <guid isPermaLink="false">264131GE038</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
       <title>26IK9902AV381 — DETECCIÓN DE SIGNOS DE ALERTA EN EL DESARROLLO INFANTIL (0-3 AÑOS)</title>
@@ -3091,6 +3091,13 @@
       <description>41200042 - CEP Mairena del Alcor | Jornadas | 23/04/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130CT003/</link>
       <guid isPermaLink="false">264130CT003</guid>
+      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>264131GE038 — RESPUESTA INCLUSIVA A LAS DIFICULTADES ESPECÍFICAS DE APRENDIZAJE EN MATEMÁTICAS, ESCRITURA Y LECTURA: BARRERAS AL APRENDIZAJE Y ESTRATEGIAS PARA LA ACCIÓN DIDÁCTICA (DISORTOGRAFÍA - DISCALCULIA)</title>
+      <description>41200054 - CEP Lebrija | Curso con Seguimiento | 07/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GE038/</link>
+      <guid isPermaLink="false">264131GE038</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
