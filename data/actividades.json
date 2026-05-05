@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-05T19:03:24.310710+00:00",
-  "total": 456,
+  "generado": "2026-05-05T22:44:43.648106+00:00",
+  "total": 454,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2535,18 +2535,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269902KPF616/"
     },
     {
-      "Código": "269907KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "En proyecto",
-      "Inicio": "18/05/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269907KPF616/"
-    },
-    {
       "Código": "269923KPF616",
       "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -2979,18 +2967,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE027/"
     },
     {
-      "Código": "262319GE030",
-      "Título": "TÉCNICAS DE PRIMEROS AUXILIOS EN CENTROS EDUCATIVOS",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "06/05/2026",
-      "Fin": "13/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE030/"
-    },
-    {
       "Código": "262319GE033",
       "Título": "DUA-DISEÑO MULTINIVEL-EVALUACIÓN DE BARRERAS: DEL DISEÑO ACCESIBLE AL AULA TRANSFORMADORA",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -3277,6 +3253,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130ARD005/"
+    },
+    {
+      "Código": "269907KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "18/05/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269907KPF616/"
     },
     {
       "Código": "269913KPF616",
@@ -3613,6 +3601,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
+    },
+    {
+      "Código": "262319GE030",
+      "Título": "TÉCNICAS DE PRIMEROS AUXILIOS EN CENTROS EDUCATIVOS",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "06/05/2026",
+      "Fin": "13/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE030/"
     },
     {
       "Código": "262922GE161",
@@ -4489,18 +4489,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE047/"
-    },
-    {
-      "Código": "262115GE062",
-      "Título": "CRISTOLOGÍA",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE062/"
     },
     {
       "Código": "262116GE001",
@@ -5401,18 +5389,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269917OE600/"
-    },
-    {
-      "Código": "269919KPF429",
-      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL B2",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "29/04/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269919KPF429/"
     },
     {
       "Código": "269923BE001",
