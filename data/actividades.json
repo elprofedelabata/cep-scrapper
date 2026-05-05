@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-05T11:09:47.177324+00:00",
-  "total": 458,
+  "generado": "2026-05-05T15:38:15.930632+00:00",
+  "total": 457,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -975,18 +975,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814FC017/"
     },
     {
-      "Código": "261814GE025",
-      "Título": "VELA LIGERA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "13/05/2026",
-      "Fin": "13/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE025/"
-    },
-    {
       "Código": "261814GE044",
       "Título": "VIOLENCIA SEXUAL EN LA ERA DIGITAL: EL PAPEL DE LAS REDES SOCIALES Y EL CONSUMO DE PORNOGRAFÍA",
       "CEP": "18200041 - CEP Baza",
@@ -1741,6 +1729,18 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GT058/"
+    },
+    {
+      "Código": "262321GE028",
+      "Título": "LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO",
+      "CEP": "23200041 - CEP Orcera",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "26/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE028/"
     },
     {
       "Código": "262922GE041",
@@ -2763,18 +2763,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE246/"
     },
     {
-      "Código": "261812GE019",
-      "Título": "INTERVENCIONES ESPECIALIZADAS PARA ALUMNADO CON DIFICULTADES EN LECTURA, ESCRITURA, HABLA Y LENGUAJE",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "06/05/2026",
-      "Fin": "03/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE019/"
-    },
-    {
       "Código": "261812GE098",
       "Título": "DEPORTE DE PALA COMO HERRAMIENTA EDUCATIVA",
       "CEP": "18200028 - CEP Motril",
@@ -2840,47 +2828,23 @@
       "CEP": "18200041 - CEP Baza",
       "Modalidad": "Curso a Distancia",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "05/05/2026",
+      "Inicio": "12/05/2026",
       "Fin": "04/06/2026",
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE011/"
     },
     {
-      "Código": "261814GE013",
-      "Título": "XVI ENCUENTRO DE AULAS ESPECÍFICAS: ESTRATEGIAS DE CONTENCIÓN PARA  ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE013/"
-    },
-    {
-      "Código": "261814GE035",
-      "Título": "ESTRATEGIAS DE CONTENCIÓN VERBAL Y FÍSICA EN ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
+      "Código": "261814GE025",
+      "Título": "VELA LIGERA",
       "CEP": "18200041 - CEP Baza",
       "Modalidad": "Curso",
       "Estado": "Abierto plazo solicitudes",
-      "Inicio": "07/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Internivelar",
+      "Inicio": "13/05/2026",
+      "Fin": "13/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
-    },
-    {
-      "Código": "261814GE041",
-      "Título": "EDUCAR EN IGUALDAD, ACTUAR CON ALUMNADO DE INFANTIL, PREADOLESCENTE Y ADOLESCENTE.  ESTRATEGIAS EN EL AULA.",
-      "CEP": "18200041 - CEP Baza",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "06/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE041/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE025/"
     },
     {
       "Código": "261814GE045",
@@ -3627,6 +3591,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE111/"
     },
     {
+      "Código": "261814GE013",
+      "Título": "XVI ENCUENTRO DE AULAS ESPECÍFICAS: ESTRATEGIAS DE CONTENCIÓN PARA  ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "07/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE013/"
+    },
+    {
+      "Código": "261814GE035",
+      "Título": "ESTRATEGIAS DE CONTENCIÓN VERBAL Y FÍSICA EN ALUMNADO CON NEE ASOCIADAS A TRASTORNOS GRAVES DE CONDUCTA",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "07/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
+    },
+    {
       "Código": "262922GE161",
       "Título": "TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN",
       "CEP": "29200014 - CEP Málaga",
@@ -3651,20 +3639,8 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
     },
     {
-      "Código": "262923FP162",
-      "Título": "IMAGEN PERSONAL CON PROPÓSITO ONCOLÓGICO",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "18/05/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923FP162/"
-    },
-    {
       "Código": "26403GE039",
-      "Título": "EL DOCUMENTAL AUDIOVISUAL Y SONORO COMO VÍA DE EXPRESIÓN EMOCIONAL Y ARTÍSTICA DEL ALUMNADO.",
+      "Título": "EL DOCUMENTAL AUDIOVISUAL Y SONORO COMO VÍA DE EXPRESIÓN EMOCIONAL Y ARTÍSTICA DEL ALUMNADO",
       "CEP": "04200032 - CEP Cuevas - Olula",
       "Modalidad": "Curso",
       "Estado": "Publicadas Listas Provisionales",
@@ -4275,6 +4251,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812CTD077/"
     },
     {
+      "Código": "261812GE019",
+      "Título": "INTERVENCIONES ESPECIALIZADAS PARA ALUMNADO CON DIFICULTADES EN LECTURA, ESCRITURA, HABLA Y LENGUAJE",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "06/05/2026",
+      "Fin": "03/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE019/"
+    },
+    {
       "Código": "261812GE113",
       "Título": "PAQUETE DEL SOFTWARE SOL (FACTUSOL, NOMINASOL Y CONTASOL)",
       "CEP": "18200028 - CEP Motril",
@@ -4453,6 +4441,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE036/"
+    },
+    {
+      "Código": "261814GE041",
+      "Título": "EDUCAR EN IGUALDAD, ACTUAR CON ALUMNADO DE INFANTIL, PREADOLESCENTE Y ADOLESCENTE.  ESTRATEGIAS EN EL AULA.",
+      "CEP": "18200041 - CEP Baza",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "06/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE041/"
     },
     {
       "Código": "261814GE043",
@@ -4755,6 +4755,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923FP161/"
     },
     {
+      "Código": "262923FP162",
+      "Título": "IMAGEN PERSONAL CON PROPÓSITO ONCOLÓGICO",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "18/05/2026",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923FP162/"
+    },
+    {
       "Código": "262923GE301",
       "Título": "NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL. CUERPO, CORAZÓN Y CEREBRO",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -4837,18 +4849,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE076/"
-    },
-    {
-      "Código": "26401GE079",
-      "Título": "MODELOS DIGITALES 3D EN INSTALACIONES Y SU GESTIÓN Y CONTROL EN PROYECTOS DE CONSTRUCCIÓN (BIM)",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "09/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE079/"
     },
     {
       "Código": "26401GE080",
@@ -5413,18 +5413,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269917OE600/"
-    },
-    {
-      "Código": "269918KPF582",
-      "Título": "GENERADOR DE SDA (CON PE Y ACS) A TRAVÉS DE IA (INFANTIL Y PRIMARIA)",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269918KPF582/"
     },
     {
       "Código": "269919KPF429",
