@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-05T15:38:15.930632+00:00",
-  "total": 457,
+  "generado": "2026-05-05T19:03:24.310710+00:00",
+  "total": 456,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -877,6 +877,18 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE198/"
+    },
+    {
+      "Código": "261811GE219",
+      "Título": "CONVIVENCIA +. PRÁCTICAS RELEVANTES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "En proyecto",
+      "Inicio": "10/06/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE219/"
     },
     {
       "Código": "261811GT140",
@@ -3135,30 +3147,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262926GE705/"
     },
     {
-      "Código": "26401GE060",
-      "Título": "LOS BOSQUES DEL SUR: EL PARQUE NACIONAL DE SIERRA NEVADA",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Encuentro",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "12/05/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE060/"
-    },
-    {
-      "Código": "26401GE071",
-      "Título": "XLI JORNADAS DE TEATRO DEL SIGLO DE ORO DE ALMERÍA. CICLO ACADÉMICO 2025",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "08/05/2026",
-      "Fin": "09/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE071/"
-    },
-    {
       "Código": "26401GE084",
       "Título": "EL ALMERIENSE LORENZO FERRER MALDONADO DESCUBRIDOR DEL ESTRECHO DE BERING. UN CURRÍCULUM ABIERTO Y POR HACER.",
       "CEP": "04200019 - CEP Almería",
@@ -3447,6 +3435,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE166/"
     },
     {
+      "Código": "26401GE060",
+      "Título": "LOS BOSQUES DEL SUR: EL PARQUE NACIONAL DE SIERRA NEVADA",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Encuentro",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "12/05/2026",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE060/"
+    },
+    {
       "Código": "26401GE075",
       "Título": "HACIENDO MÚSICA CON MATERIALES COTIDIANOS: CREATIVIDAD Y SOSTENIBILIDAD EN EL AULA",
       "CEP": "04200019 - CEP Almería",
@@ -3639,6 +3639,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
     },
     {
+      "Código": "26401GE071",
+      "Título": "XLI JORNADAS DE TEATRO DEL SIGLO DE ORO DE ALMERÍA. CICLO ACADÉMICO 2025",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "08/05/2026",
+      "Fin": "09/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE071/"
+    },
+    {
       "Código": "26403GE039",
       "Título": "EL DOCUMENTAL AUDIOVISUAL Y SONORO COMO VÍA DE EXPRESIÓN EMOCIONAL Y ARTÍSTICA DEL ALUMNADO",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -3685,18 +3697,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI029/"
-    },
-    {
-      "Código": "26IK9902AV381",
-      "Título": "DETECCIÓN DE SIGNOS DE ALERTA EN EL DESARROLLO INFANTIL (0-3 AÑOS)",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "12/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26IK9902AV381/"
     },
     {
       "Código": "261104FEDAP054",
@@ -5017,18 +5017,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127KPF248/"
-    },
-    {
-      "Código": "264127KPF484",
-      "Título": "LA CIBERSEGURIDAD EN EL ÁMBITO EDUCATIVO",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "17/04/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127KPF484/"
     },
     {
       "Código": "264127PCT031",
