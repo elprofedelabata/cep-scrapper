@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Granada</description>
     <language>es</language>
-    <lastBuildDate>Tue, 05 May 2026 04:52:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:52:51 +0000</lastBuildDate>
     <item>
       <title>261811GE018 — CICLO DE CONFERENCIAS: ACTUALIZACION CIENTIFICA  EN NEUROCIENCIA</title>
       <description>18200016 - CEP Granada | Curso | 10/02/2026 → 30/04/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -77,13 +77,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261811GE226 — AUDIOVISUAL ANIMADO EN CLASE: DEL PAPEL A LA PANTALLA</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 07/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE226/</link>
-      <guid isPermaLink="false">261811GE226</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261811GE241 — JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD</title>
       <description>18200016 - CEP Granada | Jornadas | 13/05/2026 → 14/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/</link>
@@ -112,6 +105,13 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
+      <title>261811GE085 — FORMACIÓN SIMMERSIVE: AULA INMERSIVA CPIFP HURTADO DE MENDOZA</title>
+      <description>18200016 - CEP Granada | Curso | 18/05/2026 → 19/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/</link>
+      <guid isPermaLink="false">261811GE085</guid>
+      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
       <title>261811GE144 — DIVERSAS OPCIONES DE RE-NATURALIZACION DE ESPACIOS EN LOS CENTROS EDUCATIVOS</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 16/04/2026 → 06/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE144/</link>
@@ -131,6 +131,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE183/</link>
       <guid isPermaLink="false">261811GE183</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261811GE226 — AUDIOVISUAL ANIMADO EN CLASE: DEL PAPEL A LA PANTALLA</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 07/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE226/</link>
+      <guid isPermaLink="false">261811GE226</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
