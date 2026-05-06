@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 06 May 2026 11:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:56:58 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -551,6 +551,20 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE114/</link>
       <guid isPermaLink="false">261812GE114</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>261812GE131 — EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO</title>
+      <description>18200028 - CEP Motril | Curso | 21/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/</link>
+      <guid isPermaLink="false">261812GE131</guid>
+      <pubDate>Wed, 06 May 2026 15:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>261812GE132 — PREVENCIÓN E INTERVENCIÓN CONTRA EL BULLYING Y CIBERBULLYING: ESTRATEGIAS PRÁCTICAS Y RECURSOS</title>
+      <description>18200028 - CEP Motril | Curso | 18/05/2026 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE132/</link>
+      <guid isPermaLink="false">261812GE132</guid>
+      <pubDate>Wed, 06 May 2026 15:56:58 +0000</pubDate>
     </item>
     <item>
       <title>261812GT096 — ADAPTACIÓN DE MATERIAL PARA ALUMNADO ATAL</title>
@@ -1575,25 +1589,11 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261811GE076 — ANÁLISIS DE ESCAPE DE GASES Y AIRE ACONDICIONADO. TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS</title>
-      <description>18200016 - CEP Granada | Curso | 11/05/2026 → 28/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE076/</link>
-      <guid isPermaLink="false">261811GE076</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261811GE158 — PROGRAMACIÓN DE TORNO CNC FAGOR Y PROCESO DE MECANIZADO</title>
       <description>18200016 - CEP Granada | Curso Semipresencial | 08/06/2026 → 09/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE158/</link>
       <guid isPermaLink="false">261811GE158</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811GE212 — FORMACIÓN EN VEHÍCULOS HÍBRIDOS Y ELÉCTRICOS</title>
-      <description>18200016 - CEP Granada | Curso | 15/05/2026 → 21/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE212/</link>
-      <guid isPermaLink="false">261811GE212</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261811GE246 — LOS BOSQUES DEL SUR: EL PARQUE NACIONAL DE SIERRA NEVADA</title>
@@ -1712,13 +1712,6 @@
       <description>21200037 - CEP Aracena | Jornadas | 12/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE027/</link>
       <guid isPermaLink="false">262117GE027</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>262318GE077 — CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO</title>
-      <description>23200016 - CEP Jaén | Curso | 11/05/2026 → 13/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/</link>
-      <guid isPermaLink="false">262318GE077</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -2016,10 +2009,10 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>261811GE241 — JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD</title>
-      <description>18200016 - CEP Granada | Jornadas | 13/05/2026 → 14/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/</link>
-      <guid isPermaLink="false">261811GE241</guid>
+      <title>261811GE212 — FORMACIÓN EN VEHÍCULOS HÍBRIDOS Y ELÉCTRICOS</title>
+      <description>18200016 - CEP Granada | Curso | 15/05/2026 → 21/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE212/</link>
+      <guid isPermaLink="false">261811GE212</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -2093,13 +2086,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>269923KPF386 — AUTOEVALUACIÓN. PLAN DE MEJORA Y PROYECTO FORMATIVO</title>
-      <description>29200026 - CEP Marbella - Coín | Curso Semipresencial | 14/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF386/</link>
-      <guid isPermaLink="false">269923KPF386</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261104FEDAP011 — RÉGIMEN JURÍDICO: EXPEDIENTES DISCIPLINARIOS Y CONCRECIÓN DEL PROCEDIMIENTO SANCIONADOR. ESTUDIO DE CASOS APLICADOS A LOS EJES COMPETENCIALES DE LA INSPECCIÓN.</title>
       <description>11200011 - CEP Cádiz | Curso | 14/10/2025 → 30/01/2026 | Dirigido a: Inspección educativa | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/</link>
@@ -2107,11 +2093,25 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
+      <title>261811GE076 — ANÁLISIS DE ESCAPE DE GASES Y AIRE ACONDICIONADO. TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS</title>
+      <description>18200016 - CEP Granada | Curso | 11/05/2026 → 28/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE076/</link>
+      <guid isPermaLink="false">261811GE076</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>261811GE085 — FORMACIÓN SIMMERSIVE: AULA INMERSIVA CPIFP HURTADO DE MENDOZA</title>
       <description>18200016 - CEP Granada | Curso | 18/05/2026 → 19/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/</link>
       <guid isPermaLink="false">261811GE085</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261811GE241 — JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD</title>
+      <description>18200016 - CEP Granada | Jornadas | 13/05/2026 → 14/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/</link>
+      <guid isPermaLink="false">261811GE241</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261812GE111 — HIGIENE POSTURAL EN EL AULA</title>
@@ -2125,6 +2125,13 @@
       <description>18200041 - CEP Baza | Curso | 07/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/</link>
       <guid isPermaLink="false">261814GE035</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262318GE077 — CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO</title>
+      <description>23200016 - CEP Jaén | Curso | 11/05/2026 → 13/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/</link>
+      <guid isPermaLink="false">262318GE077</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -2219,6 +2226,13 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
+      <title>269923KPF386 — AUTOEVALUACIÓN. PLAN DE MEJORA Y PROYECTO FORMATIVO</title>
+      <description>29200026 - CEP Marbella - Coín | Curso Semipresencial | 14/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF386/</link>
+      <guid isPermaLink="false">269923KPF386</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>261104FEDAP054 — FLAMENCO Y CINE. XIX EDICIÓN FLAMENCO CEP DE CÁDIZ</title>
       <description>11200011 - CEP Cádiz | Curso | 05/05/2026 → 12/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP054/</link>
@@ -2268,31 +2282,10 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
-      <title>261107FP007 — LA IA EN POSTPRODUCCIÓN: FLUJOS DE TRABAJO</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso Semipresencial | 21/04/2026 → 16/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP007/</link>
-      <guid isPermaLink="false">261107FP007</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
       <title>261107FP008 — DISEÑO E IMPLEMENTACIÓN DEL PROYECTO INTERMODULAR EN FORMACIÓN PROFESIONAL</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 06/04/2026 → 18/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP008/</link>
       <guid isPermaLink="false">261107FP008</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107FP011 — USO DE AUDIOVISUALES Y CHROMA PARA AULA ATECA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso | 23/04/2026 → 06/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP011/</link>
-      <guid isPermaLink="false">261107FP011</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107GE038 — NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL. FUNCIONES EJECUTIVAS CLAVE.</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso Semipresencial | 22/04/2026 → 06/05/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE038/</link>
-      <guid isPermaLink="false">261107GE038</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
@@ -2336,13 +2329,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE035/</link>
       <guid isPermaLink="false">261409GE035</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261409GE036 — APRENDEMOS A TRABAJAR LA LECTURA Y ESCRITURA DE UNA FORMA DIFERENTE</title>
-      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso con Seguimiento | 05/05/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE036/</link>
-      <guid isPermaLink="false">261409GE036</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261409GE037 — ATENCIÓN A LA DIVERSIDAD E IGUALDAD A TRAVÉS DE UN LENGUAJE INCLUSIVO</title>
@@ -2755,13 +2741,6 @@
       <description>23200031 - CEP Úbeda | Curso a Distancia | 07/05/2026 → 18/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/</link>
       <guid isPermaLink="false">262320GE040</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>262321GE025 — RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS</title>
-      <description>23200041 - CEP Orcera | Curso | 05/05/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE025/</link>
-      <guid isPermaLink="false">262321GE025</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>

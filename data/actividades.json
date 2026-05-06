@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-06T11:43:08.022385+00:00",
-  "total": 457,
+  "generado": "2026-05-06T15:56:58.713884+00:00",
+  "total": 454,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -937,6 +937,30 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE114/"
+    },
+    {
+      "Código": "261812GE131",
+      "Título": "EL ECLIPSE SOLAR DE 2026 COMO RECURSO DIDÁCTICO",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "21/05/2026",
+      "Fin": "12/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE131/"
+    },
+    {
+      "Código": "261812GE132",
+      "Título": "PREVENCIÓN E INTERVENCIÓN CONTRA EL BULLYING Y CIBERBULLYING: ESTRATEGIAS PRÁCTICAS Y RECURSOS",
+      "CEP": "18200028 - CEP Motril",
+      "Modalidad": "Curso",
+      "Estado": "En proyecto",
+      "Inicio": "18/05/2026",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE132/"
     },
     {
       "Código": "261812GT096",
@@ -2691,18 +2715,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
-      "Código": "261811GE076",
-      "Título": "ANÁLISIS DE ESCAPE DE GASES Y AIRE ACONDICIONADO. TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "11/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE076/"
-    },
-    {
       "Código": "261811GE158",
       "Título": "PROGRAMACIÓN DE TORNO CNC FAGOR Y PROCESO DE MECANIZADO",
       "CEP": "18200016 - CEP Granada",
@@ -2713,18 +2725,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE158/"
-    },
-    {
-      "Código": "261811GE212",
-      "Título": "FORMACIÓN EN VEHÍCULOS HÍBRIDOS Y ELÉCTRICOS",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "15/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE212/"
     },
     {
       "Código": "261811GE246",
@@ -2929,18 +2929,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE027/"
-    },
-    {
-      "Código": "262318GE077",
-      "Título": "CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "11/05/2026",
-      "Fin": "13/05/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/"
     },
     {
       "Código": "262319GE023",
@@ -3447,16 +3435,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
     },
     {
-      "Código": "261811GE241",
-      "Título": "JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD",
+      "Código": "261811GE212",
+      "Título": "FORMACIÓN EN VEHÍCULOS HÍBRIDOS Y ELÉCTRICOS",
       "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Jornadas",
+      "Modalidad": "Curso",
       "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "13/05/2026",
-      "Fin": "14/05/2026",
+      "Inicio": "15/05/2026",
+      "Fin": "21/05/2026",
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE212/"
     },
     {
       "Código": "262116GE161",
@@ -3579,18 +3567,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269922QPF013/"
     },
     {
-      "Código": "269923KPF386",
-      "Título": "AUTOEVALUACIÓN. PLAN DE MEJORA Y PROYECTO FORMATIVO",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "14/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF386/"
-    },
-    {
       "Código": "261104FEDAP011",
       "Título": "RÉGIMEN JURÍDICO: EXPEDIENTES DISCIPLINARIOS Y CONCRECIÓN DEL PROCEDIMIENTO SANCIONADOR. ESTUDIO DE CASOS APLICADOS A LOS EJES COMPETENCIALES DE LA INSPECCIÓN.",
       "CEP": "11200011 - CEP Cádiz",
@@ -3603,6 +3579,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
     },
     {
+      "Código": "261811GE076",
+      "Título": "ANÁLISIS DE ESCAPE DE GASES Y AIRE ACONDICIONADO. TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "11/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE076/"
+    },
+    {
       "Código": "261811GE085",
       "Título": "FORMACIÓN SIMMERSIVE: AULA INMERSIVA CPIFP HURTADO DE MENDOZA",
       "CEP": "18200016 - CEP Granada",
@@ -3613,6 +3601,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/"
+    },
+    {
+      "Código": "261811GE241",
+      "Título": "JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "13/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/"
     },
     {
       "Código": "261812GE111",
@@ -3637,6 +3637,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
+    },
+    {
+      "Código": "262318GE077",
+      "Título": "CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "11/05/2026",
+      "Fin": "13/05/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/"
     },
     {
       "Código": "262319GE030",
@@ -3795,6 +3807,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269919KPF386/"
     },
     {
+      "Código": "269923KPF386",
+      "Título": "AUTOEVALUACIÓN. PLAN DE MEJORA Y PROYECTO FORMATIVO",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "14/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF386/"
+    },
+    {
       "Código": "261104FEDAP054",
       "Título": "FLAMENCO Y CINE. XIX EDICIÓN FLAMENCO CEP DE CÁDIZ",
       "CEP": "11200011 - CEP Cádiz",
@@ -3879,18 +3903,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107CTD090/"
     },
     {
-      "Código": "261107FP007",
-      "Título": "LA IA EN POSTPRODUCCIÓN: FLUJOS DE TRABAJO",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "21/04/2026",
-      "Fin": "16/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP007/"
-    },
-    {
       "Código": "261107FP008",
       "Título": "DISEÑO E IMPLEMENTACIÓN DEL PROYECTO INTERMODULAR EN FORMACIÓN PROFESIONAL",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -3901,30 +3913,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP008/"
-    },
-    {
-      "Código": "261107FP011",
-      "Título": "USO DE AUDIOVISUALES Y CHROMA PARA AULA ATECA",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "23/04/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP011/"
-    },
-    {
-      "Código": "261107GE038",
-      "Título": "NEUROEDUCACIÓN APLICADA A LA EDUCACIÓN INFANTIL. FUNCIONES EJECUTIVAS CLAVE.",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "22/04/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE038/"
     },
     {
       "Código": "261408FP022",
@@ -3997,18 +3985,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE035/"
-    },
-    {
-      "Código": "261409GE036",
-      "Título": "APRENDEMOS A TRABAJAR LA LECTURA Y ESCRITURA DE UNA FORMA DIFERENTE",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE036/"
     },
     {
       "Código": "261409GE037",
@@ -4717,18 +4693,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/"
-    },
-    {
-      "Código": "262321GE025",
-      "Título": "RECURSOS DIDÁCTICOS DEL PARQUE NATURAL: PAISAJE E ITINERARIOS",
-      "CEP": "23200041 - CEP Orcera",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE025/"
     },
     {
       "Código": "262922GE153",
