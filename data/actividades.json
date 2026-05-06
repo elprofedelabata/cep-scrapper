@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-05T22:44:43.648106+00:00",
+  "generado": "2026-05-06T05:19:21.867709+00:00",
   "total": 454,
   "actividades": [
     {
@@ -3207,18 +3207,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127KPF517/"
     },
     {
-      "Código": "264127PER012",
-      "Título": "ENCUENTRO DE DIRECCIONES DE EDUCACIÓN PERMANENTE",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Encuentro",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "15/05/2026",
-      "Fin": "15/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PER012/"
-    },
-    {
       "Código": "264127PRI022",
       "Título": "CLAVES PARA UNA ESCUELA INCLUSIVA ATENDIENDO A LA DIVERSIDAD",
       "CEP": "41200017 - CEP Sevilla",
@@ -3493,6 +3481,18 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ARE007/"
+    },
+    {
+      "Código": "264127PER012",
+      "Título": "ENCUENTRO DE DIRECCIONES DE EDUCACIÓN PERMANENTE",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Encuentro",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "15/05/2026",
+      "Fin": "15/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PER012/"
     },
     {
       "Código": "264131GE024",
