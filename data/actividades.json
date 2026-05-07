@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-07T11:42:04.863121+00:00",
-  "total": 447,
+  "generado": "2026-05-07T15:58:18.174366+00:00",
+  "total": 443,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2679,6 +2679,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
+      "Código": "261811GE129",
+      "Título": "BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "19/05/2026",
+      "Fin": "19/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE129/"
+    },
+    {
       "Código": "261811GE158",
       "Título": "PROGRAMACIÓN DE TORNO CNC FAGOR Y PROCESO DE MECANIZADO",
       "CEP": "18200016 - CEP Granada",
@@ -3375,18 +3387,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
     },
     {
-      "Código": "261811GE129",
-      "Título": "BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "19/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE129/"
-    },
-    {
       "Código": "261811GE212",
       "Título": "FORMACIÓN EN VEHÍCULOS HÍBRIDOS Y ELÉCTRICOS",
       "CEP": "18200016 - CEP Granada",
@@ -3397,18 +3397,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE212/"
-    },
-    {
-      "Código": "262115GE022",
-      "Título": "VIII JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE Y ESCUELAS OFICIALES DE IDIOMAS",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Jornadas",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "14/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE022/"
     },
     {
       "Código": "262116GE161",
@@ -3603,6 +3591,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
     },
     {
+      "Código": "262115GE022",
+      "Título": "VIII JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE Y ESCUELAS OFICIALES DE IDIOMAS",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "14/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE022/"
+    },
+    {
       "Código": "262115GE069",
       "Título": "I JORNADAS DE INCLUSIÓN EDUCATIVA Y ACCESIBILIDAD: DE EDUCACIÓN INFANTIL A LA UNIVERSIDAD",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -3649,18 +3649,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
-    },
-    {
-      "Código": "26401GE060",
-      "Título": "LOS BOSQUES DEL SUR: EL PARQUE NACIONAL DE SIERRA NEVADA",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Encuentro",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "12/05/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE060/"
     },
     {
       "Código": "26401GE075",
@@ -3745,18 +3733,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI029/"
-    },
-    {
-      "Código": "269919KPF386",
-      "Título": "AUTOEVALUACIÓN. PROPUESTAS DE MEJORA Y PROYECTO FORMATIVO",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "13/05/2026",
-      "Fin": "15/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269919KPF386/"
     },
     {
       "Código": "269923KPF386",
@@ -3915,18 +3891,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE024/"
     },
     {
-      "Código": "261409GE035",
-      "Título": "II ENCUENTRO ZONAL DE COORDINADORES Y COORDINADORAS DE LA RAEEP ZONA CEP PEÑARROYA-PUEBLONUEVO",
-      "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
-      "Modalidad": "Encuentro",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "06/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261409GE035/"
-    },
-    {
       "Código": "261409GE037",
       "Título": "ATENCIÓN A LA DIVERSIDAD E IGUALDAD A TRAVÉS DE UN LENGUAJE INCLUSIVO",
       "CEP": "14200022 - CEP Peñarroya-Pueblonuevo",
@@ -3961,18 +3925,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE051/"
-    },
-    {
-      "Código": "261811GE226",
-      "Título": "AUDIOVISUAL ANIMADO EN CLASE: DEL PAPEL A LA PANTALLA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE226/"
     },
     {
       "Código": "261812CTD051",
@@ -4563,18 +4515,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE032/"
     },
     {
-      "Código": "262320GE040",
-      "Título": "APRENDIZAJE-SERVICIO (APS) EN TECNOLOGÍA: EMPRENDIMIENTO SOCIAL",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "07/05/2026",
-      "Fin": "18/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE040/"
-    },
-    {
       "Código": "262922GE153",
       "Título": "DISEÑO DE EXPERIENCIAS INTERMODULARES CON APRENDIZAJE BASADO EN RETOS.",
       "CEP": "29200014 - CEP Málaga",
@@ -4693,6 +4633,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE505/"
+    },
+    {
+      "Código": "26401GE060",
+      "Título": "LOS BOSQUES DEL SUR: EL PARQUE NACIONAL DE SIERRA NEVADA",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Encuentro",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "12/05/2026",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE060/"
     },
     {
       "Código": "26401GE063",
@@ -5067,18 +5019,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128CON035/"
     },
     {
-      "Código": "264128NEE017",
-      "Título": "DISLEXIA SEGÚN LA NUEVA DEFINICIÓN: DE LA DETECCIÓN A LA RESPUESTA  COORDINADA",
-      "CEP": "41200029 - CEP Castilleja de la Cuesta",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "30/04/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128NEE017/"
-    },
-    {
       "Código": "264128NEE020",
       "Título": "BIENESTAR EMOCIONAL Y ATENCIÓN A LA DIVERSIDAD CEIP STO. DOMINGO DE SILOS",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -5305,6 +5245,18 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269917OE600/"
+    },
+    {
+      "Código": "269919KPF386",
+      "Título": "AUTOEVALUACIÓN. PROPUESTAS DE MEJORA Y PROYECTO FORMATIVO",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "13/05/2026",
+      "Fin": "15/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269919KPF386/"
     },
     {
       "Código": "269923BE001",
