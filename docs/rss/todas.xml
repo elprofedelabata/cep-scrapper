@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 07 May 2026 08:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:42:05 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -33,6 +33,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104GT161/</link>
       <guid isPermaLink="false">261104GT161</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>261104MDFP012 — CÁMARAS HIPERBÁRICAS Y ADMINISTRACIÓN DE OXÍGENO</title>
+      <description>11200011 - CEP Cádiz | Curso Semipresencial | 29/05/2026 → 15/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP012/</link>
+      <guid isPermaLink="false">261104MDFP012</guid>
+      <pubDate>Thu, 07 May 2026 11:42:04 +0000</pubDate>
     </item>
     <item>
       <title>261105FC168 — IMPLEMENTACION DEL PCT EN COMPETENCIA MATEMATICA EN EL IES LOLA FLORES</title>
@@ -595,13 +602,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>261814GE044 — VIOLENCIA SEXUAL EN LA ERA DIGITAL: EL PAPEL DE LAS REDES SOCIALES Y EL CONSUMO DE PORNOGRAFÍA</title>
-      <description>18200041 - CEP Baza | Conferencia | 16/04/2026 → 16/04/2026 | Dirigido a: Comunidad educativa | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE044/</link>
-      <guid isPermaLink="false">261814GE044</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
       <title>261814GT008 — FERIA ALCREBITE EMPRENDE 4º Edición</title>
       <description>18200041 - CEP Baza | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT008/</link>
@@ -1061,13 +1061,6 @@
       <description>29200014 - CEP Málaga | Grupos de trabajo | 14/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GT003/</link>
       <guid isPermaLink="false">262922GT003</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>262923GE102 — RED IDEA: CIERRE FORMATIVO Y EXPOSICIÓN DE EXPERIENCIAS TRANSFORMADORAS</title>
-      <description>29200026 - CEP Marbella - Coín | Jornadas | 29/05/2026 → 01/06/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE102/</link>
-      <guid isPermaLink="false">262923GE102</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -1652,13 +1645,6 @@
       <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
     </item>
     <item>
-      <title>262115GE069 — I JORNADAS DE INCLUSIÓN EDUCATIVA Y ACCESIBILIDAD: DE EDUCACIÓN INFANTIL A LA UNIVERSIDAD</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Otros | 12/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE069/</link>
-      <guid isPermaLink="false">262115GE069</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>262116GE167 — JORNADAS PROVINCIALES PROGRAMA ALDEA</title>
       <description>21200025 - CEP Bollullos - Valverde | Jornadas | 14/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE167/</link>
@@ -1750,18 +1736,18 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262320GE055 — EVALUACIÓN 360º: COEVALUACIÓN Y AUTOEVALUACIÓN PRÁCTICA</title>
-      <description>23200031 - CEP Úbeda | Otros | 11/05/2026 → 18/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE055/</link>
-      <guid isPermaLink="false">262320GE055</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>262320GE057 — EVALUACIÓN: ANOTACIONES DE CAMPO Y PORTFOLIO DOCENTE</title>
       <description>23200031 - CEP Úbeda | Encuentro | 14/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE057/</link>
       <guid isPermaLink="false">262320GE057</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262320GE058 — CAFÉ LITERARIO: COMPARTIENDO BUENAS PRÁCTICAS Y LETRAS</title>
+      <description>23200031 - CEP Úbeda | Otros | 19/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE058/</link>
+      <guid isPermaLink="false">262320GE058</guid>
+      <pubDate>Thu, 07 May 2026 11:42:04 +0000</pubDate>
     </item>
     <item>
       <title>262320GE059 — LABORATORIO DE CREACIÓN LITERARIA</title>
@@ -1778,6 +1764,13 @@
       <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
     <item>
+      <title>262923GE102 — RED IDEA: ESPACIOS QUE EDUCAN DESDE EL SER</title>
+      <description>29200026 - CEP Marbella - Coín | Jornadas | 29/05/2026 → 01/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE102/</link>
+      <guid isPermaLink="false">262923GE102</guid>
+      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
       <title>262924GE106 — PSICOMOTRICIDAD E INCLUSIÓN EN LA ETAPA DE EDUCACIÓN INFANTIL</title>
       <description>29200038 - CEP Ronda | Curso Semipresencial | 13/05/2026 → 05/06/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262924GE106/</link>
@@ -1790,6 +1783,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE311/</link>
       <guid isPermaLink="false">262925GE311</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262925GE506 — PENSAMIENTO LÓGICO MATEMÁTICO EN LA RESOLUCIÓN DE PROBLEMAS</title>
+      <description>29200041 - CEP Antequera | Conferencia | 21/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE506/</link>
+      <guid isPermaLink="false">262925GE506</guid>
+      <pubDate>Thu, 07 May 2026 11:42:04 +0000</pubDate>
     </item>
     <item>
       <title>262926GE302 — LA NEUROCIENCIA COMO ELEMENTO PARA EL DESARROLLO DEL APRENDIZAJE</title>
@@ -1835,7 +1835,7 @@
     </item>
     <item>
       <title>264127ALI014 — ESTRATEGIAS DE LIDERAZGO PARA DINAMIZAR LA AUTOFORMACIÓN DOCENTE: PRESENTACIÓN DE BUENAS PRÁCTICAS</title>
-      <description>41200017 - CEP Sevilla | Jornadas | 27/05/2026 → 03/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
+      <description>41200017 - CEP Sevilla | Jornadas | 27/05/2026 → 02/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI014/</link>
       <guid isPermaLink="false">264127ALI014</guid>
       <pubDate>Mon, 04 May 2026 09:30:58 +0000</pubDate>
@@ -1860,13 +1860,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/</link>
       <guid isPermaLink="false">264127PRI025</guid>
       <pubDate>Mon, 04 May 2026 19:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>264129INT25 — LA COMPETENCIA LINGÜÍSTICA EN EL CEIP BLAS INFANTE</title>
-      <description>41200030 - CEP Osuna - Écija | Curso a Distancia | 12/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT25/</link>
-      <guid isPermaLink="false">264129INT25</guid>
-      <pubDate>Wed, 06 May 2026 11:43:08 +0000</pubDate>
     </item>
     <item>
       <title>264130ARD005 — I ENCUENTRO PROVINCIAL DE DOCENTES DE EDUCACIÓN FÍSICA</title>
@@ -1937,6 +1930,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269929KPF616/</link>
       <guid isPermaLink="false">269929KPF616</guid>
       <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>269933FP012 — CERRANDO EL CIRCUITO: I ENCUENTRO DE INNOVACIÓN ENTRE EMPRESAS Y DOCENTES DE FP (FAMILIA PROFESIONAL DE ELECTRICIDAD-ELECTRÓNICA)</title>
+      <description>29020723 - CEP para la Innovación en Formación Profesional | Curso Semipresencial | 04/06/2026 → 18/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP012/</link>
+      <guid isPermaLink="false">269933FP012</guid>
+      <pubDate>Thu, 07 May 2026 11:42:04 +0000</pubDate>
     </item>
     <item>
       <title>261104GE001 — ÁLBUM ILUSTRADO Y EMOCIÓN: TEORÍA Y PRÁCTICA EN EL PRIMER CICLO DE LA EDUCACIÓN INFANTIL</title>
@@ -2044,13 +2044,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>264127ALI006 — ELABORACIÓN DE SITUACIONES DE APRENDIZAJE PARA LA INTERNACIONALIZACIÓN DE LOS CENTROS DE SECUNDARIA Y BACHILLERATO</title>
-      <description>41200017 - CEP Sevilla | Curso | 02/04/2026 → 30/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI006/</link>
-      <guid isPermaLink="false">264127ALI006</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>264127ARE007 — LENGUAJE MUSICAL 3.0: ESTRATEGIAS CON IA Y ENTORNOS VIRTUALES DE APRENDIZAJE</title>
       <description>41200017 - CEP Sevilla | Curso Semipresencial | 14/05/2026 → 19/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ARE007/</link>
@@ -2114,10 +2107,17 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262318GE077 — CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO</title>
-      <description>23200016 - CEP Jaén | Curso | 11/05/2026 → 13/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/</link>
-      <guid isPermaLink="false">262318GE077</guid>
+      <title>262115GE069 — I JORNADAS DE INCLUSIÓN EDUCATIVA Y ACCESIBILIDAD: DE EDUCACIÓN INFANTIL A LA UNIVERSIDAD</title>
+      <description>21200013 - CEP Huelva - Isla Cristina | Otros | 12/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE069/</link>
+      <guid isPermaLink="false">262115GE069</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262320GE055 — EVALUACIÓN 360º: COEVALUACIÓN Y AUTOEVALUACIÓN PRÁCTICA</title>
+      <description>23200031 - CEP Úbeda | Otros | 11/05/2026 → 18/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE055/</link>
+      <guid isPermaLink="false">262320GE055</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -2583,13 +2583,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261814GE043 — PRIMEROS AUXILIOS Y EXTINCIÓN DE INCENDIOS EN EMERGENCIAS PARA RÉGIMEN ESPECIAL</title>
-      <description>18200041 - CEP Baza | Curso | 23/04/2026 → 07/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE043/</link>
-      <guid isPermaLink="false">261814GE043</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
       <title>262115GE025 — EL AULA DEL FUTURO PARA EL ÁMBITO LINGÜÍSTICO</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso | 15/04/2026 → 13/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE025/</link>
@@ -2629,6 +2622,13 @@
       <description>21200037 - CEP Aracena | Jornadas | 06/05/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE026/</link>
       <guid isPermaLink="false">262117GE026</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262318GE077 — CÓMO AYUDAR A PREVENIR Y SUPERAR LA ANSIEDAD ESCÉNICA EN EL ALUMNADO</title>
+      <description>23200016 - CEP Jaén | Curso | 11/05/2026 → 13/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE077/</link>
+      <guid isPermaLink="false">262318GE077</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -2814,6 +2814,13 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
+      <title>264127ALI006 — ELABORACIÓN DE SITUACIONES DE APRENDIZAJE PARA LA INTERNACIONALIZACIÓN DE LOS CENTROS DE SECUNDARIA Y BACHILLERATO</title>
+      <description>41200017 - CEP Sevilla | Curso | 02/04/2026 → 30/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI006/</link>
+      <guid isPermaLink="false">264127ALI006</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>264127ALI009 — EL TEATRO Y LA REESCRITURA DE CLÁSICOS PICTÓRICOS</title>
       <description>41200017 - CEP Sevilla | Curso | 19/02/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI009/</link>
@@ -2996,6 +3003,13 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
+      <title>264129INT25 — LA COMPETENCIA LINGÜÍSTICA EN EL CEIP BLAS INFANTE</title>
+      <description>41200030 - CEP Osuna - Écija | Curso a Distancia | 12/05/2026 → 12/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129INT25/</link>
+      <guid isPermaLink="false">264129INT25</guid>
+      <pubDate>Wed, 06 May 2026 11:43:08 +0000</pubDate>
+    </item>
+    <item>
       <title>264130CT001 — LA HISTORIA DEL PLANETA: GEOLOGÍA CON EL CSIC EN LA ESCUELA</title>
       <description>41200042 - CEP Mairena del Alcor | Curso con Seguimiento | 19/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130CT001/</link>
@@ -3015,13 +3029,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GE024/</link>
       <guid isPermaLink="false">264131GE024</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>264131GE038 — RESPUESTA INCLUSIVA A LAS DIFICULTADES ESPECÍFICAS DE APRENDIZAJE EN MATEMÁTICAS, ESCRITURA Y LECTURA: BARRERAS AL APRENDIZAJE Y ESTRATEGIAS PARA LA ACCIÓN DIDÁCTICA (DISORTOGRAFÍA - DISCALCULIA)</title>
-      <description>41200054 - CEP Lebrija | Curso con Seguimiento | 07/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GE038/</link>
-      <guid isPermaLink="false">264131GE038</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
       <title>264131GE039 — ASESORAMIENTO FORMATIVO AULA DEL FUTURO. CEIP. ANDRÉS BERNÁLDEZ</title>
