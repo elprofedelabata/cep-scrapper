@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-06T22:38:30.490724+00:00",
-  "total": 451,
+  "generado": "2026-05-07T05:22:05.263196+00:00",
+  "total": 450,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -3135,18 +3135,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE084/"
     },
     {
-      "Código": "26401GE085",
-      "Título": "SOPORTE VITAL BÁSICO Y DESFIBRILADOR SEMIAUTOMÁTICO EN EL IES CELIA VIÑAS",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "13/05/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE085/"
-    },
-    {
       "Código": "26403GE033",
       "Título": "RASGAR COLORES: ARTE, PALABRA Y CREATIVIDAD PARA LA INCLUSIÓN Y EL BIENESTAR DE LA PRIMERA INFANCIA",
       "CEP": "04200032 - CEP Cuevas - Olula",
@@ -3711,6 +3699,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE075/"
     },
     {
+      "Código": "26401GE085",
+      "Título": "SOPORTE VITAL BÁSICO Y DESFIBRILADOR SEMIAUTOMÁTICO EN EL IES CELIA VIÑAS",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "13/05/2026",
+      "Fin": "22/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE085/"
+    },
+    {
       "Código": "264127ARE020",
       "Título": "INTRODUCCIÓN AL GRABADO EN HUECO MEDIANTE PLANCHAS DE FOTOPOLÍMERO. POSITIVO AUTOGRÁFICO Y POSITIVO DIGITAL.",
       "CEP": "41200017 - CEP Sevilla",
@@ -4021,18 +4021,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE144/"
-    },
-    {
-      "Código": "261811GE183",
-      "Título": "JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE: FORMACIÓN, REFLEXIÓN Y MEJORA DE LA PRÁCTICA DOCENTE EN LA ERA DE LAS HERRAMIENTAS DIGITALES INTELIGENTES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "18/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE183/"
     },
     {
       "Código": "261811GE226",
