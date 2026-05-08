@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-08T04:47:41.450128+00:00",
+  "generado": "2026-05-08T07:14:09.288743+00:00",
   "total": 440,
   "actividades": [
     {
@@ -1707,18 +1707,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319FC026/"
     },
     {
-      "Código": "262319GE010",
-      "Título": "HERRAMIENTAS DIGITALES",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "17/11/2025",
-      "Fin": "28/03/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE010/"
-    },
-    {
       "Código": "262319GT044",
       "Título": "YO TAMBIÉN JUEGO, ¿TEApuntas?",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -2655,6 +2643,30 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/"
     },
     {
+      "Código": "261408FP028",
+      "Título": "TÉCNICAS TREPA Y PODA EN ALTURA CON CUERDA. MANEJO DE CARGAS Y SEGURIDAD (2ª PARTE)",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "20/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408FP028/"
+    },
+    {
+      "Código": "261408GE058",
+      "Título": "XVII JORNADAS DE INTERCAMBIO DE EXPERIENCIAS EDUCATIVAS EN CIENCIAS SOCIALES, GEOGRAFÍA, HISTORIA E HISTORIA DEL ARTE",
+      "CEP": "14200010 - CEP Córdoba",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "06/06/2026",
+      "Fin": "06/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE058/"
+    },
+    {
       "Código": "261811GE010",
       "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
       "CEP": "18200016 - CEP Granada",
@@ -3327,18 +3339,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP012/"
     },
     {
-      "Código": "261104GE001",
-      "Título": "ÁLBUM ILUSTRADO Y EMOCIÓN: TEORÍA Y PRÁCTICA EN EL PRIMER CICLO DE LA EDUCACIÓN INFANTIL",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "14/05/2026",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104GE001/"
-    },
-    {
       "Código": "261408FP026",
       "Título": "JORNADAS DE FORMACIÓN PROFESIONAL EN CÓRDOBA",
       "CEP": "14200010 - CEP Córdoba",
@@ -3519,6 +3519,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
     },
     {
+      "Código": "261104GE001",
+      "Título": "ÁLBUM ILUSTRADO Y EMOCIÓN: TEORÍA Y PRÁCTICA EN EL PRIMER CICLO DE LA EDUCACIÓN INFANTIL",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "14/05/2026",
+      "Fin": "26/05/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104GE001/"
+    },
+    {
       "Código": "261811GE076",
       "Título": "ANÁLISIS DE ESCAPE DE GASES Y AIRE ACONDICIONADO. TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS",
       "CEP": "18200016 - CEP Granada",
@@ -3649,18 +3661,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
-    },
-    {
-      "Código": "26401GE075",
-      "Título": "HACIENDO MÚSICA CON MATERIALES COTIDIANOS: CREATIVIDAD Y SOSTENIBILIDAD EN EL AULA",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "13/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE075/"
     },
     {
       "Código": "26401GE085",
@@ -4659,6 +4659,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE071/"
     },
     {
+      "Código": "26401GE075",
+      "Título": "HACIENDO MÚSICA CON MATERIALES COTIDIANOS: CREATIVIDAD Y SOSTENIBILIDAD EN EL AULA",
+      "CEP": "04200019 - CEP Almería",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "13/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE075/"
+    },
+    {
       "Código": "26401GE076",
       "Título": "EDUCACIÓN INTERCULTURAL: RECURSOS Y EXPERIENCIAS EDUCATIVAS INCLUSIVAS",
       "CEP": "04200019 - CEP Almería",
@@ -4837,18 +4849,6 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ARE026/"
-    },
-    {
-      "Código": "264127INF019",
-      "Título": "ESTRATEGIAS DE LIDERAZGO PARA EQUIPOS DIRECTIVOS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/04/2026",
-      "Fin": "07/05/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF019/"
     },
     {
       "Código": "264127KPF248",
