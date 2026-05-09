@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-09T07:30:40.033137+00:00",
+  "generado": "2026-05-09T10:45:35.005472+00:00",
   "total": 433,
   "actividades": [
     {
@@ -3495,18 +3495,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/"
     },
     {
-      "Código": "261811GE241",
-      "Título": "JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "13/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/"
-    },
-    {
       "Código": "261812GE111",
       "Título": "HIGIENE POSTURAL EN EL AULA",
       "CEP": "18200028 - CEP Motril",
@@ -3805,6 +3793,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE051/"
+    },
+    {
+      "Código": "261811GE241",
+      "Título": "JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "13/05/2026",
+      "Fin": "14/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE241/"
     },
     {
       "Código": "261812CTD051",
