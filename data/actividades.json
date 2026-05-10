@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-10T18:44:10.213300+00:00",
+  "generado": "2026-05-10T22:35:31.844259+00:00",
   "total": 433,
   "actividades": [
     {
@@ -2607,18 +2607,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE058/"
     },
     {
-      "Código": "261811GE010",
-      "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "13/05/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
-    },
-    {
       "Código": "261811GE129",
       "Título": "BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES",
       "CEP": "18200016 - CEP Granada",
@@ -3313,6 +3301,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE006/"
+    },
+    {
+      "Código": "261811GE010",
+      "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "13/05/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
       "Código": "261811GE086",
