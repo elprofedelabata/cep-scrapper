@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-11T19:26:13.020549+00:00",
+  "generado": "2026-05-11T22:44:55.444377+00:00",
   "total": 420,
   "actividades": [
     {
@@ -2883,18 +2883,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE059/"
     },
     {
-      "Código": "262320GE060",
-      "Título": "JORNADAS PROVINCIALES DE BIBLIOTECA",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "12/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/"
-    },
-    {
       "Código": "262321GE028",
       "Título": "LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO",
       "CEP": "23200041 - CEP Orcera",
@@ -3229,18 +3217,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE006/"
-    },
-    {
-      "Código": "261811GE010",
-      "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "13/05/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
       "Código": "261811GE086",
@@ -3637,6 +3613,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE051/"
+    },
+    {
+      "Código": "261811GE010",
+      "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "13/05/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/"
     },
     {
       "Código": "261811GE241",
@@ -4261,6 +4249,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE054/"
+    },
+    {
+      "Código": "262320GE060",
+      "Título": "JORNADAS PROVINCIALES DE BIBLIOTECA",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "12/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/"
     },
     {
       "Código": "262922GE153",

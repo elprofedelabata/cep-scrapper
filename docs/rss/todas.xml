@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Mon, 11 May 2026 19:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:44:55 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -1687,13 +1687,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262320GE060 — JORNADAS PROVINCIALES DE BIBLIOTECA</title>
-      <description>23200031 - CEP Úbeda | Jornadas | 12/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/</link>
-      <guid isPermaLink="false">262320GE060</guid>
-      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
-    </item>
-    <item>
       <title>262321GE028 — LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO</title>
       <description>23200041 - CEP Orcera | Curso | 26/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262321GE028/</link>
@@ -1888,13 +1881,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE006/</link>
       <guid isPermaLink="false">261410GE006</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261811GE010 — IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA</title>
-      <description>18200016 - CEP Granada | Curso | 13/05/2026 → 10/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/</link>
-      <guid isPermaLink="false">261811GE010</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261811GE086 — SEMINARIO DE COMPENSACIÓN EDUCATIVA</title>
@@ -2126,6 +2112,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE051/</link>
       <guid isPermaLink="false">261410GE051</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>261811GE010 — IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA</title>
+      <description>18200016 - CEP Granada | Curso | 13/05/2026 → 10/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE010/</link>
+      <guid isPermaLink="false">261811GE010</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261811GE241 — JORNADAS FP: ACTUALIZACIÓN DOCENTE EN EL PROFESORADO DE LA FAMILIA PROFESIONAL DE SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD</title>
@@ -2490,6 +2483,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE054/</link>
       <guid isPermaLink="false">262320GE054</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262320GE060 — JORNADAS PROVINCIALES DE BIBLIOTECA</title>
+      <description>23200031 - CEP Úbeda | Jornadas | 12/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE060/</link>
+      <guid isPermaLink="false">262320GE060</guid>
+      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
     <item>
       <title>262922GE153 — DISEÑO DE EXPERIENCIAS INTERMODULARES CON APRENDIZAJE BASADO EN RETOS.</title>
