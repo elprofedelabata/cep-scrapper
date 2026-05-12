@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-12T16:12:41.987717+00:00",
-  "total": 378,
+  "generado": "2026-05-12T19:26:55.426742+00:00",
+  "total": 372,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -337,54 +337,6 @@
       "Dirigido a": "Educación primaria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC015/"
-    },
-    {
-      "Código": "261410FC016",
-      "Título": "COMUNIDAD DE APRENDIZAJE CON EL APOYO DE HERRAMIENTAS DIGITALES",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC016/"
-    },
-    {
-      "Código": "261410FC018",
-      "Título": "COMUNIDAD DE APRENDIZAJE",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC018/"
-    },
-    {
-      "Código": "261410FC022",
-      "Título": "COMUNIDAD DE APRENDIZAJE JUAN ALFONSO DE BAENA",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC022/"
-    },
-    {
-      "Código": "261410FC036",
-      "Título": "RECICLAJE EN TERTULIAS LITERARIAS DIALÓGICAS Y GRUPOS INTERACTIVOS",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC036/"
     },
     {
       "Código": "261410FC040",
@@ -3771,18 +3723,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE129/"
     },
     {
-      "Código": "262319GE032",
-      "Título": "SISTEMAS ALTERNATIVOS DE COMUNICACIÓN",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "14/04/2026",
-      "Fin": "28/04/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE032/"
-    },
-    {
       "Código": "262320GE054",
       "Título": "PERCUSIÓN CORPORAL: RITMO Y MOVIMIENTO",
       "CEP": "23200031 - CEP Úbeda",
@@ -4405,18 +4345,6 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132GE016/"
-    },
-    {
-      "Código": "269902PF248",
-      "Título": "FORMACIÓN MENTORA PARA LA DIRECCIÓN Y JEFATURA DE ESTUDIOS NOVEL",
-      "CEP": "04200020 - CEP El Ejido",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "19/11/2025",
-      "Fin": "30/05/2026",
-      "Dirigido a": "Equipos directivos",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269902PF248/"
     },
     {
       "Código": "269907OE001",
