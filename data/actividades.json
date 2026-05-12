@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-12T11:46:18.756497+00:00",
-  "total": 391,
+  "generado": "2026-05-12T16:12:41.987717+00:00",
+  "total": 378,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -99,30 +99,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT033/"
     },
     {
-      "Código": "261105GT043",
-      "Título": "LA NARRATIVA TRANSMEDIA COMO HERRAMIENTA PARA EL TRABAJO DE TEXTOS (II)",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT043/"
-    },
-    {
-      "Código": "261105GT051",
-      "Título": "INTERCAMBIO DE EXPERIENCIAS EDUCATIVAS DEL PROFESORADO DE LOS CURSOS DE ESPECIALIZACIÓN DE CIBERSEGURIDAD TECNOLOGÍAS DE LA OPERACIÓN",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT051/"
-    },
-    {
       "Código": "261105GT058",
       "Título": "SISTEMAS ALTERNATIVOS DE COMUNICACIÓN",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -133,30 +109,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT058/"
-    },
-    {
-      "Código": "261105GT069",
-      "Título": "EL IMPULSO DE LA COMPETENCIA LECTORA A TRAVÉS DE UN CLUB DE LECTURA.",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT069/"
-    },
-    {
-      "Código": "261105GT114",
-      "Título": "FERIA DE LA INNOVACIÓN DEL IES ASTA REGIA",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT114/"
     },
     {
       "Código": "261105GT123",
@@ -171,18 +123,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT123/"
     },
     {
-      "Código": "261105GT137",
-      "Título": "TRANSFORMA-T: EDUCANDO EN IGUALDAD",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT137/"
-    },
-    {
       "Código": "261105GT905",
       "Título": "SALUD MENTAL Y CALIDAD DE VIDA EN ALUMNADO CON NEAE",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -193,54 +133,6 @@
       "Dirigido a": "Otros",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT905/"
-    },
-    {
-      "Código": "261105GT909",
-      "Título": "SENSIBILIZACIÓN SOBRE EL CONSUMO RESPONSABLE COMO OBJETIVO DE DESARROLLO SOSTENIBLE EN EL IES ANDRÉS BENÍTEZ",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT909/"
-    },
-    {
-      "Código": "261105GT911",
-      "Título": "IDENTIDADES DE GÉNERO  EN EL AULA DE EDUCACIÓN SECUNDARIA Y FP (ESCUELAS ARCOÍRIS)",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT911/"
-    },
-    {
-      "Código": "261105GT927",
-      "Título": "EL IMPULSO DE LA COMPETENCIA LECTORA A TRAVÉS DE UN CLUB DE LECTURA.I",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT927/"
-    },
-    {
-      "Código": "261105GT930",
-      "Título": "CELULOIDE: EL CINE COMO RECURSO PEDAGÓGICO EN EL AULA",
-      "CEP": "11200023 - CEP Jerez de la Frontera",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105GT930/"
     },
     {
       "Código": "261107FC103",
@@ -1959,18 +1851,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128GT062/"
     },
     {
-      "Código": "264130FC043",
-      "Título": "PCT - REFUERZO DE LA COMPETENCIA MATEMÁTICA",
-      "CEP": "41200042 - CEP Mairena del Alcor",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "03/11/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación primaria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130FC043/"
-    },
-    {
       "Código": "264130FC052",
       "Título": "PLAN TERRITORIAL DE COOPERACIÓN EN COMPETENCIA MATEMÁTICA",
       "CEP": "41200042 - CEP Mairena del Alcor",
@@ -2029,18 +1909,6 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264131GT020/"
-    },
-    {
-      "Código": "264132FC020",
-      "Título": "II OLIMPIADAS  ACADEMICAS INTERCENTROS",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "16/09/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132FC020/"
     },
     {
       "Código": "264132FC023",
@@ -2835,30 +2703,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP012/"
     },
     {
-      "Código": "261104FEDAP062",
-      "Título": "INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "20/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/"
-    },
-    {
-      "Código": "261408FP026",
-      "Título": "JORNADAS DE FORMACIÓN PROFESIONAL EN CÓRDOBA",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Jornadas",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "15/04/2026",
-      "Fin": "15/04/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408FP026/"
-    },
-    {
       "Código": "261410GE006",
       "Título": "RED DE MEDIACIÓN Y ALUMNADO AYUDANTE 25/26 CEP PRIEGO-MONTILLA",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -3037,6 +2881,18 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
+    },
+    {
+      "Código": "261104FEDAP062",
+      "Título": "INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "20/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/"
     },
     {
       "Código": "261107GE022",
@@ -4033,18 +3889,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262924GE106/"
-    },
-    {
-      "Código": "262925GE505",
-      "Título": "STEAM ESCUELA 4.0",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE505/"
     },
     {
       "Código": "262926GE705",
