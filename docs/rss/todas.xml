@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 13 May 2026 08:32:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:53:54 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -88,20 +88,6 @@
       <description>11200047 - CEP Algeciras - La Línea | Formación en centros | 10/10/2025 → 29/05/2026 | Dirigido a: Educación infantil | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FC103/</link>
       <guid isPermaLink="false">261107FC103</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107GT029 — HERRAMIENTAS DIGITALES PARA LA DOCENCIA</title>
-      <description>11200047 - CEP Algeciras - La Línea | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Educación secundaria obligatoria | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT029/</link>
-      <guid isPermaLink="false">261107GT029</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>261107GT059 — NEE. ELABORACIÓN Y ADAPTACIÓN DE MATERIALES.</title>
-      <description>11200047 - CEP Algeciras - La Línea | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GT059/</link>
-      <guid isPermaLink="false">261107GT059</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -308,8 +294,8 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>261811GE018 — CICLO DE CONFERENCIAS: ACTUALIZACION CIENTIFICA  EN NEUROCIENCIA</title>
-      <description>18200016 - CEP Granada | Curso | 10/02/2026 → 30/04/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <title>261811GE018 — ACTUALIZACION CIENTIFICA  EN NEUROCIENCIA EDUCATIVA</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 26/05/2026 → 21/06/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE018/</link>
       <guid isPermaLink="false">261811GE018</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
@@ -847,6 +833,13 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
+      <title>262925FP016 — LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS</title>
+      <description>29200041 - CEP Antequera | Curso Semipresencial | 08/06/2026 → 19/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/</link>
+      <guid isPermaLink="false">262925FP016</guid>
+      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
+    </item>
+    <item>
       <title>262925GE407 — VIII FERIA DE PROYECTOS EDUCATIVOS</title>
       <description>29200041 - CEP Antequera | Encuentro | 07/05/2026 → 07/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE407/</link>
@@ -880,6 +873,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE081/</link>
       <guid isPermaLink="false">26401GE081</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>264127ACS021 — IV CONGRESO  DE INNOVACIÓN EDUCATIVA: CÓDIGO ESCUELA 4.0</title>
+      <description>41200017 - CEP Sevilla | Congreso | 15/05/2026 → 16/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ACS021/</link>
+      <guid isPermaLink="false">264127ACS021</guid>
+      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
     </item>
     <item>
       <title>264127FC076 — PCT EN COMPETENCIA LECTORA Y MATEMÁTICA EN EL CEIP MANUEL ALTOLAGUIRRE</title>
@@ -1113,13 +1113,6 @@
       <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
     <item>
-      <title>261106FEDAP010 — IX JORNADA DE BUENAS PRÁCTICAS CENTROS EDUCATIVOS SIERRA DE CÁDIZ</title>
-      <description>11200035 - CEP Villamartín | Curso Semipresencial | 19/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261106FEDAP010/</link>
-      <guid isPermaLink="false">261106FEDAP010</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261107FP005 — SOSTENIBILIDAD EN EL TRATAMIENTO Y RECUBRIMIENTO DE SUPERFICIES EN EL IES ALMADRABA</title>
       <description>11200047 - CEP Algeciras - La Línea | Curso | 25/05/2026 → 28/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP005/</link>
@@ -1233,7 +1226,7 @@
     </item>
     <item>
       <title>261814GE025 — VELA LIGERA</title>
-      <description>18200041 - CEP Baza | Curso | 04/06/2026 → 04/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <description>18200041 - CEP Baza | Curso | 05/06/2026 → 05/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE025/</link>
       <guid isPermaLink="false">261814GE025</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
@@ -1386,13 +1379,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>26403GE040 — DIAGNÓSTICO Y REPARACIÓN DE MÓVILES Y TABLETS</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso | 19/05/2026 → 26/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE040/</link>
-      <guid isPermaLink="false">26403GE040</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>26403GE041 — PREVENCIÓN DEL ABANDONO EDUCATIVO EN EDUCACIÓN PERMANENTE</title>
       <description>04200032 - CEP Cuevas - Olula | Curso a Distancia | 20/05/2026 → 22/06/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE041/</link>
@@ -1414,11 +1400,11 @@
       <pubDate>Mon, 04 May 2026 09:30:58 +0000</pubDate>
     </item>
     <item>
-      <title>264127INF003 — IX JORNADAS EDUCATIVAS POLÍGONO NORTE</title>
-      <description>41200017 - CEP Sevilla | Jornadas | 20/05/2026 → 21/05/2026 | Dirigido a: Comunidad educativa | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF003/</link>
-      <guid isPermaLink="false">264127INF003</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+      <title>264128FP043 — DISEÑO E IMPRESIÓN 3D APLICADO AL AULA DE FP. INICIACIÓN</title>
+      <description>41200029 - CEP Castilleja de la Cuesta | Curso | 02/06/2026 → 18/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/</link>
+      <guid isPermaLink="false">264128FP043</guid>
+      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
     </item>
     <item>
       <title>264132WPF420 — COMPETENCIA DIGITAL DOCENTE NIVEL A1</title>
@@ -1433,13 +1419,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269907KPF616/</link>
       <guid isPermaLink="false">269907KPF616</guid>
       <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>269909KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
-      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269909KPF616/</link>
-      <guid isPermaLink="false">269909KPF616</guid>
-      <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
     </item>
     <item>
       <title>269913KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
@@ -1561,18 +1540,18 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>264127PRI025 — JORNADAS DE INCLUSIÓN EN EL POLÍGONO SUR</title>
-      <description>41200017 - CEP Sevilla | Curso | 18/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/</link>
-      <guid isPermaLink="false">264127PRI025</guid>
-      <pubDate>Mon, 04 May 2026 19:12:03 +0000</pubDate>
-    </item>
-    <item>
       <title>269902KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
       <description>04200020 - CEP El Ejido | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269902KPF616/</link>
       <guid isPermaLink="false">269902KPF616</guid>
       <pubDate>Tue, 05 May 2026 07:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>269909KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
+      <description>14200022 - CEP Peñarroya-Pueblonuevo | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269909KPF616/</link>
+      <guid isPermaLink="false">269909KPF616</guid>
+      <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
     </item>
     <item>
       <title>269920KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
@@ -1600,6 +1579,13 @@
       <description>11200011 - CEP Cádiz | Curso | 20/05/2026 → 27/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/</link>
       <guid isPermaLink="false">261104FEDAP062</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>261106FEDAP010 — IX JORNADA DE BUENAS PRÁCTICAS CENTROS EDUCATIVOS SIERRA DE CÁDIZ</title>
+      <description>11200035 - CEP Villamartín | Curso Semipresencial | 19/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261106FEDAP010/</link>
+      <guid isPermaLink="false">261106FEDAP010</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -1631,11 +1617,32 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
+      <title>26403GE040 — DIAGNÓSTICO Y REPARACIÓN DE MÓVILES Y TABLETS</title>
+      <description>04200032 - CEP Cuevas - Olula | Curso | 19/05/2026 → 26/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE040/</link>
+      <guid isPermaLink="false">26403GE040</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>264127ARE020 — INTRODUCCIÓN AL GRABADO EN HUECO MEDIANTE PLANCHAS DE FOTOPOLÍMERO. POSITIVO AUTOGRÁFICO Y POSITIVO DIGITAL.</title>
       <description>41200017 - CEP Sevilla | Curso | 20/05/2026 → 22/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ARE020/</link>
       <guid isPermaLink="false">264127ARE020</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>264127INF003 — IX JORNADAS EDUCATIVAS POLÍGONO NORTE</title>
+      <description>41200017 - CEP Sevilla | Jornadas | 20/05/2026 → 21/05/2026 | Dirigido a: Comunidad educativa | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF003/</link>
+      <guid isPermaLink="false">264127INF003</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>264127PRI025 — JORNADAS DE INCLUSIÓN EN EL POLÍGONO SUR</title>
+      <description>41200017 - CEP Sevilla | Curso | 18/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/</link>
+      <guid isPermaLink="false">264127PRI025</guid>
+      <pubDate>Mon, 04 May 2026 19:12:03 +0000</pubDate>
     </item>
     <item>
       <title>264127PRI029 — GESTIÓN DEL ESTRÉS Y AUTOMOTIVACIÓN EN EL CEIP PABLO VI</title>
