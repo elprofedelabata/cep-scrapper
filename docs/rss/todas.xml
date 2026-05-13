@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Wed, 13 May 2026 11:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 16:13:17 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -833,13 +833,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>262925FP016 — LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS</title>
-      <description>29200041 - CEP Antequera | Curso Semipresencial | 08/06/2026 → 19/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/</link>
-      <guid isPermaLink="false">262925FP016</guid>
-      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
-    </item>
-    <item>
       <title>262925GE407 — VIII FERIA DE PROYECTOS EDUCATIVOS</title>
       <description>29200041 - CEP Antequera | Encuentro | 07/05/2026 → 07/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE407/</link>
@@ -1344,6 +1337,13 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
+      <title>262925FP016 — LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS</title>
+      <description>29200041 - CEP Antequera | Curso Semipresencial | 08/06/2026 → 19/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/</link>
+      <guid isPermaLink="false">262925FP016</guid>
+      <pubDate>Wed, 13 May 2026 11:53:54 +0000</pubDate>
+    </item>
+    <item>
       <title>262925GE311 — CONSTRUYENDO MATEMÁTICAS EN EDUCACIÓN INFANTIL: PROPUESTA DIDÁCTICAS CON MATERIAL MANIPULATIVO</title>
       <description>29200041 - CEP Antequera | Curso | 16/04/2026 → 28/04/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925GE311/</link>
@@ -1589,13 +1589,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261107GE022 — EL AULA QUE LATE: COMIENZO, ACOMPAÑAMIENTO Y APRENDIZAJE EN LA INFANCIA.</title>
-      <description>11200047 - CEP Algeciras - La Línea | Curso con Seguimiento | 20/05/2026 → 10/06/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/</link>
-      <guid isPermaLink="false">261107GE022</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261812GE111 — HIGIENE POSTURAL EN EL AULA</title>
       <description>18200028 - CEP Motril | Curso | 09/04/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE111/</link>
@@ -1678,6 +1671,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107CTD090/</link>
       <guid isPermaLink="false">261107CTD090</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261107GE022 — EL AULA QUE LATE: COMIENZO, ACOMPAÑAMIENTO Y APRENDIZAJE EN LA INFANCIA.</title>
+      <description>11200047 - CEP Algeciras - La Línea | Curso con Seguimiento | 20/05/2026 → 10/06/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/</link>
+      <guid isPermaLink="false">261107GE022</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261408FP022 — RED PERICLES. DIGITALIZACIÓN DE PROYECTOS ENTRE FAMILIAS PROFESIONALES</title>
@@ -2048,27 +2048,6 @@
       <description>21200025 - CEP Bollullos - Valverde | Jornadas | 14/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE167/</link>
       <guid isPermaLink="false">262116GE167</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>262117GE025 — JORNADA PROVINCIAL EMPRENDIMIENTO EDUCATIVO</title>
-      <description>21200037 - CEP Aracena | Jornadas | 13/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE025/</link>
-      <guid isPermaLink="false">262117GE025</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>262117GE026 — JORNADA PROVINCIAL STEM</title>
-      <description>21200037 - CEP Aracena | Jornadas | 06/05/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE026/</link>
-      <guid isPermaLink="false">262117GE026</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>262117GE027 — JORNADA PROVINCIAL HÁBITOS DE VIDA SALUDABLE</title>
-      <description>21200037 - CEP Aracena | Jornadas | 12/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE027/</link>
-      <guid isPermaLink="false">262117GE027</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -2517,13 +2496,6 @@
       <description>41200066 - CEP Lora del Río | Jornadas | 20/05/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269932BE001/</link>
       <guid isPermaLink="false">269932BE001</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>269933FP011 — APRENDIZAJE BASADO EN COMPETICIONES PARA LA FORMACIÓN PROFESIONAL. 3ª EDICIÓN - FAMILIAS PROFESIONALES ''INSTALACIÓN Y MANT + FABRICACIÓN MECÁNICA + ELECTRICIDAD Y ELECTRÓNICA + INFORMÁTICA Y COMUNIC'</title>
-      <description>29020723 - CEP para la Innovación en Formación Profesional | Curso Semipresencial | 11/05/2026 → 29/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP011/</link>
-      <guid isPermaLink="false">269933FP011</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
   </channel>

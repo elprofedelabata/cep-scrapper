@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-13T11:53:54.058807+00:00",
-  "total": 360,
+  "generado": "2026-05-13T16:13:17.227577+00:00",
+  "total": 356,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1419,18 +1419,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262924FC013/"
     },
     {
-      "Código": "262925FP016",
-      "Título": "LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS",
-      "CEP": "29200041 - CEP Antequera",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "En proyecto",
-      "Inicio": "08/06/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/"
-    },
-    {
       "Código": "262925GE407",
       "Título": "VIII FERIA DE PROYECTOS EDUCATIVOS",
       "CEP": "29200041 - CEP Antequera",
@@ -2295,6 +2283,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE102/"
     },
     {
+      "Código": "262925FP016",
+      "Título": "LABORATORIO CLÍNICO: ACTUALIZACIÓN EN ORGANIZACIÓN Y TÉCNICAS",
+      "CEP": "29200041 - CEP Antequera",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "08/06/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262925FP016/"
+    },
+    {
       "Código": "262925GE311",
       "Título": "CONSTRUYENDO MATEMÁTICAS EN EDUCACIÓN INFANTIL: PROPUESTA DIDÁCTICAS CON MATERIAL MANIPULATIVO",
       "CEP": "29200041 - CEP Antequera",
@@ -2715,18 +2715,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261106FEDAP010/"
     },
     {
-      "Código": "261107GE022",
-      "Título": "EL AULA QUE LATE: COMIENZO, ACOMPAÑAMIENTO Y APRENDIZAJE EN LA INFANCIA.",
-      "CEP": "11200047 - CEP Algeciras - La Línea",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "20/05/2026",
-      "Fin": "10/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/"
-    },
-    {
       "Código": "261812GE111",
       "Título": "HIGIENE POSTURAL EN EL AULA",
       "CEP": "18200028 - CEP Motril",
@@ -2869,6 +2857,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107CTD090/"
+    },
+    {
+      "Código": "261107GE022",
+      "Título": "EL AULA QUE LATE: COMIENZO, ACOMPAÑAMIENTO Y APRENDIZAJE EN LA INFANCIA.",
+      "CEP": "11200047 - CEP Algeciras - La Línea",
+      "Modalidad": "Curso con Seguimiento",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "20/05/2026",
+      "Fin": "10/06/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107GE022/"
     },
     {
       "Código": "261408FP022",
@@ -3505,42 +3505,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE167/"
-    },
-    {
-      "Código": "262117GE025",
-      "Título": "JORNADA PROVINCIAL EMPRENDIMIENTO EDUCATIVO",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE025/"
-    },
-    {
-      "Código": "262117GE026",
-      "Título": "JORNADA PROVINCIAL STEM",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "06/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE026/"
-    },
-    {
-      "Código": "262117GE027",
-      "Título": "JORNADA PROVINCIAL HÁBITOS DE VIDA SALUDABLE",
-      "CEP": "21200037 - CEP Aracena",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "12/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE027/"
     },
     {
       "Código": "262318GE092",
@@ -4309,18 +4273,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269932BE001/"
-    },
-    {
-      "Código": "269933FP011",
-      "Título": "APRENDIZAJE BASADO EN COMPETICIONES PARA LA FORMACIÓN PROFESIONAL. 3ª EDICIÓN - FAMILIAS PROFESIONALES ''INSTALACIÓN Y MANT + FABRICACIÓN MECÁNICA + ELECTRICIDAD Y ELECTRÓNICA + INFORMÁTICA Y COMUNIC'",
-      "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "11/05/2026",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269933FP011/"
     }
   ]
 }
