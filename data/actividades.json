@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-13T19:29:35.772427+00:00",
+  "generado": "2026-05-13T22:55:36.000034+00:00",
   "total": 356,
   "actividades": [
     {
@@ -2463,18 +2463,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
     },
     {
-      "Código": "269929KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "41200030 - CEP Osuna - Écija",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "18/05/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269929KPF616/"
-    },
-    {
       "Código": "269933FP012",
       "Título": "CERRANDO EL CIRCUITO: I ENCUENTRO DE INNOVACIÓN ENTRE EMPRESAS Y DOCENTES DE FP (FAMILIA PROFESIONAL DE ELECTRICIDAD-ELECTRÓNICA)",
       "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
@@ -2677,6 +2665,18 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269922QPF013/"
+    },
+    {
+      "Código": "269929KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "18/05/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269929KPF616/"
     },
     {
       "Código": "261104FEDAP011",
