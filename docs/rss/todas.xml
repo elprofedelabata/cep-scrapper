@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 14 May 2026 08:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:42:29 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -634,13 +634,6 @@
       <description>21200037 - CEP Aracena | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT025/</link>
       <guid isPermaLink="false">262117GT025</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>262318GT010 — &quot;El Evangelio nos abraza a todos: atención a la diversidad en Religión Católica&quot;</title>
-      <description>23200016 - CEP Jaén | Grupos de trabajo | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GT010/</link>
-      <guid isPermaLink="false">262318GT010</guid>
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
@@ -1491,13 +1484,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>269916KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
-      <description>21200025 - CEP Bollullos - Valverde | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269916KPF616/</link>
-      <guid isPermaLink="false">269916KPF616</guid>
-      <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
-    </item>
-    <item>
       <title>269922QPF013 — PROCESO DE ADMISIÓN ENSEÑANZAS DE RÉGIMEN GENERAL (2º CICLO DE E. INFANTIL A BACHILLERATO Y EDUCACIÓN ESPECIAL) ORIENTAL</title>
       <description>29200014 - CEP Málaga | Curso | 09/03/2026 → 19/03/2026 | Dirigido a: Equipos directivos | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269922QPF013/</link>
@@ -1505,25 +1491,11 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>269923KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
-      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/</link>
-      <guid isPermaLink="false">269923KPF616</guid>
-      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
-    </item>
-    <item>
       <title>261104FEDAP011 — RÉGIMEN JURÍDICO: EXPEDIENTES DISCIPLINARIOS Y CONCRECIÓN DEL PROCEDIMIENTO SANCIONADOR. ESTUDIO DE CASOS APLICADOS A LOS EJES COMPETENCIALES DE LA INSPECCIÓN.</title>
       <description>11200011 - CEP Cádiz | Curso | 14/10/2025 → 30/01/2026 | Dirigido a: Inspección educativa | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/</link>
       <guid isPermaLink="false">261104FEDAP011</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>261104FEDAP062 — INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA</title>
-      <description>11200011 - CEP Cádiz | Curso | 20/05/2026 → 27/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/</link>
-      <guid isPermaLink="false">261104FEDAP062</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261105BE001 — JORNADAS PROVINCIALES DE BIBLIOTECAS ESCOLARES. RED PROFESIONAL DE CÁDIZ</title>
@@ -1624,6 +1596,13 @@
       <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
     <item>
+      <title>269916KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
+      <description>21200025 - CEP Bollullos - Valverde | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269916KPF616/</link>
+      <guid isPermaLink="false">269916KPF616</guid>
+      <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
+    </item>
+    <item>
       <title>269920KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
       <description>23200031 - CEP Úbeda | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269920KPF616/</link>
@@ -1631,11 +1610,25 @@
       <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
     </item>
     <item>
+      <title>269923KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/</link>
+      <guid isPermaLink="false">269923KPF616</guid>
+      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
+    </item>
+    <item>
       <title>269929KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
       <description>41200030 - CEP Osuna - Écija | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269929KPF616/</link>
       <guid isPermaLink="false">269929KPF616</guid>
       <pubDate>Wed, 06 May 2026 08:04:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>261104FEDAP062 — INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA</title>
+      <description>11200011 - CEP Cádiz | Curso | 20/05/2026 → 27/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/</link>
+      <guid isPermaLink="false">261104FEDAP062</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261104FEDAP065 — CEP EN RED 2026</title>
@@ -1684,13 +1677,6 @@
       <description>14200010 - CEP Córdoba | Curso con Seguimiento | 11/03/2026 → 19/05/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE014/</link>
       <guid isPermaLink="false">261408GE014</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>261408GE068 — RED DE FORMACIÓN PARA SECRETARÍAS DE CENTROS EDUCATIVOS DEL CEP CORDOBA 2025-2026</title>
-      <description>14200010 - CEP Córdoba | Curso con Seguimiento | 08/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE068/</link>
-      <guid isPermaLink="false">261408GE068</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
@@ -2035,13 +2021,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE166/</link>
       <guid isPermaLink="false">262116GE166</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>262116GE167 — JORNADAS PROVINCIALES PROGRAMA ALDEA</title>
-      <description>21200025 - CEP Bollullos - Valverde | Jornadas | 14/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE167/</link>
-      <guid isPermaLink="false">262116GE167</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>262318GE092 — JORNADAS PARA EL APRENDIZAJE Y LA ENSEÑANZA DE LAS MATEMÁTICAS</title>
@@ -2391,13 +2370,6 @@
       <description>41200042 - CEP Mairena del Alcor | Jornadas | 23/04/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130CT003/</link>
       <guid isPermaLink="false">264130CT003</guid>
-      <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>264132GE012 — ATENCIÓN AL ALUMNADO TEA Y TDAH</title>
-      <description>41200066 - CEP Lora del Río | Curso a Distancia | 05/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132GE012/</link>
-      <guid isPermaLink="false">264132GE012</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>

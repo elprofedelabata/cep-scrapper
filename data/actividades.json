@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-14T08:26:20.441918+00:00",
-  "total": 350,
+  "generado": "2026-05-14T11:42:29.213218+00:00",
+  "total": 346,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1081,18 +1081,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GT025/"
-    },
-    {
-      "Código": "262318GT010",
-      "Título": "\"El Evangelio nos abraza a todos: atención a la diversidad en Religión Católica\"",
-      "CEP": "23200016 - CEP Jaén",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GT010/"
     },
     {
       "Código": "262318GT089",
@@ -2547,18 +2535,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
     },
     {
-      "Código": "269916KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "18/05/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269916KPF616/"
-    },
-    {
       "Código": "269922QPF013",
       "Título": "PROCESO DE ADMISIÓN ENSEÑANZAS DE RÉGIMEN GENERAL (2º CICLO DE E. INFANTIL A BACHILLERATO Y EDUCACIÓN ESPECIAL) ORIENTAL",
       "CEP": "29200014 - CEP Málaga",
@@ -2571,18 +2547,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269922QPF013/"
     },
     {
-      "Código": "269923KPF616",
-      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "18/05/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
-    },
-    {
       "Código": "261104FEDAP011",
       "Título": "RÉGIMEN JURÍDICO: EXPEDIENTES DISCIPLINARIOS Y CONCRECIÓN DEL PROCEDIMIENTO SANCIONADOR. ESTUDIO DE CASOS APLICADOS A LOS EJES COMPETENCIALES DE LA INSPECCIÓN.",
       "CEP": "11200011 - CEP Cádiz",
@@ -2593,18 +2557,6 @@
       "Dirigido a": "Inspección educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
-    },
-    {
-      "Código": "261104FEDAP062",
-      "Título": "INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "20/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/"
     },
     {
       "Código": "261105BE001",
@@ -2775,6 +2727,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269913KPF616/"
     },
     {
+      "Código": "269916KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "21200025 - CEP Bollullos - Valverde",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "18/05/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269916KPF616/"
+    },
+    {
       "Código": "269920KPF616",
       "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
       "CEP": "23200031 - CEP Úbeda",
@@ -2787,6 +2751,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269920KPF616/"
     },
     {
+      "Código": "269923KPF616",
+      "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "18/05/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/"
+    },
+    {
       "Código": "269929KPF616",
       "Título": "INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT",
       "CEP": "41200030 - CEP Osuna - Écija",
@@ -2797,6 +2773,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269929KPF616/"
+    },
+    {
+      "Código": "261104FEDAP062",
+      "Título": "INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "20/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP062/"
     },
     {
       "Código": "261104FEDAP065",
@@ -2881,18 +2869,6 @@
       "Dirigido a": "Educación infantil",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE014/"
-    },
-    {
-      "Código": "261408GE068",
-      "Título": "RED DE FORMACIÓN PARA SECRETARÍAS DE CENTROS EDUCATIVOS DEL CEP CORDOBA 2025-2026",
-      "CEP": "14200010 - CEP Córdoba",
-      "Modalidad": "Curso con Seguimiento",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "08/10/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE068/"
     },
     {
       "Código": "261409GE024",
@@ -3481,18 +3457,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE166/"
-    },
-    {
-      "Código": "262116GE167",
-      "Título": "JORNADAS PROVINCIALES PROGRAMA ALDEA",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "14/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE167/"
     },
     {
       "Código": "262318GE092",
@@ -4093,18 +4057,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264130CT003/"
-    },
-    {
-      "Código": "264132GE012",
-      "Título": "ATENCIÓN AL ALUMNADO TEA Y TDAH",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132GE012/"
     },
     {
       "Código": "264132GE016",
