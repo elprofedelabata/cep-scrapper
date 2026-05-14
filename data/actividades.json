@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-14T16:07:08.353015+00:00",
-  "total": 345,
+  "generado": "2026-05-14T19:26:43.214652+00:00",
+  "total": 342,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2439,18 +2439,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE212/"
     },
     {
-      "Código": "262116GE161",
-      "Título": "ESTRATEGIAS DE GESTIÓN Y COMUNICACIÓN PARA LA INCLUSIÓN DEL ALUMNADO CON TEA EN EL CEIP SAN JORGE",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "29/04/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE161/"
-    },
-    {
       "Código": "262318GE105",
       "Título": "RED  PROFESIONAL DE PT",
       "CEP": "23200016 - CEP Jaén",
@@ -2665,18 +2653,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127INF003/"
-    },
-    {
-      "Código": "264127PRI025",
-      "Título": "JORNADAS DE INCLUSIÓN EN EL POLÍGONO SUR",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "18/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/"
     },
     {
       "Código": "264127PRI029",
@@ -3663,30 +3639,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE076/"
     },
     {
-      "Código": "26401GE080",
-      "Título": "EDUCACIÓN EMOCIONAL EN EN EL ALUMNADO DE FP",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "12/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE080/"
-    },
-    {
-      "Código": "26401GE085",
-      "Título": "SOPORTE VITAL BÁSICO Y DESFIBRILADOR SEMIAUTOMÁTICO EN EL IES CELIA VIÑAS",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/05/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE085/"
-    },
-    {
       "Código": "26402GE021",
       "Título": "HERRAMIENTAS PARA EL CUIDADO DEL BIENESTAR DOCENTE II: MINDFULNESS EN LA GESTIÓN EMOCIONAL DOCENTE",
       "CEP": "04200020 - CEP El Ejido",
@@ -3889,6 +3841,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI022/"
+    },
+    {
+      "Código": "264127PRI025",
+      "Título": "JORNADAS DE INCLUSIÓN EN EL POLÍGONO SUR",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "18/05/2026",
+      "Fin": "19/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI025/"
     },
     {
       "Código": "264127PRI028",
