@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Thu, 14 May 2026 11:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 16:07:08 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -112,7 +112,7 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>261408GE096 — PREVENCION E IDENTIFICACION DE PLAGIOS, Y DESARROLLO DE TFG</title>
+      <title>261408GE096 — DETECCIÓN, INTERPRETACIÓN Y PREVENCIÓN DEL PLAGIO EN TEXTOS ACADÉMICOS EN ENSEÑANZAS ARTÍSTICAS DE RÉGIMEN ESPECIAL</title>
       <description>14200010 - CEP Córdoba | Curso a Distancia | 02/06/2026 → 11/06/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: En proyecto</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261408GE096/</link>
       <guid isPermaLink="false">261408GE096</guid>
@@ -1057,13 +1057,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>261104FEDAP070 — JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE</title>
-      <description>11200011 - CEP Cádiz | Curso | 21/05/2026 → 21/05/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/</link>
-      <guid isPermaLink="false">261104FEDAP070</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261104FEDAP092 — ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS</title>
       <description>11200011 - CEP Cádiz | Curso | 02/06/2026 → 03/06/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP092/</link>
@@ -1239,6 +1232,13 @@
       <pubDate>Wed, 06 May 2026 11:43:08 +0000</pubDate>
     </item>
     <item>
+      <title>262318GE132 — JORNADA FINAL DE EDUCACIÓN PERMANENTE</title>
+      <description>23200016 - CEP Jaén | Jornadas | 04/06/2026 → 04/06/2026 | Dirigido a: Educación Permanente | Estado: Abierto plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/</link>
+      <guid isPermaLink="false">262318GE132</guid>
+      <pubDate>Thu, 14 May 2026 16:07:08 +0000</pubDate>
+    </item>
+    <item>
       <title>262319GE023 — CONVIVENCIA Y DIVERSIDAD DE GÉNERO</title>
       <description>23200028 - CEP Linares - Andújar | Curso | 20/05/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE023/</link>
@@ -1349,13 +1349,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE086/</link>
       <guid isPermaLink="false">26401GE086</guid>
       <pubDate>Fri, 08 May 2026 11:01:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>26403GE033 — RASGAR COLORES: ARTE, PALABRA Y CREATIVIDAD PARA LA INCLUSIÓN Y EL BIENESTAR DE LA PRIMERA INFANCIA</title>
-      <description>04200032 - CEP Cuevas - Olula | Curso Semipresencial | 26/05/2026 → 07/06/2026 | Dirigido a: Educación infantil | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE033/</link>
-      <guid isPermaLink="false">26403GE033</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>26403GE041 — PREVENCIÓN DEL ABANDONO EDUCATIVO EN EDUCACIÓN PERMANENTE</title>
@@ -1498,6 +1491,13 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
+      <title>261104FEDAP070 — JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE</title>
+      <description>11200011 - CEP Cádiz | Curso | 21/05/2026 → 21/05/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/</link>
+      <guid isPermaLink="false">261104FEDAP070</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
       <title>261105BE001 — JORNADAS PROVINCIALES DE BIBLIOTECAS ESCOLARES. RED PROFESIONAL DE CÁDIZ</title>
       <description>11200023 - CEP Jerez de la Frontera | Jornadas | 19/05/2026 → 21/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105BE001/</link>
@@ -1530,6 +1530,13 @@
       <description>29200014 - CEP Málaga | Curso | 20/05/2026 → 11/06/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/</link>
       <guid isPermaLink="false">262922GE168</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>26403GE033 — RASGAR COLORES: ARTE, PALABRA Y CREATIVIDAD PARA LA INCLUSIÓN Y EL BIENESTAR DE LA PRIMERA INFANCIA</title>
+      <description>04200032 - CEP Cuevas - Olula | Curso Semipresencial | 26/05/2026 → 07/06/2026 | Dirigido a: Educación infantil | Estado: Publicadas Listas Provisionales</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE033/</link>
+      <guid isPermaLink="false">26403GE033</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
@@ -1981,13 +1988,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262115GE022 — VIII JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE Y ESCUELAS OFICIALES DE IDIOMAS</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Jornadas | 14/05/2026 → 14/05/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE022/</link>
-      <guid isPermaLink="false">262115GE022</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>262115GE025 — EL AULA DEL FUTURO PARA EL ÁMBITO LINGÜÍSTICO</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Curso | 15/04/2026 → 13/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE025/</link>
@@ -2133,13 +2133,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE063/</link>
       <guid isPermaLink="false">26401GE063</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>26401GE075 — HACIENDO MÚSICA CON MATERIALES COTIDIANOS: CREATIVIDAD Y SOSTENIBILIDAD EN EL AULA</title>
-      <description>04200019 - CEP Almería | Curso | 13/05/2026 → 14/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE075/</link>
-      <guid isPermaLink="false">26401GE075</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>26401GE076 — EDUCACIÓN INTERCULTURAL: RECURSOS Y EXPERIENCIAS EDUCATIVAS INCLUSIVAS</title>

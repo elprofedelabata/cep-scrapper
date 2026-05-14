@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-14T11:42:29.213218+00:00",
-  "total": 346,
+  "generado": "2026-05-14T16:07:08.353015+00:00",
+  "total": 345,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -184,7 +184,7 @@
     },
     {
       "Código": "261408GE096",
-      "Título": "PREVENCION E IDENTIFICACION DE PLAGIOS, Y DESARROLLO DE TFG",
+      "Título": "DETECCIÓN, INTERPRETACIÓN Y PREVENCIÓN DEL PLAGIO EN TEXTOS ACADÉMICOS EN ENSEÑANZAS ARTÍSTICAS DE RÉGIMEN ESPECIAL",
       "CEP": "14200010 - CEP Córdoba",
       "Modalidad": "Curso a Distancia",
       "Estado": "En proyecto",
@@ -1803,18 +1803,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP057/"
     },
     {
-      "Código": "261104FEDAP070",
-      "Título": "JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "21/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/"
-    },
-    {
       "Código": "261104FEDAP092",
       "Título": "ESCUELAS TRANSFORMADORAS: BARRIOS VIVOS",
       "CEP": "11200011 - CEP Cádiz",
@@ -2115,6 +2103,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262117GE019/"
     },
     {
+      "Código": "262318GE132",
+      "Título": "JORNADA FINAL DE EDUCACIÓN PERMANENTE",
+      "CEP": "23200016 - CEP Jaén",
+      "Modalidad": "Jornadas",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "04/06/2026",
+      "Fin": "04/06/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/"
+    },
+    {
       "Código": "262319GE023",
       "Título": "CONVIVENCIA Y DIVERSIDAD DE GÉNERO",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -2305,18 +2305,6 @@
       "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE086/"
-    },
-    {
-      "Código": "26403GE033",
-      "Título": "RASGAR COLORES: ARTE, PALABRA Y CREATIVIDAD PARA LA INCLUSIÓN Y EL BIENESTAR DE LA PRIMERA INFANCIA",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "26/05/2026",
-      "Fin": "07/06/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE033/"
     },
     {
       "Código": "26403GE041",
@@ -2559,6 +2547,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
     },
     {
+      "Código": "261104FEDAP070",
+      "Título": "JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "21/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/"
+    },
+    {
       "Código": "261105BE001",
       "Título": "JORNADAS PROVINCIALES DE BIBLIOTECAS ESCOLARES. RED PROFESIONAL DE CÁDIZ",
       "CEP": "11200023 - CEP Jerez de la Frontera",
@@ -2617,6 +2617,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
+    },
+    {
+      "Código": "26403GE033",
+      "Título": "RASGAR COLORES: ARTE, PALABRA Y CREATIVIDAD PARA LA INCLUSIÓN Y EL BIENESTAR DE LA PRIMERA INFANCIA",
+      "CEP": "04200032 - CEP Cuevas - Olula",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "26/05/2026",
+      "Fin": "07/06/2026",
+      "Dirigido a": "Educación infantil",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE033/"
     },
     {
       "Código": "26403GE040",
@@ -3387,18 +3399,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GE035/"
     },
     {
-      "Código": "262115GE022",
-      "Título": "VIII JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE Y ESCUELAS OFICIALES DE IDIOMAS",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Jornadas",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "14/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE022/"
-    },
-    {
       "Código": "262115GE025",
       "Título": "EL AULA DEL FUTURO PARA EL ÁMBITO LINGÜÍSTICO",
       "CEP": "21200013 - CEP Huelva - Isla Cristina",
@@ -3649,18 +3649,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE063/"
-    },
-    {
-      "Código": "26401GE075",
-      "Título": "HACIENDO MÚSICA CON MATERIALES COTIDIANOS: CREATIVIDAD Y SOSTENIBILIDAD EN EL AULA",
-      "CEP": "04200019 - CEP Almería",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "13/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26401GE075/"
     },
     {
       "Código": "26401GE076",
