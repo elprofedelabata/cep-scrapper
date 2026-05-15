@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-15T19:14:41.325190+00:00",
+  "generado": "2026-05-15T22:43:10.513301+00:00",
   "total": 332,
   "actividades": [
     {
@@ -2295,18 +2295,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/"
     },
     {
-      "Código": "264132WPF420",
-      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL A1",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "19/05/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132WPF420/"
-    },
-    {
       "Código": "269933FP012",
       "Título": "CERRANDO EL CIRCUITO: I ENCUENTRO DE INNOVACIÓN ENTRE EMPRESAS Y DOCENTES DE FP (FAMILIA PROFESIONAL DE ELECTRICIDAD-ELECTRÓNICA)",
       "CEP": "29020723 - CEP para la Innovación en Formación Profesional",
@@ -2449,6 +2437,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
+    },
+    {
+      "Código": "264132WPF420",
+      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL A1",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "19/05/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132WPF420/"
     },
     {
       "Código": "269922QPF013",
