@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Marbella - Coín</description>
     <language>es</language>
-    <lastBuildDate>Fri, 15 May 2026 05:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:37:22 +0000</lastBuildDate>
     <item>
       <title>262923GE555 — FORMACIÓN EQUIPO TÉCNICO DE FORMACIÓN CEP MARBELLA-COÍN CURSO 25-26</title>
       <description>29200026 - CEP Marbella - Coín | Curso | 21/01/2026 → 12/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -35,13 +35,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>269923KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
-      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/</link>
-      <guid isPermaLink="false">269923KPF616</guid>
-      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
-    </item>
-    <item>
       <title>262923FP161 — TECNIFICACIÓN EN PROGRESIÓN, GUIAJE Y SEGURIDAD DE BARRANCOS ACUÁTICOS Y VÍAS FERRATAS</title>
       <description>29200026 - CEP Marbella - Coín | Curso | 08/05/2026 → 18/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923FP161/</link>
@@ -54,6 +47,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923FP162/</link>
       <guid isPermaLink="false">262923FP162</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>269923KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
+      <description>29200026 - CEP Marbella - Coín | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269923KPF616/</link>
+      <guid isPermaLink="false">269923KPF616</guid>
+      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

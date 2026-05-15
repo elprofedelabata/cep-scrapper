@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Guadix</description>
     <language>es</language>
-    <lastBuildDate>Fri, 15 May 2026 05:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:37:22 +0000</lastBuildDate>
     <item>
       <title>261813GE043 — DETECCIÓN E INTERVENCIÓN DEL TRASTORNO DEL ESPECTRO AUTISTA (TEA)</title>
       <description>18200031 - CEP Guadix | Curso Semipresencial | 19/05/2026 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -26,13 +26,6 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE045/</link>
       <guid isPermaLink="false">261813GE045</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>269913KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
-      <description>18200031 - CEP Guadix | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269913KPF616/</link>
-      <guid isPermaLink="false">269913KPF616</guid>
-      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
     <item>
       <title>261813CTD032 — CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS</title>
@@ -138,6 +131,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE044/</link>
       <guid isPermaLink="false">261813GE044</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>269913KPF616 — INTRODUCCIÓN A LA INTELIGENCIA ARTIFICIAL CON COPILOT</title>
+      <description>18200031 - CEP Guadix | Curso a Distancia | 18/05/2026 → 19/06/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/269913KPF616/</link>
+      <guid isPermaLink="false">269913KPF616</guid>
+      <pubDate>Thu, 30 Apr 2026 22:32:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
