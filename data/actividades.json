@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-16T07:47:16.513165+00:00",
+  "generado": "2026-05-16T10:53:43.050786+00:00",
   "total": 332,
   "actividades": [
     {
@@ -2175,18 +2175,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320FP003/"
     },
     {
-      "Código": "262320GE059",
-      "Título": "LABORATORIO DE CREACIÓN LITERARIA",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Otros",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "20/05/2026",
-      "Fin": "27/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE059/"
-    },
-    {
       "Código": "262321GE028",
       "Título": "LOS BOLOS SERRANOS COMO RECURSO EDUCATIVO CONTEXTUALIZADO",
       "CEP": "23200041 - CEP Orcera",
@@ -2379,6 +2367,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
     },
     {
+      "Código": "262320GE059",
+      "Título": "LABORATORIO DE CREACIÓN LITERARIA",
+      "CEP": "23200031 - CEP Úbeda",
+      "Modalidad": "Otros",
+      "Estado": "Finalizado plazo solicitudes",
+      "Inicio": "20/05/2026",
+      "Fin": "27/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE059/"
+    },
+    {
       "Código": "262922GE166",
       "Título": "COMPOSICIONES FLORALES ATADAS Y EN BASES: EL ESTILO CLÁSICO Y ACTUAL",
       "CEP": "29200014 - CEP Málaga",
@@ -2427,18 +2427,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP038/"
     },
     {
-      "Código": "264132WPF420",
-      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL A1",
-      "CEP": "41200066 - CEP Lora del Río",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "19/05/2026",
-      "Fin": "19/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132WPF420/"
-    },
-    {
       "Código": "269922QPF013",
       "Título": "PROCESO DE ADMISIÓN ENSEÑANZAS DE RÉGIMEN GENERAL (2º CICLO DE E. INFANTIL A BACHILLERATO Y EDUCACIÓN ESPECIAL) ORIENTAL",
       "CEP": "29200014 - CEP Málaga",
@@ -2485,18 +2473,6 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP013/"
-    },
-    {
-      "Código": "261106FEDAP010",
-      "Título": "IX JORNADA DE BUENAS PRÁCTICAS CENTROS EDUCATIVOS SIERRA DE CÁDIZ",
-      "CEP": "11200035 - CEP Villamartín",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "19/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261106FEDAP010/"
     },
     {
       "Código": "262115GE027",
@@ -2595,6 +2571,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127PRI029/"
     },
     {
+      "Código": "264132WPF420",
+      "Título": "COMPETENCIA DIGITAL DOCENTE NIVEL A1",
+      "CEP": "41200066 - CEP Lora del Río",
+      "Modalidad": "Curso a Distancia",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "19/05/2026",
+      "Fin": "19/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264132WPF420/"
+    },
+    {
       "Código": "261104FEDAP062",
       "Título": "INICIACIÓN A LA MARCHA NÓRDICA EN EL ÁREA DE EDUCACIÓN FÍSICA",
       "CEP": "11200011 - CEP Cádiz",
@@ -2653,6 +2641,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261105CTD110/"
+    },
+    {
+      "Código": "261106FEDAP010",
+      "Título": "IX JORNADA DE BUENAS PRÁCTICAS CENTROS EDUCATIVOS SIERRA DE CÁDIZ",
+      "CEP": "11200035 - CEP Villamartín",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "19/05/2026",
+      "Fin": "19/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261106FEDAP010/"
     },
     {
       "Código": "261107CTD090",
