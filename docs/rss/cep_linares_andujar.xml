@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Linares - Andújar</description>
     <language>es</language>
-    <lastBuildDate>Sun, 17 May 2026 18:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 22:42:08 +0000</lastBuildDate>
     <item>
       <title>262319CTD096 — CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS</title>
       <description>23200028 - CEP Linares - Andújar | Curso a Distancia | 13/01/2026 → 20/02/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -126,13 +126,6 @@
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>262319GE040 — APLICACIÓN DIDÁCTICA DEL PATRIMONIO HISTÓRICO Y CULTURAL DE LA PROVINCIA DE JAÉN</title>
-      <description>23200028 - CEP Linares - Andújar | Curso | 19/05/2026 → 26/05/2026 | Dirigido a: Internivelar | Estado: Abierto plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE040/</link>
-      <guid isPermaLink="false">262319GE040</guid>
-      <pubDate>Tue, 05 May 2026 11:09:47 +0000</pubDate>
-    </item>
-    <item>
       <title>262319GE043 — LA MÚSICA DE CINE: TÉCNICAS ARMÓNICAS Y NARRATIVA MUSICAL</title>
       <description>23200028 - CEP Linares - Andújar | Curso Semipresencial | 25/05/2026 → 27/05/2026 | Dirigido a: Enseñanzas de regimen especial | Estado: Abierto plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE043/</link>
@@ -145,6 +138,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE046/</link>
       <guid isPermaLink="false">262319GE046</guid>
       <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>262319GE040 — APLICACIÓN DIDÁCTICA DEL PATRIMONIO HISTÓRICO Y CULTURAL DE LA PROVINCIA DE JAÉN</title>
+      <description>23200028 - CEP Linares - Andújar | Curso | 19/05/2026 → 26/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE040/</link>
+      <guid isPermaLink="false">262319GE040</guid>
+      <pubDate>Tue, 05 May 2026 11:09:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
