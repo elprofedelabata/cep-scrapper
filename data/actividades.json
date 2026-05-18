@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-18T16:43:09.143859+00:00",
-  "total": 337,
+  "generado": "2026-05-18T19:22:19.538984+00:00",
+  "total": 335,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -2787,18 +2787,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FP009/"
     },
     {
-      "Código": "261410GE051",
-      "Título": "USO EDUCATIVO DE LA INTELIGENCIA ARTIFICIAL: INTRODUCCIÓN A SU USO EN EL DÍA A DÍA DOCENTE",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "05/05/2026",
-      "Fin": "18/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GE051/"
-    },
-    {
       "Código": "261811GE010",
       "Título": "IA GENERATIVA: ESTRATEGIAS AVANZADAS  CON GEMINI Y NOTEBOOKLM PARA LA GESTIÓN EDUCATIVA",
       "CEP": "18200016 - CEP Granada",
@@ -3397,18 +3385,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE129/"
-    },
-    {
-      "Código": "262320GE041",
-      "Título": "INVESTIGACIÓN-ACCIÓN EN EL LABORATORIO DE CIENCIAS",
-      "CEP": "23200031 - CEP Úbeda",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "18/05/2026",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Educación secundaria obligatoria",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262320GE041/"
     },
     {
       "Código": "262320GE054",
