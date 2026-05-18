@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-18T19:22:19.538984+00:00",
-  "total": 335,
+  "generado": "2026-05-18T22:46:07.038828+00:00",
+  "total": 334,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1983,18 +1983,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE132/"
     },
     {
-      "Código": "262319GE023",
-      "Título": "CONVIVENCIA Y DIVERSIDAD DE GÉNERO",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "20/05/2026",
-      "Fin": "20/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE023/"
-    },
-    {
       "Código": "262319GE027",
       "Título": "TECNIFICACIÓN EN PROGRESIÓN Y GUIAJE EN BARRANCOS",
       "CEP": "23200028 - CEP Linares - Andújar",
@@ -2461,18 +2449,6 @@
       "Dirigido a": "Orientación educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE109/"
-    },
-    {
-      "Código": "262319GE040",
-      "Título": "APLICACIÓN DIDÁCTICA DEL PATRIMONIO HISTÓRICO Y CULTURAL DE LA PROVINCIA DE JAÉN",
-      "CEP": "23200028 - CEP Linares - Andújar",
-      "Modalidad": "Curso",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "19/05/2026",
-      "Fin": "26/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE040/"
     },
     {
       "Código": "262922GE166",
@@ -3385,6 +3361,18 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE129/"
+    },
+    {
+      "Código": "262319GE040",
+      "Título": "APLICACIÓN DIDÁCTICA DEL PATRIMONIO HISTÓRICO Y CULTURAL DE LA PROVINCIA DE JAÉN",
+      "CEP": "23200028 - CEP Linares - Andújar",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "19/05/2026",
+      "Fin": "26/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262319GE040/"
     },
     {
       "Código": "262320GE054",
