@@ -5,7 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Todas las actividades formativas de los CEP de Andalucía</description>
     <language>es</language>
-    <lastBuildDate>Sun, 17 May 2026 22:42:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:03:02 +0000</lastBuildDate>
     <item>
       <title>261104FC044 — C.E.I.P JOSEFINA PASCUAL SE VA DE ESTRENO</title>
       <description>11200011 - CEP Cádiz | Formación en centros | 11/10/2025 → 31/05/2026 | Dirigido a: Educación primaria | Estado: En proyecto</description>
@@ -1337,13 +1337,6 @@
       <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
     </item>
     <item>
-      <title>261811GE129 — BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES</title>
-      <description>18200016 - CEP Granada | Curso Semipresencial | 19/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE129/</link>
-      <guid isPermaLink="false">261811GE129</guid>
-      <pubDate>Wed, 06 May 2026 11:43:08 +0000</pubDate>
-    </item>
-    <item>
       <title>262318GE105 — RED  PROFESIONAL DE PT</title>
       <description>23200016 - CEP Jaén | Curso | 21/01/2026 → 20/05/2026 | Dirigido a: Internivelar | Estado: Finalizado plazo solicitudes</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262318GE105/</link>
@@ -1421,13 +1414,6 @@
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
     </item>
     <item>
-      <title>261104FEDAP070 — JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE</title>
-      <description>11200011 - CEP Cádiz | Curso | 21/05/2026 → 21/05/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/</link>
-      <guid isPermaLink="false">261104FEDAP070</guid>
-      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
-    </item>
-    <item>
       <title>261104MDFP013 — ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD</title>
       <description>11200011 - CEP Cádiz | Curso Semipresencial | 21/05/2026 → 31/05/2026 | Dirigido a: Form. profesional y art. plast. y diseño | Estado: Publicadas Listas Provisionales</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP013/</link>
@@ -1503,6 +1489,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP065/</link>
       <guid isPermaLink="false">261104FEDAP065</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261104FEDAP070 — JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE</title>
+      <description>11200011 - CEP Cádiz | Curso | 21/05/2026 → 21/05/2026 | Dirigido a: Educación Permanente | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/</link>
+      <guid isPermaLink="false">261104FEDAP070</guid>
+      <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
     </item>
     <item>
       <title>261104MDFP011 — ACTUALIZACIÓN CONTABLE Y FISCAL: IVA, IRPF, IS, VERIFACTU</title>
@@ -1601,6 +1594,13 @@
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/</link>
       <guid isPermaLink="false">261811GE085</guid>
       <pubDate>Wed, 29 Apr 2026 23:29:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>261811GE129 — BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES</title>
+      <description>18200016 - CEP Granada | Curso Semipresencial | 19/05/2026 → 19/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE129/</link>
+      <guid isPermaLink="false">261811GE129</guid>
+      <pubDate>Wed, 06 May 2026 11:43:08 +0000</pubDate>
     </item>
     <item>
       <title>261812CTD051 — CAPACITACIÓN TÉCNICA: AULAS DIGITALES INTERACTIVAS</title>

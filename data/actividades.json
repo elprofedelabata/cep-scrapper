@@ -1,5 +1,5 @@
 {
-  "generado": "2026-05-17T22:42:07.820724+00:00",
+  "generado": "2026-05-18T06:03:01.951073+00:00",
   "total": 328,
   "actividades": [
     {
@@ -2283,18 +2283,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE092/"
     },
     {
-      "Código": "261811GE129",
-      "Título": "BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES",
-      "CEP": "18200016 - CEP Granada",
-      "Modalidad": "Curso Semipresencial",
-      "Estado": "Finalizado plazo solicitudes",
-      "Inicio": "19/05/2026",
-      "Fin": "19/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE129/"
-    },
-    {
       "Código": "262318GE105",
       "Título": "RED  PROFESIONAL DE PT",
       "CEP": "23200016 - CEP Jaén",
@@ -2427,18 +2415,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
     },
     {
-      "Código": "261104FEDAP070",
-      "Título": "JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "21/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/"
-    },
-    {
       "Código": "261104MDFP013",
       "Título": "ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD",
       "CEP": "11200011 - CEP Cádiz",
@@ -2569,6 +2545,18 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP065/"
+    },
+    {
+      "Código": "261104FEDAP070",
+      "Título": "JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/05/2026",
+      "Fin": "21/05/2026",
+      "Dirigido a": "Educación Permanente",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/"
     },
     {
       "Código": "261104MDFP011",
@@ -2737,6 +2725,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE085/"
+    },
+    {
+      "Código": "261811GE129",
+      "Título": "BIBLIOTECAS DEL FUTURO: MAGIA, RETOS Y ACCIÓN. JORNADA BIBLIOTECAS ESCOLARES",
+      "CEP": "18200016 - CEP Granada",
+      "Modalidad": "Curso Semipresencial",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "19/05/2026",
+      "Fin": "19/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261811GE129/"
     },
     {
       "Código": "261812CTD051",
