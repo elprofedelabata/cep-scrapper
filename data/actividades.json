@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-19T12:33:59.917137+00:00",
-  "total": 330,
+  "generado": "2026-05-19T16:44:01.102387+00:00",
+  "total": 327,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -565,18 +565,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GT096/"
-    },
-    {
-      "Código": "261813GE047",
-      "Título": "DISEÑO Y GESTIÓN DE EXPOSICIONES",
-      "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "26/05/2026",
-      "Fin": "01/06/2026",
-      "Dirigido a": "Enseñanzas de regimen especial",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE047/"
     },
     {
       "Código": "261814FC010",
@@ -1801,18 +1789,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE091/"
-    },
-    {
-      "Código": "261812GE112",
-      "Título": "CAJAS DE CAMBIOS AUTOMÁTICAS Y MOTORES MARINOS",
-      "CEP": "18200028 - CEP Motril",
-      "Modalidad": "Curso",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "29/04/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261812GE112/"
     },
     {
       "Código": "261812GE114",
@@ -3183,16 +3159,16 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE036/"
     },
     {
-      "Código": "261813GE044",
-      "Título": "MAPAS GEOLÓGICOS: DESCUBRE EL POTENCIAL DIDÁCTICO DE MAGNA Y GEODE",
+      "Código": "261813GE047",
+      "Título": "DISEÑO Y GESTIÓN DE EXPOSICIONES",
       "CEP": "18200031 - CEP Guadix",
-      "Modalidad": "Curso Semipresencial",
+      "Modalidad": "Curso",
       "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "11/05/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Internivelar",
+      "Inicio": "26/05/2026",
+      "Fin": "01/06/2026",
+      "Dirigido a": "Enseñanzas de regimen especial",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE044/"
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261813GE047/"
     },
     {
       "Código": "261814GE013",
@@ -3241,18 +3217,6 @@
       "Dirigido a": "Equipos directivos",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE001/"
-    },
-    {
-      "Código": "262116GE154",
-      "Título": "FP BÁSICA, GESTIÓN DEL AULA. NUEVA AUTORIDAD",
-      "CEP": "21200025 - CEP Bollullos - Valverde",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "04/05/2026",
-      "Fin": "22/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262116GE154/"
     },
     {
       "Código": "262116GE166",
