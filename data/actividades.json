@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-19T09:35:54.522807+00:00",
-  "total": 331,
+  "generado": "2026-05-19T12:33:59.917137+00:00",
+  "total": 330,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -1275,18 +1275,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GT003/"
     },
     {
-      "Código": "262923GE555",
-      "Título": "FORMACIÓN EQUIPO TÉCNICO DE FORMACIÓN CEP MARBELLA-COÍN CURSO 25-26",
-      "CEP": "29200026 - CEP Marbella - Coín",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "21/01/2026",
-      "Fin": "12/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE555/"
-    },
-    {
       "Código": "262923GT002",
       "Título": "FOMENTO DE LA LECTURA USANDO LAS TIC",
       "CEP": "29200026 - CEP Marbella - Coín",
@@ -1573,18 +1561,6 @@
       "Dirigido a": "Comunidad educativa",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128GT062/"
-    },
-    {
-      "Código": "264129FP10",
-      "Título": "BOLLERIA ARTESANAL, HOJALDRES Y TENDENCIAS CREATIVAS",
-      "CEP": "41200030 - CEP Osuna - Écija",
-      "Modalidad": "Curso",
-      "Estado": "En proyecto",
-      "Inicio": "02/06/2026",
-      "Fin": "04/06/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129FP10/"
     },
     {
       "Código": "264130FC052",
@@ -2115,6 +2091,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264128FP043/"
     },
     {
+      "Código": "264129FP10",
+      "Título": "BOLLERIA ARTESANAL, HOJALDRES Y TENDENCIAS CREATIVAS",
+      "CEP": "41200030 - CEP Osuna - Écija",
+      "Modalidad": "Curso",
+      "Estado": "Abierto plazo solicitudes",
+      "Inicio": "02/06/2026",
+      "Fin": "04/06/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264129FP10/"
+    },
+    {
       "Código": "269901KPF609",
       "Título": "CTRL + ALT + FUTURO PARA COORDINADORAS Y COORDINADORES STEAM 4.0 (ED. INFANTIL Y ED. PRIMARIA)",
       "CEP": "04200019 - CEP Almería",
@@ -2463,18 +2451,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP011/"
     },
     {
-      "Código": "261104MDFP013",
-      "Título": "ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Otros",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "21/05/2026",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Form. profesional y art. plast. y diseño",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP013/"
-    },
-    {
       "Código": "261107FP005",
       "Título": "SOSTENIBILIDAD EN EL TRATAMIENTO Y RECUBRIMIENTO DE SUPERFICIES EN EL IES ALMADRABA",
       "CEP": "11200047 - CEP Algeciras - La Línea",
@@ -2617,6 +2593,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP011/"
+    },
+    {
+      "Código": "261104MDFP013",
+      "Título": "ENTRENAMIENTO EN LA GESTIÓN DE INCIDENTES DE CIBERSEGURIDAD",
+      "CEP": "11200011 - CEP Cádiz",
+      "Modalidad": "Otros",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/05/2026",
+      "Fin": "31/05/2026",
+      "Dirigido a": "Form. profesional y art. plast. y diseño",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104MDFP013/"
     },
     {
       "Código": "261105BE001",
@@ -3243,18 +3231,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE027/"
     },
     {
-      "Código": "262115GE069",
-      "Título": "I JORNADAS DE INCLUSIÓN EDUCATIVA Y ACCESIBILIDAD: DE EDUCACIÓN INFANTIL A LA UNIVERSIDAD",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Otros",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "12/05/2026",
-      "Fin": "14/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE069/"
-    },
-    {
       "Código": "262116GE001",
       "Título": "GESTIÓN ECONÓMICA Y ADMINISTRATIVA PARA SECRETARI@S NOVELES",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -3409,6 +3385,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE165/"
+    },
+    {
+      "Código": "262923GE555",
+      "Título": "FORMACIÓN EQUIPO TÉCNICO DE FORMACIÓN CEP MARBELLA-COÍN CURSO 25-26",
+      "CEP": "29200026 - CEP Marbella - Coín",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "21/01/2026",
+      "Fin": "29/05/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262923GE555/"
     },
     {
       "Código": "262924GE106",
