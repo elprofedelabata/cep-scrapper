@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-20T08:57:10.932514+00:00",
-  "total": 319,
+  "generado": "2026-05-20T12:14:42.718498+00:00",
+  "total": 313,
   "actividades": [
     {
       "Código": "261104FC044",
@@ -327,18 +327,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC041/"
     },
     {
-      "Código": "261410FC043",
-      "Título": "MÉTODO GLOBAL DE LECTOESCRITURA II",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Educación infantil",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410FC043/"
-    },
-    {
       "Código": "261410FC044",
       "Título": "NUEVAS TECNOLOGÍAS APLICADAS A LA ATENCIÓN A LA DIVERSIDAD",
       "CEP": "14200034 - CEP Priego - Montilla",
@@ -445,18 +433,6 @@
       "Dirigido a": "Educación Permanente",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT048/"
-    },
-    {
-      "Código": "261410GT054",
-      "Título": "SOMOS EMPRESA 2",
-      "CEP": "14200034 - CEP Priego - Montilla",
-      "Modalidad": "Grupos de trabajo",
-      "Estado": "En proyecto",
-      "Inicio": "01/11/2025",
-      "Fin": "31/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261410GT054/"
     },
     {
       "Código": "261410GT061",
@@ -637,30 +613,6 @@
       "Dirigido a": "Educación secundaria obligatoria",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261814GT030/"
-    },
-    {
-      "Código": "262115FC026",
-      "Título": "INCLUSIÓN Y TRANSFORMACIÓN DIGITAL: INNOVAR PARA APRENDER JUNTOS/AS",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "24/09/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115FC026/"
-    },
-    {
-      "Código": "262115FC028",
-      "Título": "LA MAGIA DE LAS MATEMÁTICAS",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Formación en centros",
-      "Estado": "En proyecto",
-      "Inicio": "24/09/2025",
-      "Fin": "29/05/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115FC028/"
     },
     {
       "Código": "262115FC039",
@@ -2019,18 +1971,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127AFP051/"
     },
     {
-      "Código": "264127ALI014",
-      "Título": "ESTRATEGIAS DE LIDERAZGO PARA DINAMIZAR LA AUTOFORMACIÓN DOCENTE: PRESENTACIÓN DE BUENAS PRÁCTICAS",
-      "CEP": "41200017 - CEP Sevilla",
-      "Modalidad": "Jornadas",
-      "Estado": "Abierto plazo solicitudes",
-      "Inicio": "27/05/2026",
-      "Fin": "02/06/2026",
-      "Dirigido a": "Internivelar",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI014/"
-    },
-    {
       "Código": "264128FP043",
       "Título": "DISEÑO E IMPRESIÓN 3D APLICADO AL AULA DE FP · INICIACIÓN",
       "CEP": "41200029 - CEP Castilleja de la Cuesta",
@@ -2427,18 +2367,6 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261107FP010/"
     },
     {
-      "Código": "262115GE063",
-      "Título": "HERRAMIENTAS INCLUSIVAS EN EL ALUMNADO. CENTROS CONCERTADOS",
-      "CEP": "21200013 - CEP Huelva - Isla Cristina",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Provisionales",
-      "Inicio": "27/05/2026",
-      "Fin": "28/05/2026",
-      "Dirigido a": "Comunidad educativa",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE063/"
-    },
-    {
       "Código": "262922GE161",
       "Título": "TECNOLOGÍA INVERTER PARA LA REPARACIÓN DE UNIDADES DE CLIMATIZACIÓN",
       "CEP": "29200014 - CEP Málaga",
@@ -2461,6 +2389,18 @@
       "Dirigido a": "Form. profesional y art. plast. y diseño",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262922GE168/"
+    },
+    {
+      "Código": "264127ALI014",
+      "Título": "ESTRATEGIAS DE LIDERAZGO PARA DINAMIZAR LA AUTOFORMACIÓN DOCENTE: PRESENTACIÓN DE BUENAS PRÁCTICAS",
+      "CEP": "41200017 - CEP Sevilla",
+      "Modalidad": "Jornadas",
+      "Estado": "Publicadas Listas Provisionales",
+      "Inicio": "27/05/2026",
+      "Fin": "02/06/2026",
+      "Dirigido a": "Internivelar",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/264127ALI014/"
     },
     {
       "Código": "264127ARE020",
@@ -2509,18 +2449,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP065/"
-    },
-    {
-      "Código": "261104FEDAP070",
-      "Título": "JORNADA PROVINCIAL DE ACTUALIZACIÓN, CONVIVENCIA Y BUENAS PRÁCTICAS EN EDUCACIÓN PERMANENTE",
-      "CEP": "11200011 - CEP Cádiz",
-      "Modalidad": "Curso",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "21/05/2026",
-      "Fin": "21/05/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/261104FEDAP070/"
     },
     {
       "Código": "261104MDFP011",
@@ -3159,6 +3087,18 @@
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE027/"
     },
     {
+      "Código": "262115GE063",
+      "Título": "HERRAMIENTAS INCLUSIVAS EN EL ALUMNADO. CENTROS CONCERTADOS",
+      "CEP": "21200013 - CEP Huelva - Isla Cristina",
+      "Modalidad": "Curso",
+      "Estado": "Publicadas Listas Definitivas",
+      "Inicio": "27/05/2026",
+      "Fin": "28/05/2026",
+      "Dirigido a": "Comunidad educativa",
+      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
+      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE063/"
+    },
+    {
       "Código": "262116GE001",
       "Título": "GESTIÓN ECONÓMICA Y ADMINISTRATIVA PARA SECRETARI@S NOVELES",
       "CEP": "21200025 - CEP Bollullos - Valverde",
@@ -3385,18 +3325,6 @@
       "Dirigido a": "Internivelar",
       "Opciones": "DetalleInscripciónAdmitidosEncuesta",
       "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE039/"
-    },
-    {
-      "Código": "26403GE041",
-      "Título": "PREVENCIÓN DEL ABANDONO EDUCATIVO EN EDUCACIÓN PERMANENTE",
-      "CEP": "04200032 - CEP Cuevas - Olula",
-      "Modalidad": "Curso a Distancia",
-      "Estado": "Publicadas Listas Definitivas",
-      "Inicio": "20/05/2026",
-      "Fin": "22/06/2026",
-      "Dirigido a": "Educación Permanente",
-      "Opciones": "DetalleInscripciónAdmitidosEncuesta",
-      "URL": "https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/26403GE041/"
     },
     {
       "Código": "264127AFP038",

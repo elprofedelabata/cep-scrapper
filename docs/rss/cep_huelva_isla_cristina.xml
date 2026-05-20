@@ -5,21 +5,7 @@
     <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/</link>
     <description>Actividades formativas del CEP Huelva - Isla Cristina</description>
     <language>es</language>
-    <lastBuildDate>Wed, 20 May 2026 08:57:11 +0000</lastBuildDate>
-    <item>
-      <title>262115FC026 — INCLUSIÓN Y TRANSFORMACIÓN DIGITAL: INNOVAR PARA APRENDER JUNTOS/AS</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Formación en centros | 24/09/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115FC026/</link>
-      <guid isPermaLink="false">262115FC026</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>262115FC028 — LA MAGIA DE LAS MATEMÁTICAS</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Formación en centros | 24/09/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115FC028/</link>
-      <guid isPermaLink="false">262115FC028</guid>
-      <pubDate>Wed, 29 Apr 2026 23:23:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 12:14:42 +0000</lastBuildDate>
     <item>
       <title>262115FC039 — MEJORA DEL CLIMA DEL AULA MEDIANTE LA INTELIGENCIA EMOCIONAL Y EL APRENDIZAJE BASADO EN JUEGOS. IMPLEMENTACIÓN DEL PROTOCOLO PARA LA RESOLUCIÓN DE CONFLICTOS Y DE AULA DE ESCUCHA</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Formación en centros | 01/10/2025 → 29/05/2026 | Dirigido a: Internivelar | Estado: En proyecto</description>
@@ -56,18 +42,18 @@
       <pubDate>Mon, 18 May 2026 12:59:24 +0000</pubDate>
     </item>
     <item>
-      <title>262115GE063 — HERRAMIENTAS INCLUSIVAS EN EL ALUMNADO. CENTROS CONCERTADOS</title>
-      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 27/05/2026 → 28/05/2026 | Dirigido a: Comunidad educativa | Estado: Publicadas Listas Provisionales</description>
-      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE063/</link>
-      <guid isPermaLink="false">262115GE063</guid>
-      <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
-    </item>
-    <item>
       <title>262115GE027 — JORNADA FINAL PROVINCIAL DE BIBLIOTECAS ESCOLARES</title>
       <description>21200013 - CEP Huelva - Isla Cristina | Jornadas | 28/05/2026 → 28/05/2026 | Dirigido a: Internivelar | Estado: Publicadas Listas Definitivas</description>
       <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE027/</link>
       <guid isPermaLink="false">262115GE027</guid>
       <pubDate>Wed, 29 Apr 2026 23:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>262115GE063 — HERRAMIENTAS INCLUSIVAS EN EL ALUMNADO. CENTROS CONCERTADOS</title>
+      <description>21200013 - CEP Huelva - Isla Cristina | Curso | 27/05/2026 → 28/05/2026 | Dirigido a: Comunidad educativa | Estado: Publicadas Listas Definitivas</description>
+      <link>https://secretariavirtual.juntadeandalucia.es/secretariavirtual/consultaCEP/actividad/262115GE063/</link>
+      <guid isPermaLink="false">262115GE063</guid>
+      <pubDate>Mon, 04 May 2026 15:54:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
